@@ -8,7 +8,7 @@ from markdownify import markdownify as md
 W = pathlib.Path.home()/"AppData/Local/Temp/italfuni_src"
 OUT = pathlib.Path.home()/"AppData/Local/Temp/italfuni_out"
 if OUT.exists(): shutil.rmtree(OUT)
-(OUT/"_servizi").mkdir(parents=True); (OUT/"_projects").mkdir(); (OUT/"assets/img/italfuni").mkdir(parents=True)
+(OUT/"_servizi").mkdir(parents=True); (OUT/"_projects").mkdir(); (OUT/"assets/img/servizi").mkdir(parents=True)
 
 SERVIZI = [  # (slug originale, titolo dal menu, in_home, descrizione breve se nota)
  ("impermeabilizzazione-su-fune","Impermeabilizzazione su fune",True,"Impermeabilizzazioni di lastre d’ardesia, terrazzi e tetti."),
@@ -36,11 +36,11 @@ def fix(t):
 def q(v):  # stringa YAML tra virgolette
     return '"' + v.replace("\\","\\\\").replace('"','\\"') + '"'
 def scarica(url, nome):
-    dest = OUT/"assets/img/italfuni"/nome
+    dest = OUT/"assets/img/servizi"/nome
     if not dest.exists():
         req = urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0"})
         dest.write_bytes(urllib.request.urlopen(req, timeout=60).read())
-    return "assets/img/italfuni/"+nome
+    return "assets/img/servizi/"+nome
 
 def corpo(slug, titolo):
     s = BeautifulSoup((W/f"p__servizi__{slug}.html").read_bytes(), "html.parser")
@@ -141,4 +141,4 @@ for slug,titolo,imp,url,nome,alt in PROG:
     corpo_p = '{%% include immagine.liquid src="%s" alt="%s" align="center" %%}\n\n' % (pth, alt) + "\n\n".join(righe) + "\n"
     (OUT/"_projects"/(slugpulito+".md")).write_bytes(("\n".join(fm)+"\n"+corpo_p).replace("\n","\r\n").encode("utf-8"))
     print("progetto", slugpulito, len(righe), "paragrafi,", pth)
-print(sorted((p.name, p.stat().st_size//1024) for p in (OUT/"assets/img/italfuni").iterdir()))
+print(sorted((p.name, p.stat().st_size//1024) for p in (OUT/"assets/img/servizi").iterdir()))
