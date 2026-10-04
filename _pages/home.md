@@ -17,8 +17,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-seo_title: "Lavori su fune a Roma e Lazio | Italfuni"
-seo_description: "Lavori edili su fune senza ponteggi: pulizia vetri e grondaie, tinteggiature, impermeabilizzazioni, canne fumarie e molto altro. Preventivo gratuito senza impegno, risparmio fino al 40%."
+seo_title: "Lavori su fune a Roma e Lazio | EdilExtreme"
+seo_description: "Lavori edili su fune senza ponteggi a Roma e nel Lazio: pulizia vetri e grondaie, tinteggiature, impermeabilizzazioni, balconi e facciate, tetti. Sopralluogo e preventivo gratuiti."
 ---
 
 <style>
@@ -76,11 +76,11 @@ html[data-theme="dark"] .prj-home-more a{border-color:rgba(255,255,255,.3)}
 <!-- ===== MARTE END (html) ===== -->
 <canvas id="rete-cv" aria-hidden="true"></canvas>
 
-## Lavori in quota su fune, senza ponteggi e con costi più bassi.
+## Lavori in quota su fune, senza ponteggi e con meno costi.
 
-Italfuni esegue lavori edili e di manutenzione su fune: pulizia vetri e grondaie, tinteggiature, impermeabilizzazioni, ristrutturazioni di balconi, facciate e tetti, canne fumarie e rimozione di materiale pericolante. Le tecniche derivano da speleologia e alpinismo e permettono di raggiungere punti altrimenti inaccessibili.
+EdilExtreme porta in alto operatori formati per lavori edili e di manutenzione: pulizia di vetri e grondaie, tinteggiature, impermeabilizzazioni, ripristino di balconi, facciate e tetti, canne fumarie e rimozione di materiale pericolante. L'accesso su fune, nato dalla speleologia e dall'alpinismo, arriva dove un ponteggio non entra o costerebbe troppo.
 
-Evitare ponteggi, piattaforme aeree e permessi comunali rende l'intervento più rapido e fa risparmiare fino al 40%. Sopralluogo e preventivo sono gratuiti e senza impegno.
+Evitare ponteggi e piattaforme aeree accorcia i tempi, riduce il disagio per chi abita e lavora nell'edificio e alleggerisce il budget. Lavoriamo a Roma, Latina, Rieti, Viterbo e Frosinone. Sopralluogo e preventivo sono gratuiti e senza impegno.
 
 **Hai bisogno di un intervento in quota?** Richiedi un preventivo gratuito: ti rispondiamo con una soluzione su misura.
 

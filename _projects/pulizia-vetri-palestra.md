@@ -1,16 +1,18 @@
 ---
 layout: page
-title: "Pulizia vetrate palazzo"
-description: "Per noi le altezze sono un gioco da ragazzi, in meno di tre giorni siamo riusciti a pulire e lucidare una facciata in vetro della palestra “Il sole” situata…"
+title: "Pulizia vetrate di edifici alti"
+description: "Facciate in vetro di palazzi e centri sportivi pulite e lucidate su fune, senza ponteggi né piattaforme aeree, con tempi di cantiere ridotti."
 img: assets/img/italfuni/pulizia-vetri-su-fune-1200x630.jpg
 importance: 1
 category: Lavori
 in_home: true
-seo_description: "La pulizia delle vetrate di palazzi o grattacieli è il nostro forte: specializzati con tecniche alpinistiche Italfuni è in grado di pulire ogni angolo esterno del palazzo senza l'utilizzo di macchinari o installazioni di impalcature capaci di essere operativi in poche ore."
+seo_description: "Pulizia di vetrate e facciate continue di palazzi e centri sportivi con tecniche su fune: niente ponteggi, intervento rapido e finitura senza aloni."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-su-fune-1200x630.jpg" alt="Pulizia vetrate palestra su fune" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-su-fune-1200x630.jpg" alt="Operatore su fune pulisce una facciata in vetro" align="center" %}
 
-Per noi le altezze sono un gioco da ragazzi, in meno di tre giorni siamo riusciti a pulire e lucidare una facciata in vetro della palestra “Il sole” situata alle porte di Roma ripristinando cosi l’estetica dell’edificio.
+Le grandi superfici in vetro di palestre, uffici e condomini si sporcano in fretta: polvere, smog, pioggia e sole lasciano aloni che spengono l'aspetto dell'edificio. Pulirle da terra non basta e montare una piattaforma aerea o un ponteggio costa più del lavoro stesso.
 
-Uno dei principali vantaggi è la tempestiva operatività, in meno di mezzora i nostri operatori sono già alle prese con la pulizia delle vetrate senza l’installazione di costosi ponteggi o piattaforme aeree  ma utilizzando soltanto corde e funi.
+Con l'accesso su fune gli operatori **EdilExtreme** lavorano **per campate verticali**, lavando e asciugando ogni vetrata, telaio e davanzale con attrezzi professionali. La squadra si organizza in poco tempo e l'intero fronte può essere pulito in pochi giorni, a seconda delle dimensioni.
+
+Il risultato è una facciata trasparente e uniforme, senza segni di acqua e con meno disagio per chi lavora all'interno. Per i dettagli vedi la pagina sulla [pulizia dei vetri su fune]({{ '/servizi/pulizia-vetri/' | relative_url }}).
