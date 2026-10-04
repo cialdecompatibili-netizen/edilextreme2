@@ -3,7 +3,7 @@ layout: page
 title: chi siamo
 nav: false
 permalink: /chi-siamo/
-description: Web agency a Roma dal 2013. Strategia, siti, e-commerce, campagne e applicativi su misura.
+description: EdilExtreme: lavori in quota su fune nel Lazio. Pulizia, manutenzione, ristrutturazione e messa in sicurezza di tetti e facciate a Roma, Latina, Rieti, Viterbo e Frosinone.
 ---
 
 <style>
@@ -41,8 +41,9 @@ html[data-theme="dark"] .cs-num div,html[data-theme="dark"] .cs-card,html[data-t
 
 <div class="cs-hero">
   <span class="cs-eyebrow">Chi siamo</span>
-  <h2>Trasformiamo idee e obiettivi di business in piattaforme digitali che funzionano.</h2>
-  <p>Siamo una web agency di Roma e lavoriamo dal 2013 con imprenditori, start up, grandi aziende e Pubblica Amministrazione. Non vendiamo pacchetti preconfezionati: partiamo dal tuo business, capiamo dove vuoi arrivare e costruiamo il percorso più concreto per arrivarci.</p>
+  <h2>Arriviamo dove i ponteggi non servono: lavori in quota, in sicurezza, senza impalcature.</h2>
+  <p><b>EdilExtreme</b> è una squadra di operatori che lavora in quota con la tecnica dell'accesso su fune. Interveniamo su tetti, facciate, grondaie, vetrate e coperture in tutto il Lazio, per condomini, aziende e privati che vogliono un lavoro fatto bene senza il costo e l'ingombro di un ponteggio.</p>
+  <p>Ogni intervento parte da un sopralluogo e da un preventivo chiaro. Poi lavoriamo con attrezzature controllate, doppia fune e procedure di sicurezza definite prima di salire.</p>
   <div class="cs-cta">
 <a class="cs-btn pri" href="{{ '/contatti/' | relative_url }}">Richiedi un preventivo</a>
 <a class="cs-btn" href="{{ '/servizi/' | relative_url }}">Scopri i servizi</a>
@@ -50,59 +51,58 @@ html[data-theme="dark"] .cs-num div,html[data-theme="dark"] .cs-card,html[data-t
 </div>
 
 <div class="cs-num">
-  <div><b>Dal 2013</b><small>a Roma, sul campo</small></div>
-  <div><b>24 ore</b><small>per la nostra risposta*</small></div>
-  <div><b>1° incontro</b><small>di consulenza gratuito</small></div>
-  <div><b>Privato e PA</b><small>esperienza con entrambi</small></div>
+  <div><b>5 province</b><small>Roma, Latina, Rieti, Viterbo, Frosinone</small></div>
+  <div><b>Doppia fune</b><small>di lavoro e di sicurezza, sempre</small></div>
+  <div><b>Sopralluogo</b><small>e preventivo senza impegno</small></div>
+  <div><b>Senza ponteggi</b><small>meno tempi, meno costi, meno disagi</small></div>
 </div>
-<p class="cs-nota">*Festivi esclusi.</p>
 
 <div class="cs-sec">
   <h2>Come lavoriamo</h2>
-  <p class="cs-sub">Un unico gruppo di professionisti segue il progetto dall'inizio alla fine, così niente passaggi di mano e niente messaggi che si perdono.</p>
+  <p class="cs-sub">Un metodo semplice e sempre uguale, perché in quota non si improvvisa.</p>
   <div class="cs-grid">
-    <div class="cs-card cs-step"><i>01</i><b>Ascolto e analisi</b><p>Studiamo attività, mercato e concorrenti. Definiamo insieme gli obiettivi e come misurarli.</p></div>
-    <div class="cs-card cs-step"><i>02</i><b>Strategia</b><p>Traduciamo l'analisi in un piano chiaro: priorità, tempi, budget e canali giusti per te.</p></div>
-    <div class="cs-card cs-step"><i>03</i><b>Progetto e sviluppo</b><p>Design, contenuti e tecnologia prendono forma: siti, e-commerce, campagne e applicativi su misura.</p></div>
-    <div class="cs-card cs-step"><i>04</i><b>Misura e migliora</b><p>Guardiamo i numeri, non le impressioni. Ottimizziamo nel tempo per far crescere i risultati.</p></div>
+    <div class="cs-card cs-step"><i>01</i><b>Sopralluogo</b><p>Guardiamo il punto da raggiungere, valutiamo altezza, materiali, vento e accessi, e stabiliamo cosa serve davvero.</p></div>
+    <div class="cs-card cs-step"><i>02</i><b>Preventivo e piano</b><p>Ricevi un preventivo chiaro e, dove richiesto, un piano operativo di sicurezza secondo il D.Lgs. 81/2008.</p></div>
+    <div class="cs-card cs-step"><i>03</i><b>Intervento su fune</b><p>Gli operatori salgono con doppia fune, imbracature e dispositivi controllati, con l'area sottostante delimitata.</p></div>
+    <div class="cs-card cs-step"><i>04</i><b>Consegna e foto</b><p>A lavoro finito ti lasciamo un report fotografico, utile per amministratori, condomini e archivio.</p></div>
   </div>
 </div>
 
 <div class="cs-sec">
   <h2>Cosa facciamo</h2>
-  <p class="cs-sub">Tutto ciò che serve per essere trovati, scelti e ricordati online.</p>
+  <p class="cs-sub">Dalla manutenzione ordinaria alle emergenze, tutto ciò che si fa in alto.</p>
   <div class="cs-grid">
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Siti e piattaforme</b><p>Siti aziendali, portali e applicativi sviluppati sulle esigenze reali del tuo business.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>E-commerce</b><p>Negozi online pensati per vendere, dalla scelta della piattaforma alla crescita.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Web marketing</b><p>SEO, campagne e social per portare le persone giuste sul tuo sito.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Brand identity</b><p>Un'immagine coerente e riconoscibile, dal logo all'esperienza d'uso.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Comunicazione</b><p>Contenuti e messaggi che raccontano chi sei a chi conta davvero.</p></a>
-    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Consulenza</b><p>Analisi e strategia per decidere dove investire, prima di spendere.</p></a>
+    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Pulizia in quota</b><p>Vetrate, grondaie, pannelli fotovoltaici e componenti di facciata puliti senza ponteggi.</p></a>
+    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Tetti e coperture</b><p>Controlli, riparazioni, rifacimenti e impermeabilizzazioni, anche su coperture difficili.</p></a>
+    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Facciate e balconi</b><p>Ristrutturazione, ripristino dei frontalini e tinteggiature complete su fune.</p></a>
+    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Messa in sicurezza</b><p>Rimozione di materiale pericolante e installazione di sistemi anticaduta e linee vita.</p></a>
+    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Verde e alberi</b><p>Potatura di alberi alti o difficili da raggiungere, con il minimo impatto intorno.</p></a>
+    <a class="cs-card" href="{{ '/servizi/' | relative_url }}"><b>Impianti e isolanti</b><p>Canne fumarie, condizionatori, dissuasori per volatili e montaggio di isolanti termici.</p></a>
   </div>
 </div>
 
 <div class="cs-sec">
-  <h2>Perché scegliere noi</h2>
+  <h2>Perché scegliere EdilExtreme</h2>
   <div class="cs-grid c2">
-    <div class="cs-card"><b>Analisi su misura</b><p>Ogni progetto nasce dal tuo business e dai tuoi obiettivi, non da un modello standard.</p></div>
-    <div class="cs-card"><b>Creatività e concretezza</b><p>Idee che si vedono e numeri che si leggono: puntiamo a risultati misurabili.</p></div>
-    <div class="cs-card"><b>Un solo interlocutore</b><p>Dalla strategia al risultato, un team coordinato che risponde di tutto il progetto.</p></div>
-    <div class="cs-card"><b>Tempi di risposta certi</b><p>Ti rispondiamo entro 24 ore (festivi esclusi) e la prima consulenza è gratuita.</p></div>
+    <div class="cs-card"><b>Sicurezza prima di tutto</b><p>Procedure scritte, attrezzature verificate e operatori formati: non si sale se le condizioni non lo permettono.</p></div>
+    <div class="cs-card"><b>Meno costi e meno disagi</b><p>Niente montaggio di impalcature: i tempi si accorciano e la vita nell'edificio continua normalmente.</p></div>
+    <div class="cs-card"><b>Un lavoro che si vede</b><p>Interventi mirati, puliti e documentati con foto, perché tu possa verificare ciò che è stato fatto.</p></div>
+    <div class="cs-card"><b>Conosciamo il territorio</b><p>Lavoriamo in cinque province e adattiamo l'intervento al clima e agli edifici di ogni zona: salsedine, gelo, centri storici.</p></div>
   </div>
 </div>
 
 <div class="cs-sec">
   <h2>Per chi lavoriamo</h2>
   <div class="cs-grid">
-    <div class="cs-card"><b>Imprenditori e PMI</b><p>Portiamo online l'attività e la aiutiamo a crescere con strumenti che si ripagano.</p></div>
-    <div class="cs-card"><b>Start up</b><p>Dal lancio alla scalata: piattaforme flessibili e una comunicazione che parte col piede giusto.</p></div>
-    <div class="cs-card"><b>Grandi aziende e PA</b><p>Progetti strutturati, processi chiari e attenzione a requisiti e continuità.</p></div>
+    <div class="cs-card"><b>Condomini e amministratori</b><p>Manutenzioni programmate, interventi urgenti e documentazione chiara per le assemblee.</p></div>
+    <div class="cs-card"><b>Aziende e capannoni</b><p>Coperture, vetrate, impianti e verifiche periodiche senza fermare l'attività.</p></div>
+    <div class="cs-card"><b>Privati ed enti</b><p>Ville, edifici storici, scuole e strutture pubbliche, con il rispetto che ogni edificio richiede.</p></div>
   </div>
 </div>
 
 <div class="cs-final">
-  <h2>Vuoi far crescere il tuo business?</h2>
-  <p>Raccontaci di cosa hai bisogno: costruiamo insieme la soluzione giusta per te. La prima consulenza è gratuita.</p>
+  <h2>Hai un lavoro in quota da fare?</h2>
+  <p>Descrivici il problema e mandaci qualche foto: ti diciamo come intervenire e quanto costa. Sopralluogo e preventivo sono senza impegno.</p>
   <div class="cs-cta">
 <a class="cs-btn pri" href="{{ '/contatti/' | relative_url }}">Richiedi un preventivo</a>
 <a class="cs-btn" href="{{ '/servizi/' | relative_url }}">Scopri i servizi</a>
