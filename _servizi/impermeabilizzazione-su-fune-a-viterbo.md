@@ -1,32 +1,46 @@
 ---
 layout: servizio
 title: "Impermeabilizzazione su fune a Viterbo"
-description: "Le infiltrazioni di acqua rappresentano una delle cause principali del deterioramento degli edifici nel tempo."
+description: "Impermeabilizzazione di terrazzi, cornicioni e coperture a Viterbo e nella Tuscia, anche su edifici in tufo e pietra, con accesso su fune."
 gruppo: "Viterbo e provincia"
-seo_title: "Impermeabilizzazione su fune a Viterbo - Italfuni"
-seo_description: "Le infiltrazioni di acqua rappresentano una delle cause principali del deterioramento degli edifici nel tempo. Per evitare danni strutturali importanti è meglio intervenire ai primi segni di crepe o fessure. Assume dunque un’importanza primordiale l’impermeabilizzazione costante al fine di mantenere il tuo immobile sicuro da eventuali danni strutturali, ma non tutte le aree sono facilmente …"
+seo_title: "Impermeabilizzazione terrazzi e cornicioni a Viterbo su fune | EdilExtreme"
+seo_description: "Impermeabilizzazione di terrazzi, cornicioni e coperture a Viterbo e provincia, su edifici in tufo e pietra, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione.jpg" alt="Impermeabilizzazione su fune a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione.jpg" alt="Impermeabilizzazione di una copertura nella Tuscia" align="center" %}
 
-Le infiltrazioni di acqua rappresentano una delle cause principali del deterioramento degli edifici nel tempo.
+A Viterbo e nei borghi della Tuscia molti edifici sono in **tufo, peperino o pietra**, materiali porosi che assorbono l'acqua come una spugna. Un cornicione rotto, un balcone che perde o una terrazza con la guaina vecchia possono provocare macchie, muffe e sfaldamenti. **EdilExtreme** ripristina la tenuta con interventi su misura, rispettando la natura dell'edificio.
 
-Per evitare danni strutturali importanti è meglio intervenire ai primi segni di crepe o fessure.
+## Dove interveniamo
 
-Assume dunque un’importanza primordiale l’impermeabilizzazione costante al fine di mantenere il tuo immobile sicuro da eventuali danni strutturali, ma non tutte le aree sono facilmente accessibili da terra, e allora chi affidarsi se non a Italfuni?
+- **Terrazze e balconi** su vicoli, piazze e case di campagna;
+- **Cornicioni e gronde in pietra**, con riparazione e sigillatura;
+- **Tetti piani e coperture miste** di edifici ristrutturati;
+- **Annessi agricoli** come magazzini, cantine e fienili;
+- **Muri a contatto con il terreno** nei piani bassi.
 
-Italfuni, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di impermeabilizzazione in tutta Viterbo e provincia.
+## Edifici in pietra: servono cautela e traspirabilità
 
-Grazie al lavoro su funi, gli esperti di Italfuni riescono ad operare a qualsiasi altezza, in totale sicurezza, garantendo un lavoro di qualità, rispettando i tempi e permettendo al cliente di **risparmiare** notevolmente sul costo di ponteggi e impalcature.
+Su un muro antico non si applica un prodotto qualsiasi: una barriera troppo chiusa blocca l'umidità dentro la muratura e peggiora i danni. Per le pareti in tufo e pietra scegliamo trattamenti **traspiranti**, che respingono l'acqua senza intrappolare il vapore. Per terrazze e coperture, invece, usiamo guaine e resine ad alta tenuta, curando i raccordi con le murature.
 
-Le impermeabilizzazione sono lavori spesso complessi e costosi, finalizzati ad impedire il passaggio dell’acqua piovana negli strati sottostanti, che può compromettere la solidità della struttura e la capacità d’isolamento termico dell’abitazione. Con Italfuni puoi bloccare le infiltrazioni rapidamente grazie al lavoro su corde non prevede il montaggio di ponteggi o di altre strutture ingombranti e costose per il sollevamento del personale.
+## Prima di intervenire
 
-I nostri tecnici sono esperti e competenti, in possesso degli che permettono loro di accedere in sicurezza a zone più alte, per svolgere compiti complessi come l’impermeabilizzazione.
+Cerchiamo l'origine: un cornicione fessurato, un pluviale rotto, una pendenza insufficiente, un giunto aperto? Spesso l'acqua entra da un punto diverso da quello in cui si vede la macchia. Una diagnosi accurata evita lavori inutili e spese ripetute.
 
-A Viterbo e provincia, Italfuni opera nella gestione di tutti i tipi di riparazioni, che si tratti di una pulizia di routine o di rimozione di graffiti, ma anche compiti di verniciatura sia semplici che complessi.
+## Perché la fune
 
-L’inizio dei lavori sarà preceduto da un sopralluogo in cui verrà valutata la condizione dell’edificio e decidere come intervenire, ponendo così una scadenza e un budget.
+Nei vicoli del centro storico un ponteggio è un problema di spazio e di permessi. Con la fune lavoriamo su cornicioni e balconi senza occupare la strada e senza toccare le facciate, con operatori che si muovono con attrezzatura leggera.
 
-Italfuni offre prodotti di alta qualità, conoscenze specialistiche sul campo e una serie di servizi di rilevamento degli edifici, come la stesura di bozze, la registrazione fotografica e altro ancora.
+## Edifici vincolati
 
-*Non aspettare, un team di esperti è pronto ad operare in tutta Viterbo e provincia, richiedi un preventivo gratuito senza impegno! Italfuni è con te!*
+In aree storiche e su immobili tutelati alcuni interventi richiedono autorizzazioni. Ti indichiamo cosa verificare e come procedere, in modo che il lavoro sia in regola.
+
+## Sicurezza
+
+Doppia fune, operatori formati, area delimitata e ancoraggi scelti in base alla struttura, come richiede il D.Lgs. 81/2008.
+
+## Collegati
+
+Per tetti e canali: [manutenzione del tetto a Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}) e [grondaie a Viterbo]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}). Altre province: [Roma]({{ '/servizi/impermeabilizzazione-su-fune-a-roma/' | relative_url }}), [Latina]({{ '/servizi/impermeabilizzazione-su-fune-a-latina/' | relative_url }}), [Rieti]({{ '/servizi/impermeabilizzazione-su-fune-a-rieti/' | relative_url }}), [Frosinone]({{ '/servizi/impermeabilizzazione-su-fune-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto e indirizzo.

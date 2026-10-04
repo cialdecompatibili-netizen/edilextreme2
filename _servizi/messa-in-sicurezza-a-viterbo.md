@@ -1,36 +1,45 @@
 ---
 layout: servizio
-title: "Messa in sicurezza a Viterbo"
-description: "Italfuni è un’azienda specializzata nel campo dei servizi su corda a fune che opera a Viterbo e provincia."
+title: "Messa in sicurezza e accesso su fune a Viterbo"
+description: "Accesso su fune a Viterbo e nella Tuscia per edifici storici, torri, campanili e coperture difficili: operatori formati e piano di sicurezza."
 gruppo: "Viterbo e provincia"
-seo_title: "Messa in sicurezza a Viterbo - Italfuni"
-seo_description: "Italfuni è un’azienda specializzata nel campo dei servizi su corda a fune che opera a Viterbo e provincia. L’accesso su corda permette ai lavoratori di Italfuni di poter raggiungere qualsiasi punto e altezza, grazie all’assenza di ingombranti impalcature e pontili. La nostra società è leader nel mercato dei servizi su fune, che rappresenta un settore altamente …"
+seo_title: "Accesso su fune e sicurezza in quota a Viterbo | EdilExtreme"
+seo_description: "Accesso su fune a Viterbo e nella Tuscia per edifici storici, torri e coperture difficili: operatori formati, piano di sicurezza e procedure di soccorso. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Messa in sicurezza a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune lavora in quota a Viterbo" align="center" %}
 
-Italfuni è un’azienda specializzata nel campo dei servizi su **corda a fune** che opera a Viterbo e provincia.
+Il patrimonio edilizio della Tuscia è unico, ma complesso: **palazzi medievali, torri, campanili, mura, chiese, casali, ville storiche**. Lavorare in alto su strutture di questo tipo richiede delicatezza e rispetto. **EdilExtreme** usa l'accesso su fune perché permette di arrivare ovunque senza appoggiare strutture pesanti su murature antiche.
 
-L’accesso su corda permette ai lavoratori di Italfuni di poter raggiungere qualsiasi punto e altezza, grazie all’assenza di ingombranti impalcature e pontili.
+## Perché la fune sugli edifici storici
 
-La nostra società è leader nel mercato dei servizi su fune, che rappresenta un settore altamente specializzato; contiamo su **anni di esperienza** nel nostro team, grazie a procedure sviluppate appositamente al fine di garantire la sicurezza dei nostri lavoratori ogni qual volta svolgano un lavoro.
+- **Nessun carico sulle murature**: l'ancoraggio si sceglie in punti robusti, non sulle parti fragili;
+- **Meno ingombro nei vicoli**: nessun ponteggio che blocchi strade e piazze;
+- **Intervento mirato**: per ispezioni e piccoli lavori si evita di montare un'impalcatura intera;
+- **Rispetto delle facciate**: il contatto con l'edificio è minimo.
 
-La nostra metodologia di lavoro ci permette di abbassare i costi e di conseguenza di far risparmiare molto al cliente, senza togliere nulla alla qualità e professionalità che ci distingue.
+## Esempi di lavori
 
-Una volta che il problema dell’accesso è stato valutato e la soluzione è in atto, i nostri operatori vanno a posizionarsi nel punto esatto del lavoro svolgendo una vasta gamma di compiti, dalla fissazione del mastice al lavoro di pulizia.
+- **Ispezione di facciate, cornicioni e decorazioni** con foto ravvicinate;
+- **Rimozione di materiale instabile** da cornicioni e gronde;
+- **Pulizia di vetrate, rosoni e lucernari** di chiese e palazzi;
+- **Controllo e riparazione di coperture** a coppi e tegole;
+- **Rilievi** e supporto a restauratori e tecnici.
 
-Consideriamo di primaria importanza la documentazione sulla sicurezza (**piano operativo della sicurezza – D.lgs 81/08**) e l’attenzione ai dettagli. Al fine di garantire la sicurezza dei nostri lavoratori offriamo una formazione progettata proprio per consentire loro di praticare il lavoro in un ambiente sicuro e controllato.
+## Sicurezza: il metodo
 
-La nostra filosofia è quella di “completare il lavoro assegnato, dedicandoci la massima attenzione”; la soddisfazione del cliente è la nostra priorità.
+Ogni cantiere ha un **piano operativo di sicurezza** secondo il D.Lgs. 81/2008, con valutazione dei rischi del luogo. Usiamo **due funi indipendenti**, operatori formati per l'accesso su fune, dispositivi controllati e **procedure di soccorso** definite prima di iniziare. Nei vicoli e nelle piazze delimitiamo il passaggio e coordiniamo il lavoro con eventuali autorità locali.
 
-I principali motivi di soddisfazione dei clienti che scelgono Italfuni sono:
+## Permessi e rapporti con gli enti
 
-- Rispetto delle scadenza accordate
-- Grande esperienza
-- Prezzi bassi grazie all’utilizzo di funi al posto delle impalcature e dei pontili
-- Ottimo rapporto qualità- prezzo
-- Sicurezza dei lavoratori
-- Vasta gamma di servizi offerti, dalla pulizia alla manutenzione
-- Attenzione ai bisogni del cliente
+Per edifici vincolati o in aree storiche possono servire autorizzazioni. Ti spieghiamo cosa serve e, se vuoi, lavoriamo al fianco del tuo tecnico o del restauratore.
 
-*Contattataci senza impegno, siamo qui a Viterbo e provincia per discutere insieme le tue esigenze, per risparmiare tempo e denaro utilizzando le nostre tecniche di accesso flessibili e specializzate.*
+## Cosa consegniamo
+
+Preventivo chiaro, piano di sicurezza, elenco degli operatori e un **report fotografico** dell'intervento, utile per archivio, assicurazioni e pratiche.
+
+## Collegati
+
+Spesso richiesti insieme: [rimozione materiale pericolante a Viterbo]({{ '/servizi/rimozione-materiale-pericolante-su-fune-a-viterbo/' | relative_url }}), [pulizia vetri]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}) e [tetti a Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}). Presenti anche a [Roma]({{ '/servizi/messa-in-sicurezza-a-roma/' | relative_url }}) e [Latina]({{ '/servizi/messa-in-sicurezza-dei-lavoratori-latina/' | relative_url }}). Pagina generale: [messa in sicurezza]({{ '/servizi/messa-in-sicurezza/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con una descrizione e qualche foto.

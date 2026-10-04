@@ -1,33 +1,50 @@
 ---
 layout: servizio
 title: "Ristrutturazione balconi e facciate su fune a Latina"
-description: "Ristrutturare i balconi e le facciate si può dimostrare un lavoro molto duro, in cui la minima distrazione e il più piccolo errore possono causare danni.."
+description: "Ripristino di balconi e facciate a Latina e sulla costa pontina, dove la salsedine accelera il degrado: calcestruzzo, ferri, intonaci e finitura su fune."
 gruppo: "Latina e provincia"
-seo_title: "Ristrutturazione balconi e facciate su fune a Latina - Italfuni"
-seo_description: "Ristrutturare i balconi e le facciate si può dimostrare un lavoro molto duro, in cui la minima distrazione e il più piccolo errore possono causare danni.. ..ma non bisogna preoccuparsi, perché c’è Italfuni! Italfuni, azienda leader del lavoro su corde e funi, offre servizi di ristrutturazione e manutenzione in tutta Latina e provincia. I caratteri …"
+seo_title: "Ristrutturazione balconi e facciate a Latina su fune | EdilExtreme"
+seo_description: "Balconi e facciate rovinati dalla salsedine a Latina e provincia? Ripristino del calcestruzzo, protezione dei ferri e finitura su fune, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Ristrutturazione balconi e facciate su fune a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Ripristino di balconi su una palazzina vicino al mare a Latina" align="center" %}
 
-Ristrutturare i balconi e le facciate si può dimostrare un lavoro molto duro, in cui la minima distrazione e il più piccolo errore possono causare danni..
+Chi ha un appartamento a Latina Lido, Sabaudia, Terracina o in un'altra località della costa lo sa: **il mare è bellissimo, ma consuma gli edifici**. La salsedine si deposita su balconi, ringhiere e facciate, penetra nel calcestruzzo e arriva ai ferri, che si ossidano e si gonfiano. Il risultato sono balconi che si sbriciolano e facciate con macchie e crepe. **EdilExtreme** ripristina queste parti su fune, lavorando dove il ponteggio sarebbe costoso e invadente.
 
-..ma non bisogna preoccuparsi, perché c’è Italfuni!
+## Cosa trattiamo
 
-Italfuni, azienda leader del lavoro su corde e funi, offre servizi di ristrutturazione e manutenzione in tutta Latina e provincia.
+- **Balconi, frontalini e solette** con copriferro caduto e ferri a vista;
+- **Facciate a mare** con intonaci sfarinati, rigonfiamenti e patine di sale;
+- **Parapetti metallici** corrosi dall'aria salmastra;
+- **Pilastri e travi** di porticati e garage esposti al vento;
+- **Tinteggiature** deteriorate dal sole e dal sale.
 
-I caratteri fondanti della nostra azienda sono professionalità, qualità e sicurezza; inoltre, tutti i nostri esperti sono altamente qualificati anni nelle tecniche dell’alpinismo e della speleologia, con un’ottima preparazione nell’utilizzo delle funi. L’utilizzo delle funi rappresenta il nostro aspetto innovativo; infatti questa metodologia di lavoro ci permette di agire in ogni luogo e in qualsiasi condizione, garantendo un ottimo risultato e prezzi decisamente competitivi, risparmiando sui gravosi costi delle impalcature e dei ponteggi.
+## Le fasi del lavoro
 
-Il lavoro viene suddiviso in quattro fasi principali:
+1. **Ispezione** della facciata e battitura delle parti sospette;
+2. **Rimozione** del calcestruzzo non più sano e pulizia dei ferri;
+3. **Trattamento passivante** delle armature contro la ruggine;
+4. **Ricostruzione** con malte strutturali e, dove serve, rete di rinforzo;
+5. **Protezione finale** con rivestimenti e pitture adatte all'ambiente marino;
+6. **Foto prima e dopo** per l'amministratore.
 
-- I nostri tecnici, geometri, ingegneri e architetti si recano sul posto per compiere un’ispezione, decidendo come intervenire e presentando un preventivo gratuito.
-- Se il cliente accetta il preventivo e il lavoro viene assegnato, i nostri lavoratori iniziano con il rinnovamento delle facciate, dei balconi, delle sporgenze e delle cavità. In questa fase di lavoro vengono eliminati i materiali instabili e di distacco.
-- Una volta eliminati i materiali instabili, si passa alla pulizia e alla ricostruzione delle parti mancanti.
-- Una volta ultimate le operazioni di pulizia e ricostruzione, viene realizzata una finitura con materiali ad alt prestazioni.
+## Perché scegliere materiali per ambiente marino
 
-È incluso un trattamento di spazzolatura delle parti in ferro e l’uso di convertitori di ruggine nei casi in cui sia necessaria una ricostruzione in cemento armato.
+Una malta qualsiasi può sembrare a posto per un anno e poi cedere. Sul litorale conviene usare **prodotti resistenti ai cloruri** e finiture traspiranti che proteggano senza chiudere l'umidità dentro il muro. Ti spieghiamo cosa usiamo e perché.
 
-Ogni intervento viene attentamente valutato dal nostro personale interno che si occuperà della stesura della documentazione per la sicurezza (piano operativo di sicurezza ex D.Lgs. 81/08) da sottoporre al Responsabile del progetto o al Cliente prima del lavoro.
+## Vantaggi della fune sul lungomare
 
-In tutti i lavori in quota su funi vengono utilizzate specifiche attrezzature (Dispositivi di Protezione Individuale) certificate e sottoposte a rigorosi controlli di qualità.
+- Nessun ponteggio sul marciapiede, sulla pista ciclabile o davanti a bar e negozi;
+- **Lavoro per lotti**, utile per palazzine con più proprietari;
+- **Cantiere pulito** e rapido, importante per le località turistiche;
+- **Costi ridotti** rispetto a un ponteggio per l'intero fabbricato.
 
-*Non esitare a chiamarci o a mandare una mail, siamo pronti a fornirti un preventivo personalizzato e gratuito!!!!*
+## Sicurezza
+
+Doppia fune, operatori formati, piano operativo secondo il D.Lgs. 81/2008. In caso di vento forte sospendiamo il lavoro: la sicurezza viene prima del calendario.
+
+## Interventi da abbinare
+
+Se ci sono già parti che si staccano, inizia dalla [rimozione del materiale pericolante a Latina]({{ '/servizi/rimozione-materiale-pericolante-su-fune-a-latina/' | relative_url }}); poi la [tinteggiatura a Latina]({{ '/servizi/tinteggiature-complete-su-fune-a-latina/' | relative_url }}) e l'[impermeabilizzazione]({{ '/servizi/impermeabilizzazione-su-fune-a-latina/' | relative_url }}). Disponibile anche a [Roma]({{ '/servizi/ristrutturazioni-balconi-e-facciate-su-fune-a-roma/' | relative_url }}), [Rieti]({{ '/servizi/ristrutturazione-balconi-e-facciate-su-fune-a-rieti/' | relative_url }}) e [Viterbo]({{ '/servizi/ristrutturazioni-balconi-e-facciate-su-fune-a-viterbo/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con alcune foto di balconi e facciata.

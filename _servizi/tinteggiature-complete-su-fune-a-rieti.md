@@ -1,34 +1,47 @@
 ---
 layout: servizio
 title: "Tinteggiature complete su fune a Rieti"
-description: "Spesso fattori come sporco o agenti atmosferici, soprattutto pioggia, porta al deterioramento dei nostri immobili, rendendo necessario l’intervento di..."
+description: "Tinteggiatura di facciate a Rieti e nel Reatino con pitture resistenti a gelo, neve e umidità: lavoro su fune anche su edifici in pendenza."
 gruppo: "Rieti e provincia"
-seo_title: "Tinteggiature complete su fune a Rieti - Italfuni"
-seo_description: "Spesso fattori come sporco o agenti atmosferici, soprattutto pioggia, porta al deterioramento dei nostri immobili, rendendo necessario l’intervento di esperti nel settore che possano donare nuova vita al nostro edificio, ed è proprio Italfuni l’azienda da contattare! Italfuni, azienda leader nel campo dei servizi su corda a fune, offre lavori di tinteggiatura completa, caratterizzandosi per la …"
+seo_title: "Tinteggiatura facciate a Rieti su fune | EdilExtreme"
+seo_description: "Tinteggiatura di condomini, case e borghi a Rieti e provincia con pitture resistenti al gelo e all'umidità, lavoro su fune senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/tinteggiatura-su-fune-1.jpg" alt="Tinteggiature complete su fune a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/tinteggiatura-su-fune-1.jpg" alt="Operatore su fune dipinge la facciata di un edificio a Rieti" align="center" %}
 
-Spesso fattori come sporco o agenti atmosferici, soprattutto pioggia, porta al deterioramento dei nostri immobili, rendendo necessario l’intervento di esperti nel settore che possano donare nuova vita al nostro edificio, ed è proprio Italfuni l’azienda da contattare!
+La pittura di una facciata a Rieti deve fare i conti con un clima esigente: **inverni freddi, neve, gelo notturno, umidità e poi sole forte d'estate**. Questi sbalzi mettono a dura prova le superfici, e una pittura scelta male si fessura o si sfoglia in poche stagioni. **EdilExtreme** usa cicli adatti al clima del Reatino e lavora su fune, anche su edifici in pendenza o dove il ponteggio è scomodo.
 
-Italfuni, azienda leader nel campo dei servizi su **corda a fune**, offre lavori di tinteggiatura completa, caratterizzandosi per la professionalità, rapidità e soprattutto sicurezza in tutta Rieti e provincia
+## Cosa serve a una pittura per il Reatino
 
-La nostra metodologia di lavoro prevede l’utilizzo di corde e funi in sostituzione alle ingombranti impalcature; ciò si traduce in una maggiore efficienza, permettendo ai lavoratori di Italfuni di raggiungere qualsiasi punto e altezza, ma soprattutto si traduce in risparmio garantito al cliente, senza che la qualità del risultato finale e la professionalità ne risentano.
+- **Elasticità**, per seguire i movimenti del muro con il freddo e il caldo;
+- **Traspirabilità**, per lasciare uscire l'umidità senza formare bolle;
+- **Idrorepellenza**, per respingere pioggia e neve sciolta;
+- **Resistenza a muffe e alghe** sulle pareti esposte a nord;
+- **Stabilità dei colori** anche con forte irraggiamento estivo.
 
-I nostri metodi di verniciatura a corda offrono un’alternativa efficiente, di alta qualità ed economica ad altri metodi ad alto accesso.
+## Il lavoro, passo per passo
 
-Italfuni si occupa della tinteggiatura di qualsiasi edificio, che sia un immobile residenziale o commerciale e offre il servizio più adatto alle esigenze del cliente, dalla verniciatura ai rivestimenti causati da fattori quali agenti atmosferici e sporco.
+1. **Sopralluogo** e controllo delle condizioni di intonaco e balconi;
+2. **Pulizia** a pressione moderata, con trattamento contro muffe;
+3. **Riparazioni** di crepe e parti ammalorate, anche con [ristrutturazione di balconi e facciate a Rieti]({{ '/servizi/ristrutturazione-balconi-e-facciate-su-fune-a-rieti/' | relative_url }});
+4. **Fondo** consolidante adeguato;
+5. **Pittura** in due mani, con tempi di asciugatura rispettati;
+6. **Controllo finale** e documentazione dei prodotti usati.
 
-Un lavoro di tinteggiatura svolto nella giusta maniera conferisce dinamicità e carattere all’edificio e in questo Italfuni rappresenta una garanzia.
+## Edifici di paese e di montagna
 
-La società inoltre mette a disposizione del cliente **pittori esperti**  che consiglieranno il modo migliore per conferire un’immagine magnifica dell’edificio, mostrando ogni dettaglio del lavoro che verrà eseguito e stabilendo una scadenza.
+Nei borghi e nelle case di montagna il lavoro richiede un po' di organizzazione: strade strette, scale esterne, terreni in pendio. La fune ci permette di **lavorare senza grandi attrezzature**, riducendo il peso del cantiere e i costi di trasporto e montaggio.
 
-Sono numerosi i motivi per cui sceglierci:
+## Quando programmare
 
-- Efficienza
-- Sicurezza dei nostri lavoratori, garantita mediante una formazione tenuta dalla nostra azienda
-- **Risparmio**, grazie all’utilizzo di funi in sostituzione alle classiche e ingombranti impalcature
-- Ottimo rapporto qualità- prezzo, mettendo a disposizione un team di esperti altamente qualificati
-- Utilizzo di **vernici di alta qualità**, che garantiscono una protezione più duratura degli agenti atmosferici
+Le temperature troppo basse impediscono alla pittura di asciugare bene. Per questo il periodo migliore è **da primavera a inizio autunno**, con tempo asciutto e temperature stabili. Pianifichiamo il lavoro con un po' di anticipo, tenendo conto del meteo di zona.
 
-*Chiamaci subito e ottieni un preventivo gratuito, senza impegno!!!!*
+## Sicurezza
+
+Operatori formati, doppia fune indipendente, piano di sicurezza secondo il D.Lgs. 81/2008 e area sottostante delimitata. Con ghiaccio, vento forte o pioggia i lavori vengono sospesi.
+
+## Lavori collegati
+
+Dopo il ripristino, completa con l'[impermeabilizzazione a Rieti]({{ '/servizi/impermeabilizzazione-su-fune-a-rieti/' | relative_url }}) e con il [rifacimento del tetto]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}). Stesso servizio a [Roma]({{ '/servizi/tinteggiature-complete-a-roma/' | relative_url }}), [Latina]({{ '/servizi/tinteggiature-complete-su-fune-a-latina/' | relative_url }}), [Viterbo]({{ '/servizi/tinteggiature-complete-a-viterbo/' | relative_url }}) e [Frosinone]({{ '/servizi/tinteggiature-complete-su-fune-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con qualche foto della facciata.

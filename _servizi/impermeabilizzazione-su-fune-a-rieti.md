@@ -1,34 +1,42 @@
 ---
 layout: servizio
 title: "Impermeabilizzazione su fune a Rieti"
-description: "Tra i principali problemi della nostra regione c’è senza dubbio quello delle infiltrazioni, e per questo motivo è necessario affidarsi a professionisti..."
+description: "Impermeabilizzazione di terrazzi, tetti e muri a Rieti e nel Reatino con sistemi resistenti a gelo e disgelo, con accesso su fune."
 gruppo: "Rieti e provincia"
-seo_title: "Impermeabilizzazione su fune a Rieti - Italfuni"
-seo_description: "Tra i principali problemi della nostra regione c’è senza dubbio quello delle infiltrazioni, e per questo motivo è necessario affidarsi a professionisti competenti per risolvere il problema, e chi c’è di meglio se non Italfuni? Le infiltrazioni di acqua rappresentano una delle cause principali del deterioramento degli edifici nel tempo. Per evitare danni strutturali importanti …"
+seo_title: "Impermeabilizzazione terrazzi e tetti a Rieti su fune | EdilExtreme"
+seo_description: "Impermeabilizzazione di terrazzi, tetti e muri a Rieti e provincia con sistemi resistenti a gelo e disgelo, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione-2.jpg" alt="Impermeabilizzazione su fune a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione-2.jpg" alt="Impermeabilizzazione di una terrazza in zona montana" align="center" %}
 
-Tra i principali problemi della nostra regione c’è senza dubbio quello delle infiltrazioni, e per questo motivo è necessario affidarsi a professionisti competenti per risolvere il problema, e chi c’è di meglio se non Italfuni?
+Nella conca reatina e sui rilievi circostanti il nemico dell'impermeabilizzazione è il **ciclo di gelo e disgelo**: l'acqua entra in una microfessura, gela, si dilata e allarga la crepa; il giorno dopo ne entra di più. In pochi inverni una terrazza che sembrava a posto comincia a perdere. **EdilExtreme** sceglie sistemi elastici e resistenti al freddo, e li applica con cura, anche su fune.
 
-Le infiltrazioni di acqua rappresentano una delle cause principali del deterioramento degli edifici nel tempo.
+## Dove lavoriamo
 
-Per evitare danni strutturali importanti è meglio intervenire ai primi segni di crepe o fessure.
+- **Terrazze e balconi** di case e condomini esposti a nord e a freddo;
+- **Tetti piani e coperture** di fienili, magazzini e attività;
+- **Muri contro terra** e locali interrati, soggetti all'umidità del terreno;
+- **Cornicioni e bordi** di tetti in pietra e laterizio;
+- **Vasche e cisterne** per acqua e irrigazione.
 
-Assume dunque un’importanza primordiale l’impermeabilizzazione costante al fine di mantenere il tuo immobile sicuro da eventuali danni strutturali, ma non tutte le aree sono facilmente accessibili da terra, motivo in più per sceglierci, il motivo è molto semplice; noi di Italfuni offriamo un servizio di impermeabilizzazione in tutta la Liguria, ma ci serviamo di funi per svolgere i lavori che ci vengono commissionati.
+## Perché il freddo cambia la scelta
 
-Grazie al lavoro su funi, gli esperti di Italfuni riescono ad operare a qualsiasi altezza, in totale sicurezza, garantendo un lavoro di qualità, rispettando i tempi e permettendo al cliente di **risparmiare** notevolmente sul costo di ponteggi e impalcature.
+Un prodotto rigido si crepa con le oscillazioni di temperatura; uno elastico segue i movimenti del supporto. Per questo, in zona fredda, scegliamo **resine e guaine con alta elasticità a basse temperature**, e prestiamo attenzione ai giunti, ai bordi e ai raccordi, che sono i punti dove il gelo fa più danni.
 
-Le impermeabilizzazione sono lavori spesso complessi e costosi, finalizzati ad impedire il passaggio dell’acqua piovana negli strati sottostanti, che può compromettere la solidità della struttura e la capacità d’isolamento termico dell’abitazione.
+## Condizioni di posa
 
-Con Italfuni puoi bloccare le infiltrazioni rapidamente grazie al lavoro su corde, che non prevede il montaggio di ponteggi o di altre strutture ingombranti e costose per il sollevamento del personale.
+Le impermeabilizzazioni non si fanno con troppo freddo, con umidità o con rischio di pioggia: il prodotto non indurisce bene. Programmiamo i lavori tra **tarda primavera e inizio autunno**, quando le temperature sono stabili. Se il tempo cambia rinviamo, per non compromettere il risultato.
 
-I nostri tecnici sono esperti e competenti, in possesso degli che permettono loro di accedere in sicurezza a zone più alte, per svolgere compiti complessi come l’impermeabilizzazione.
+## Muri umidi e interrati
 
-Ci occupiamo di qualsiasi tipo di riparazione, da una semplicissima pulizia di routine alla verniciatura, mettendoci sempre grandissima **passione** e **professionalità**.
+Nelle case di pietra o nei locali seminterrati l'umidità proviene da terra o da pareti a contatto con il terreno. Ti spieghiamo se serve un intervento esterno, un drenaggio o un trattamento interno, e quando conviene un tecnico per un rilievo più completo.
 
-L’inizio dei lavori sarà preceduto da un sopralluogo in cui verrà valutata la condizione dell’edificio e decidere come intervenire, ponendo così una scadenza e un budget.
+## Fune o altro sistema
 
-Italfuni offre prodotti di alta qualità, conoscenze specialistiche sul campo e una serie di servizi di rilevamento degli edifici, come la stesura di bozze, la registrazione fotografica e altro ancora.
+In pendio o su balconi sporgenti la fune evita ponteggi complessi. Sulle superfici piane lavoriamo in modo tradizionale, ma sempre con ancoraggi anticaduta e operatori formati, secondo il D.Lgs. 81/2008.
 
-*Non aspettare, un team di esperti è pronto ad operare in tutta Rieti e provincia, richiedi un preventivo gratuito senza impegno! Italfuni è con te!*
+## Collegati
+
+Per il tetto: [rifacimento tetti a Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}); per le acque: [grondaie a Rieti]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}). Altre province: [Roma]({{ '/servizi/impermeabilizzazione-su-fune-a-roma/' | relative_url }}), [Latina]({{ '/servizi/impermeabilizzazione-su-fune-a-latina/' | relative_url }}), [Viterbo]({{ '/servizi/impermeabilizzazione-su-fune-a-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/impermeabilizzazione-su-fune-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto della zona che perde.

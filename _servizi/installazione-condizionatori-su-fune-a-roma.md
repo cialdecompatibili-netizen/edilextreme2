@@ -1,42 +1,44 @@
 ---
 layout: servizio
 title: "Installazione condizionatori su fune a Roma e provincia"
-description: "Italfuni è un’azienda leader nei lavori con l’utilizzo di corde e funi. Tra i tanti servizi offre anche quello dell’installazione di condizionatori nelle..."
+description: "Installazione e sostituzione di unità esterne di condizionatori su facciate e tetti a Roma, senza ponteggi né autoscale: lavoro su fune in sicurezza."
 gruppo: "Roma e provincia"
-seo_title: "Installazione condizionatori su fune a Roma e provincia - Italfuni"
-seo_description: "Ti servono esperti per l'installazione di condizionatori su fune a Roma e provincia? Allora sei nel posto giusto. Su italfuni troverai preventivi gratuiti!"
+seo_title: "Installazione condizionatori su facciata a Roma su fune | EdilExtreme"
+seo_description: "Montaggio e sostituzione di unità esterne di climatizzatori su facciate alte a Roma e provincia con accesso su fune: niente ponteggi, tempi rapidi, operatori formati. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/rope-access-air-conditioning-vent-installation-4.jpg" alt="Installazione condizionatori su fune a Roma e provincia" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/rope-access-air-conditioning-vent-installation-4.jpg" alt="Operatore su fune installa un'unità esterna di condizionatore su una facciata a Roma" align="center" %}
 
-**Italfuni** è un’azienda leader nei lavori con l’utilizzo di corde e funi. Tra i tanti servizi offre anche quello **dell’installazione di condizionatori nelle zone normalmente non raggiungibili**. L’azienda opera su tutto il territorio della provincia di Roma.
+A Roma l'estate è lunga e il caldo arriva presto: ogni anno aumentano le richieste di climatizzazione per uffici, negozi, studi e appartamenti. Il problema è che molte unità esterne vanno montate **in alto**, su facciate di palazzi alti, cortili interni stretti o terrazzi poco accessibili. **EdilExtreme** risolve il montaggio con l'accesso su fune, senza ponteggi e senza gru.
 
-L’installazione di un condizionatore è uno di quei lavori che non possono essere svolti da chi non fa parte del settore dell’edilizia. Tanto più quando questo si trova ad altezze proibitive e potenzialmente pericolose per la salute.
+## Quando la fune è la scelta giusta
 
-## Installazione condizionatori Roma: perché scegliere Italfuni
+- **Palazzi alti** dove l'unità esterna va fissata oltre il terzo o quarto piano;
+- **Cortili interni e chiostrine** in cui non entra nessun mezzo di sollevamento;
+- **Edifici del centro** con ZTL, strade strette o sosta vietata, dove un'autoscala è un problema;
+- **Facciate con balconi sporgenti** che rendono difficile appoggiare un ponteggio;
+- **Sostituzioni e manutenzioni** di impianti già installati ma non raggiungibili da terra.
 
-Nel caso in cui il condizionatore vada installato in punti particolarmente inaccessibili, bisognerà affidarsi ad una **ditta particolarmente specializzata**. I lavoratori di Italfuni sono altamente qualificati e operano solo dopo aver seguito una formazione tenuta dalla nostra azienda, al fine di garantire la loro sicurezza e la vostra soddisfazione. Le **tecniche** che utilizzano sono le stesse utilizzate in ambito sportivo da alpinisti e speleologi.
+## Cosa facciamo
 
-Già la spesa di un condizionatore non è bassa. Se poi si ricorresse a piattaforme aeree o impalcature il lavoro risulterebbe molto più lungo e costoso. Utilizzando le funi invece questi  **tempi e costi verranno abbattuti.**
+1. **Sopralluogo** per scegliere il punto di fissaggio, verificare la portata della muratura e le distanze minime dell'impianto;
+2. **Staffe e supporti** adatti al tipo di parete, con tasselli e protezioni anticorrosione;
+3. **Posa dell'unità esterna** e passaggio di tubi e cavi, in coordinamento con l'installatore frigorista;
+4. **Sigillatura** dei fori e ripristino dei punti di passaggio;
+5. **Controllo finale** e smontaggio di tutta l'attrezzatura in giornata.
 
-Tutto questo senza nulla togliere alla **qualità del lavoro** che oltretutto risulterà essere **molto meno fastidioso** per vicini e passanti. Garantiamo dunque un ottimo rapporto qualità- prezzo ed estrema professionalità.
+Lavoriamo in squadra con il tuo tecnico: noi pensiamo alla parte in quota, lui all'impianto.
 
-### Dove possiamo intervenire?
+## Condominio e permessi
 
-I nostri professionisti possono raggiungere tutti quei punti che normalmente avrebbero bisogno come detto, di costose apparecchiature da trasportare ed installare.
+Se il palazzo ha un regolamento condominiale, serve in genere il via libera dell'assemblea o dell'amministratore, e a volte il rispetto del decoro della facciata. Nei centri storici possono essere richieste autorizzazioni dedicate: ti diciamo cosa preparare prima del lavoro.
 
-Nel caso che l’ambiente non fosse dotato di balcone per esempio, bisognerà ricorrere alle nostre **tecniche speciali**. Anche uffici con finestre in vetro avranno lo stesso problema al pari di grossi fabbricati industriali.
+## Sicurezza
 
-Stesso dicasi per tutti i tipi di intervento di manutenzione da effettuare sugli elementi esterni dei condizionatori. **Italfuni** infatti interviene anche per la semplice pulizia dei filtri dei condizionatori.
+Ogni intervento segue le regole del D.Lgs. 81/2008: **due funi indipendenti**, operatori formati, attrezzature controllate, area sottostante delimitata. Per un cantiere così breve la fune evita costi e tempi di montaggio di un ponteggio.
 
-In questo caso l’intervento di professionisti su fune abbatterebbe costi e tempistiche di lavoro.
+## Servizi collegati a Roma
 
-### Installazione di condizionatori ma non solo
+Molti clienti ci chiedono anche la [pulizia dei vetri a Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}), la [pulizia dei pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) o la [manutenzione di tetti]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}) nello stesso intervento. Per le altre lavorazioni in quota vedi [messa in sicurezza a Roma]({{ '/servizi/messa-in-sicurezza-a-roma/' | relative_url }}).
 
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
-
-Hai ad esempio hai problemi con la tua **grondaia** o devi riparare il tuo tetto? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}). – Riparazione tetti a Roma.
-
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio fatto apposta per te: [pulizia vetri su fune Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}).
-
-Chiamaci per un **preventivo gratuito e senza alcun impegno**. Lavoriamo con estrema serietà su tutto il territorio di Roma e provincia!
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con una foto della facciata e il piano in cui va montata l'unità.

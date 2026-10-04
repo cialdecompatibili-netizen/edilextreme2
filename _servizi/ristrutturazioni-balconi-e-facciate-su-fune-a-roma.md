@@ -1,34 +1,50 @@
 ---
 layout: servizio
 title: "Ristrutturazioni balconi e facciate su fune a Roma"
-description: "Italfuni a Roma è specializzata in lavori di ristrutturazione e manutenzione con accessi in corda in totale o parziale assenza di supporti per ponteggi."
+description: "Ripristino di balconi, frontalini e facciate a Roma con lavoro su fune: riparazione del calcestruzzo, trattamento dei ferri, intonaci e tinteggiatura senza ponteggi."
 gruppo: "Roma e provincia"
-seo_title: "Ristrutturazioni balconi e facciate su fune a Roma - Italfuni"
-seo_description: "Italfuni a Roma è specializzata in lavori di ristrutturazione e manutenzione con accessi in corda in totale o parziale assenza di supporti per ponteggi. Come primo passo, i nostri tecnici, architetti, ingegneri e geometri competenti effettuano un’ispezione sul posto per realizzare una valutazione del lavoro e presentare un preventivo gratuito. Durante la seconda fase, dopo …"
+seo_title: "Ristrutturazione balconi e facciate a Roma su fune | EdilExtreme"
+seo_description: "Balconi ammalorati e facciate da rifare a Roma e provincia? Ripristino del calcestruzzo, trattamento dei ferri e finitura su fune, senza ponteggi. Preventivo gratuito per condomini."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Ristrutturazioni balconi e facciate su fune a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Operai su fune lavorano al ripristino dei balconi di un palazzo a Roma" align="center" %}
 
-**Italfuni a Roma** è specializzata in lavori di ristrutturazione e manutenzione con accessi in corda in totale o parziale assenza di supporti per ponteggi.
+Molti condomini romani costruiti tra gli anni Cinquanta e Settanta hanno balconi e facciate che mostrano il passare del tempo: **copriferro che si sgretola, ferri arrugginiti a vista, intonaci crepati, macchie di umidità**. Aspettare peggiora la situazione e i costi crescono. **EdilExtreme** ripristina balconi e facciate con l'accesso su fune, senza montare un ponteggio per tutto l'edificio.
 
-Come primo passo, i nostri tecnici, architetti, ingegneri e geometri competenti effettuano un’**ispezione** sul posto per realizzare una valutazione del lavoro e presentare un **preventivo gratuito**.
+## I problemi più comuni
 
-Durante la seconda fase, dopo l’assegnazione del lavoro, i nostri esperti iniziano con il **rinnovamento** di facciate, sporgenze, balconi, cavità e camini eliminando materiali instabili e di distacco e procedendo in secondo luogo alla pulizia e alla ricostruzione delle parti mancanti.
+- **Frontalini e solette dei balconi** con calcestruzzo che si stacca;
+- **Ferri d'armatura ossidati** che aumentano di volume e spaccano il cemento;
+- **Intonaci gonfi, crepe e microfessure** da cui entra l'acqua;
+- **Parapetti e ringhiere** con attacchi corrosi;
+- **Rivestimenti e tinteggiature** scrostati o sbiaditi.
 
-Per concludere, sarà realizzata una **finitura** con materiali ad alte prestazioni.
+## Come si svolge un intervento
 
-Nei casi in cui è necessaria una ricostruzione in cemento armato, i lavori di ristrutturazione includeranno un trattamento di spazzolatura delle parti in ferro e l’uso di convertitori di ruggine.
+1. **Ispezione** di tutta la facciata e mappatura delle zone danneggiate;
+2. **Rimozione** delle parti instabili e pulizia dei ferri dalla ruggine;
+3. **Passivazione** delle armature con prodotti anticorrosione;
+4. **Ricostruzione** con malte strutturali a ritiro compensato, scelte secondo il tipo di supporto;
+5. **Finitura**: rasatura, protettivo e tinteggiatura, per un risultato uniforme;
+6. **Documentazione** fotografica prima e dopo, utile per l'assemblea condominiale.
 
-Massima **sicurezza** e **qualità** del lavoro sono gli elementi portanti della nostra azienda.
+## Perché la fune a Roma
 
-I nostri esperti, altamente qualificati da anni nelle tecniche dell’alpinismo e della speleologia, hanno adeguata preparazione per l’utilizzo delle tecniche di accesso e di posizionamento delle funi di siti naturali e artificiali.
+Nei quartieri densi e nelle vie con sosta limitata il ponteggio occupa suolo pubblico, richiede permessi e tempi. La fune permette di lavorare **per aree e per giornate**, tenendo ingressi e balconi liberi, con meno disagio per chi abita e per i negozi al piano terra.
 
-Ogni intervento viene attentamente valutato dal nostro personale interno che si occuperà della stesura della documentazione per la sicurezza (piano operativo di sicurezza ex D.Lgs. 81/08) da sottoporre al Responsabile del progetto o al Cliente prima del lavoro.
+## Vantaggi per il condominio
 
-In tutti i lavori in quota su funi vengono utilizzate specifiche attrezzature (Dispositivi di Protezione Individuale) certificate e sottoposte a rigorosi controlli di qualità.
+- **Costi contenuti**, perché non si paga il noleggio del ponteggio;
+- **Tempi più brevi** e cantiere meno invadente;
+- **Interventi a lotti**, utili quando l'assemblea decide di procedere per fasi;
+- **Documentazione e preventivi chiari**, adatti alla delibera.
 
-La nostra azienda offre **supporto professionale** durante le varie fasi, dallo studio di fattibilità alla pianificazione e monitoraggio del progetto di lavoro fino all’esecuzione del servizio, nei tempi e modi concordati.
+## Sicurezza e normativa
 
-La giusta soluzione per ogni esigenza che per la nostra Azienda si caratterizza dalla conformità delle norme di sicurezza, dal personale altamente specializzato e dalla  gestione della conformità.
+Piano operativo di sicurezza, doppia fune, operatori formati e area sottostante delimitata, secondo il D.Lgs. 81/2008. Per i lavori che incidono sulle parti comuni è bene coinvolgere l'amministratore e, se serve, un tecnico per il progetto.
 
-*Non esitare a chiamarci o a mandare una mail, siamo pronti a fornirti un preventivo personalizzato e gratuito!!!!*
+## Prima e dopo: i lavori collegati
+
+Se ci sono già parti che cadono, inizia con la [messa in sicurezza a Roma]({{ '/servizi/messa-in-sicurezza-a-roma/' | relative_url }}); a lavoro finito completa con la [tinteggiatura della facciata a Roma]({{ '/servizi/tinteggiature-complete-a-roma/' | relative_url }}) e l'[impermeabilizzazione]({{ '/servizi/impermeabilizzazione-su-fune-a-roma/' | relative_url }}). Lo stesso servizio è disponibile a [Latina]({{ '/servizi/ristrutturazione-balconi-e-facciate-su-fune-a-latina/' | relative_url }}), [Rieti]({{ '/servizi/ristrutturazione-balconi-e-facciate-su-fune-a-rieti/' | relative_url }}) e [Viterbo]({{ '/servizi/ristrutturazioni-balconi-e-facciate-su-fune-a-viterbo/' | relative_url }}).
+
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con qualche foto dei balconi e della facciata.

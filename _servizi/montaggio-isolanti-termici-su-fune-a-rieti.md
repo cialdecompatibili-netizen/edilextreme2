@@ -1,40 +1,54 @@
 ---
 layout: servizio
 title: "Montaggio isolanti termici su fune a Rieti"
-description: "Italfuni, azienda leader nel campo dei servizi su corda a fune , offre servizio di montaggio di isolanti in tutta Rieti e provincia, garantendo sempre..."
+description: "Isolamento termico di pareti e tetti a Rieti e nel Reatino montato su fune: riduce le spese di riscaldamento e la muffa nelle case di montagna."
 gruppo: "Rieti e provincia"
-seo_title: "Montaggio isolanti termici su fune a Rieti - Italfuni"
-seo_description: "Italfuni, azienda leader nel campo dei servizi su corda a fune, offre servizio di montaggio di isolanti in tutta Rieti e provincia, garantendo sempre professionalità, sicurezza e qualità. Sono varie le cause che portano alla penetrazione di freddo o, al contrario, delle perdite di calore all’interno di un edificio o di uno stabile, le principali sono: …"
+seo_title: "Isolamento termico a Rieti montato su fune | EdilExtreme"
+seo_description: "Isolamento termico di pareti e tetti a Rieti e provincia con pannelli posati su fune: meno spese di riscaldamento e niente muffa. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Montaggio isolanti termici su fune a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Pannelli isolanti su una parete di casa in montagna" align="center" %}
 
-Italfuni, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di montaggio di isolanti in tutta Rieti e provincia, garantendo sempre professionalità, sicurezza e qualità.
+A Rieti e nelle valli intorno l'inverno dura, e la stufa o la caldaia lavorano molto. Chi vive in una casa non isolata lo sa: pareti fredde, spifferi, angoli con muffa, bollette pesanti. **L'isolamento termico** riduce le dispersioni e rende più stabile la temperatura. **EdilExtreme** monta pannelli su pareti e coperture con accesso su fune, anche dove il terreno rende difficile un ponteggio.
 
-Sono varie le cause che portano alla penetrazione di freddo o, al contrario, delle perdite di calore all’interno di un edificio o di uno stabile, le principali sono:
+## Case che ne hanno più bisogno
 
-- Assenza di conformità dell’isolamento termico con la tecnologia di installazione delle finestre
-- Difetti nel tetto
-- Perdite nei tubi, molto frequente
-- Pareti esterne sigillate con scarsa qualità, in particolare nei materiali.
+- **Case in pietra e muratura piena**, che trattengono il freddo;
+- **Condomini degli anni Sessanta e Settanta**, con pareti sottili e ponti termici;
+- **Seconde case di montagna**, riscaldate a intermittenza;
+- **Sottotetti e coperture**, da dove sale una parte importante del calore;
+- **Strutture ricettive e attività** che devono mantenere comfort a costi contenuti.
 
-Per questi motivi ricopre un’importanza fondamentale il servizio di isolamento termico, offerto dalla nostra società che si serve di materiali di altissima qualità e di esperti altamente qualificati che garantiscono un lavoro di **qualità**, professionalità e soprattutto **economico**, grazie all’utilizzo delle funi e delle corde che permettono di abbassare i costi del lavoro.
+## Muffa e condensa
 
-Gli scalatori industriali della nostra azienda hanno superato una formazione specifica e vantano un’esperienza pluriennale nel settore dei servizi di costruzione, che consente loro di eseguire installazioni di qualsiasi complessità.
+La muffa non è un difetto del colore: nasce dove una parete fredda incontra aria umida. Isolando dall'esterno, la parete si scalda e la condensa sparisce. Ti consigliamo però di verificare anche **ventilazione e umidità di risalita**, perché a volte il problema ha più cause.
 
-Uno dei nostri caratteri fondanti è l’attenzione al cliente e consideriamo di primordiale importanza il rispetto delle scadenze, al fine di rendere il cliente soddisfatto, che rappresenta una priorità per noi di Italfuni.
+## Cappotto esterno, interno o in copertura
 
-Inoltre garantiamo anche risparmio energetico, grazie all’uso di attrezzature moderne, fornendo anche un regime ottimale per l’edificio e creando condizioni confortevoli in inverno e in estate.
+- **Cappotto esterno**: è la soluzione più efficace, perché copre anche i ponti termici;
+- **Isolamento interno**: utile quando la facciata non si può toccare, ma riduce lo spazio e richiede cura per evitare condense interne;
+- **Isolamento del tetto o del sottotetto**: spesso il più conveniente in rapporto al costo.
 
-## Perché sceglierci?
+Spesso conviene partire dal tetto e dal sottotetto, poi valutare le pareti.
 
-Affidandoti a noi di Italfuni otterrai benefici come:
+## Perché la fune
 
-- Aumento dell’efficienza energetica della struttura e dell’inerzia termica dell’edificio, minimizzando così l’impatto delle variazioni di temperatura e creando un microclima interno ottimale
-- Riduzione dei costi di riscaldamento durante la stagione fredda
-- Impedimento dell’apparizione di muffa
-- Possibilità di cambiare il design dell’edificio utilizzando materiali decorativi di finitura
+Le case in pendio, le stradine strette e i giardini terrazzati rendono difficile montare ponteggi. Con l'accesso su fune lavoriamo per fasce, con attrezzatura leggera e senza rovinare il terreno.
 
-L’installazione di rivestimenti termoisolanti viene effettuata su qualsiasi base: sversamenti di legno, muratura, cemento armato, calcestruzzo espanso.
+## Condizioni di lavoro
 
-*Non esitare a contattarci per un preventivo con sopralluogo gratuito senza impegno.*
+Collanti, rasanti e intonaci hanno bisogno di temperature adatte: **non lavoriamo con gelo o forte umidità**. I periodi migliori sono tarda primavera, estate e inizio autunno.
+
+## Prima di decidere
+
+Chiedi a un tecnico un calcolo dello spessore e verifica le **agevolazioni fiscali** in vigore, che cambiano nel tempo.
+
+## Sicurezza
+
+Operatori formati, doppia fune, D.Lgs. 81/2008.
+
+## Collegati
+
+Lavori in quota collegati: [rifacimento tetti a Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}). Altre province: [Roma]({{ '/servizi/montaggio-isolanti-a-roma/' | relative_url }}), [Latina]({{ '/servizi/montaggio-isolanti-termici-su-fune-a-latina/' | relative_url }}), [Viterbo]({{ '/servizi/montaggio-isolanti-termici-su-fune-a-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/montaggio-isolanti-termici-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto dell'edificio e località.

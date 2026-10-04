@@ -1,30 +1,48 @@
 ---
 layout: servizio
-title: "Rimozione materiale pericolane su fune a Frosinone"
-description: "Spesso negli edifici, in particolar modo quelli più vecchi, sono presenti pezzi di intonaco o parti di casa pericolanti che potrebbero cadere causando..."
+title: "Rimozione materiale pericolante su fune a Frosinone"
+description: "Rimozione di intonaci, cornicioni e calcestruzzo ammalorato a rischio caduta a Frosinone e in Ciociaria, eseguita su fune senza ponteggi."
 gruppo: "Frosinone e provincia"
-seo_title: "Rimozione materiale pericolane su fune a Frosinone - Italfuni"
-seo_description: "Spesso negli edifici, in particolar modo quelli più vecchi, sono presenti pezzi di intonaco o parti di casa pericolanti che potrebbero cadere causando danni anche importanti a persone e oggetti: occorre dunque contattare esperti per la rimozione di questi materiali pericolanti. Lo staff di Italfuni mette a disposizione lavoratori altamente qualificati esperti in tecniche di …"
+seo_title: "Rimozione materiale pericolante a Frosinone su fune | EdilExtreme"
+seo_description: "Intonaci e cornicioni che si staccano a Frosinone e provincia? Rimozione del materiale pericolante su fune, con area delimitata e documentazione. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/materiale-pericolante.jpg" alt="Rimozione materiale pericolane su fune a Frosinone" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/materiale-pericolante.jpg" alt="Rimozione di materiale pericolante da una facciata" align="center" %}
 
-Spesso negli edifici, in particolar modo quelli più vecchi, sono presenti pezzi di intonaco o parti di casa pericolanti che potrebbero cadere causando danni anche importanti a persone e oggetti: occorre dunque contattare esperti per la rimozione di questi materiali pericolanti.
+In provincia di Frosinone molti edifici sono stati costruiti nei decenni del boom edilizio, con balconi e cornicioni in cemento armato oggi in età. Con il tempo l'acqua penetra, i **ferri d'armatura si ossidano e si gonfiano**, il calcestruzzo si spacca e cade a pezzi. Un frammento di facciata che si stacca da venti metri è un pericolo serio per chi cammina sotto. **EdilExtreme** lo elimina prima che succeda, lavorando su fune.
 
-Lo staff di Italfuni mette a disposizione lavoratori altamente qualificati esperti in tecniche di alpinismo.
+## Segnali da non ignorare
 
-L’utilizzo di funi e corde permette ai nostri esperti di lavorare a qualsiasi altezza e in ogni punto e ciò non sarebbe possibile se si utilizzassero impalcature o ponteggi; il nostro metodo di lavoro permette inoltre di far risparmiare il cliente, riuscendo ad abbassare i costi che i grandi impianti richiedono.
+- **Macchie di ruggine** sui frontalini dei balconi e sulle solette;
+- **Ferri scoperti** e rigonfiamenti nel calcestruzzo;
+- **Intonaco che suona a vuoto** battendolo con le nocche;
+- **Cornicioni sfaldati** o con crepe aperte;
+- **Frammenti a terra** vicino all'ingresso o sul marciapiede.
 
-I servizi di sicurezza sono gestiti da professionisti specializzati, che conoscono tutte le norme e sono esperti nel settore, quindi il risultato finale è garantito.
+## Cosa facciamo
 
-Tutte le attività di sicurezza vengono eseguite in conformità con la legislazione applicabile, tenendo conto dei rispettivi requisiti delle amministrazioni pubbliche.
+1. **Battitura e ispezione** della facciata per individuare le zone instabili;
+2. **Rimozione** di intonaco, copriferro e parti fatiscenti;
+3. **Pulizia e trattamento dei ferri** con prodotti anticorrosivi;
+4. **Segnalazione** di eventuali problemi strutturali al tecnico incaricato;
+5. **Foto e relazione** dell'intervento, per amministratore e condomini.
 
-Durante l’intervento, i nostri operatori si occupano della recinzione temporanea delle aree di lavoro se necessario e della rimozione di ogni parte con segni di cedimento strutturale.
+Il ripristino definitivo con malte strutturali e finitura si può programmare dopo, con la [tinteggiatura e il ripristino della facciata a Frosinone]({{ '/servizi/tinteggiature-complete-su-fune-a-frosinone/' | relative_url }}).
 
-Ogni operazione viene attentamente valutata dal nostro personale interno che redigerà tutta la documentazione per la sicurezza (piano operativo di sicurezza ex D.Lgs. 81/08) da sottoporre al project manager o al contraente prima del lavoro.
+## Perché la fune
 
-In tutti i lavori in quota su funi vengono utilizzate attrezzature tecniche (**Dispositivi di Protezione Individuale**) create apposta per il lavoro da svolgere, certificate secondo la UNI EN e sottoposte a rigorosi controlli di qualità.
+Per un intervento urgente non si può aspettare il ponteggio: servono tempo e soldi, e il rischio resta. Con la fune si arriva in poche ore e si risolve la parte pericolosa, mettendo in sicurezza lo spazio sottostante.
 
-La nostra azienda offre **supporto professionale** durante le varie fasi, dallo studio di fattibilità alla pianificazione e monitoraggio del progresso del lavoro diventando parte integrante del progetto del cliente e contribuendo alla produzione del progetto.
+## Urgenza e responsabilità
 
-*Chiamaci senza impegno per un preventivo!!!*
+Se un distacco ha già causato danni o c'è rischio per le persone, segnalalo subito all'amministratore. Per i condomini e i proprietari, **la responsabilità è di chi gestisce l'immobile**: intervenire presto e documentare l'intervento è la scelta più prudente.
+
+## Sicurezza
+
+Area delimitata, reti di protezione dove serve, operatori formati e doppia fune, come richiede il D.Lgs. 81/2008.
+
+## Altri servizi
+
+Spesso richiesti insieme: [grondaie a Frosinone]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}) e [tetto]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }}). Servizio attivo anche a [Latina]({{ '/servizi/rimozione-materiale-pericolante-su-fune-a-latina/' | relative_url }}), [Rieti]({{ '/servizi/rimozione-materiale-pericolante-su-fune-a-rieti/' | relative_url }}) e [Viterbo]({{ '/servizi/rimozione-materiale-pericolante-su-fune-a-viterbo/' | relative_url }}).
+
+**Intervento urgente o preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con qualche foto del punto a rischio.

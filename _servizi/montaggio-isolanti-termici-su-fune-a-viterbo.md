@@ -1,40 +1,46 @@
 ---
 layout: servizio
 title: "Montaggio isolanti termici su fune a Viterbo"
-description: "Italfuni, azienda leader nel campo dei servizi su corda a fune , offre servizio di montaggio di isolanti in tutta Viterbo e provincia, garantendo sempre..."
+description: "Isolamento termico di edifici in tufo, pietra e laterizio a Viterbo e nella Tuscia, con posa su fune: soluzioni adatte alla muratura storica."
 gruppo: "Viterbo e provincia"
-seo_title: "Montaggio isolanti termici su fune a Viterbo - Italfuni"
-seo_description: "Italfuni, azienda leader nel campo dei servizi su corda a fune, offre servizio di montaggio di isolanti in tutta Viterbo e provincia, garantendo sempre professionalità, sicurezza e qualità. Sono varie le cause che portano alla penetrazione di freddo o, al contrario, delle perdite di calore all’interno di un edificio o di uno stabile, le principali sono: …"
+seo_title: "Isolamento termico a Viterbo montato su fune | EdilExtreme"
+seo_description: "Isolamento termico di edifici in tufo, pietra e laterizio a Viterbo e provincia con posa su fune: soluzioni adatte alle murature storiche. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Montaggio isolanti termici su fune a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Isolamento termico di una facciata" align="center" %}
 
-Italfuni, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di montaggio di isolanti in tutta Viterbo e provincia, garantendo sempre professionalità, sicurezza e qualità.
+Nella Tuscia molte case sono costruite con muri spessi in tufo, pietra o laterizio: robusti, ma non sempre efficienti. Anche con pareti di 50 o 60 centimetri, il calore se ne va dal tetto, dalle finestre e dai solai. Isolare un edificio storico però non è come isolare un condominio moderno: serve **attenzione ai materiali e alla traspirabilità**. **EdilExtreme** propone soluzioni adatte e le monta con accesso su fune.
 
-Sono varie le cause che portano alla penetrazione di freddo o, al contrario, delle perdite di calore all’interno di un edificio o di uno stabile, le principali sono:
+## Che cosa si può fare
 
-- Assenza di conformità dell’isolamento termico con la tecnologia di installazione delle finestre
-- Difetti nel tetto
-- Perdite nei tubi
-- Pareti esterne sigillate con scarsa qualità, in particolare nei materiali.
+- **Isolamento della copertura o del sottotetto**: di solito l'intervento più efficace e meno invasivo;
+- **Cappotto esterno** su edifici moderni e senza vincoli;
+- **Isolamento interno** con materiali traspiranti, dove la facciata va conservata;
+- **Isolamento di solai e pavimenti** su locali freddi;
+- **Correzione dei ponti termici** intorno a infissi e balconi.
 
-Per questi motivi ricopre un’importanza fondamentale il servizio di isolamento termico, offerto dalla nostra società che si serve di materiali di altissima qualità e di esperti altamente qualificati che garantiscono un lavoro di **qualità**, professionalità e soprattutto **economico**, grazie all’utilizzo delle funi e delle corde che permettono di abbassare i costi del lavoro.
+## Materiali per murature storiche
 
-Gli scalatori industriali della nostra azienda hanno superato una formazione specifica e vantano un’esperienza pluriennale nel settore dei servizi di costruzione, che consente loro di eseguire installazioni di qualsiasi complessità.
+Sui muri in tufo e pietra servono materiali che lascino **traspirare** il vapore: **calce-canapa, sughero, fibra di legno, calcio silicato**. Questi sistemi isolano senza intrappolare l'umidità. Per case più recenti con muratura in laterizio si usano più spesso EPS grafitato o lana minerale.
 
-Uno dei nostri caratteri fondanti è l’attenzione al cliente e consideriamo di primordiale importanza il rispetto delle scadenze, al fine di rendere il cliente soddisfatto, che rappresenta una priorità per noi di Italfuni.
+## Vincoli e permessi
 
-Inoltre garantiamo anche risparmio energetico, grazie all’uso di attrezzature moderne, fornendo anche un regime ottimale per l’edificio e creando condizioni confortevoli in inverno e in estate.
+Nel centro storico di Viterbo e nei borghi molti edifici sono vincolati: un cappotto esterno spesso non è consentito. Ti aiutiamo a capire cosa è possibile, e collaboriamo con il tecnico che segue il progetto per presentare le pratiche.
 
-## Perché sceglierci?
+## Perché la fune
 
-Noi di Italfuni risolviamo problemi come:
+Vicoli stretti, scale ripide, facciate su più livelli: le condizioni in cui un ponteggio è più costoso e invasivo. Con la fune ci si muove sulla parete con pochi ancoraggi e senza toccare pavimentazioni e giardini. Nelle ville e nei casali isolati si evita di rovinare il terreno circostante.
 
-- Aumento dell’efficienza energetica della struttura e dell’inerzia termica dell’edificio, minimizzando così l’impatto delle variazioni di temperatura e creando un microclima interno ottimale
-- Riduzione dei costi di riscaldamento durante la stagione fredda;
-- Impedimento dell’apparizione di muffa;
-- Possibilità di cambiare il design dell’edificio utilizzando materiali decorativi di finitura;
+## Prima di partire
 
-L’installazione di rivestimenti termoisolanti viene effettuata su qualsiasi base: sversamenti di legno, muratura, cemento armato, calcestruzzo espanso.
+Serve una **diagnosi energetica** e una valutazione dell'umidità presente nei muri: un isolante posato su una parete bagnata non funziona. Ti consigliamo anche di verificare con un tecnico le **agevolazioni fiscali** in vigore.
 
-*Non esitare a contattarci per un preventivo con sopralluogo gratuito senza impegno.*
+## Sicurezza
+
+Doppia fune, operatori formati, area di lavoro delimitata, D.Lgs. 81/2008.
+
+## Collegati
+
+Per il tetto: [manutenzione del tetto a Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}). Altre province: [Roma]({{ '/servizi/montaggio-isolanti-a-roma/' | relative_url }}), [Latina]({{ '/servizi/montaggio-isolanti-termici-su-fune-a-latina/' | relative_url }}), [Rieti]({{ '/servizi/montaggio-isolanti-termici-su-fune-a-rieti/' | relative_url }}), [Frosinone]({{ '/servizi/montaggio-isolanti-termici-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto dell'edificio e indirizzo.

@@ -1,30 +1,49 @@
 ---
 layout: servizio
-title: "Messa in sicurezza a Roma"
-description: "Italfuni a Roma è un’azienda che esegue professionalmente l’accesso su corda per edifici e strutture alte."
+title: "Messa in sicurezza e accesso su fune a Roma"
+description: "Accesso su fune per edifici e strutture alte a Roma: operatori formati, documenti di sicurezza e un piano per ogni cantiere in quota."
 gruppo: "Roma e provincia"
-seo_title: "Messa in sicurezza a Roma - Italfuni"
-seo_description: "Italfuni a Roma è un’azienda che esegue professionalmente l’accesso su corda per edifici e strutture alte. Con vari contratti conclusi con successo con il nostro nome, siamo leader di mercato nel nostro settore altamente specializzato. Abbiamo anni di esperienza all’interno del nostro team insieme a procedure che sono state sviluppate per garantire un lavoro sicuro …"
+seo_title: "Accesso su fune e sicurezza in quota a Roma | EdilExtreme"
+seo_description: "Accesso su fune per edifici e strutture alte a Roma e provincia: operatori formati, piano di sicurezza per ogni cantiere in quota e procedure di soccorso. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Messa in sicurezza a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatori in quota su fune a Roma" align="center" %}
 
-Italfuni a Roma è un’azienda che esegue professionalmente l’accesso su corda per edifici e strutture alte.
+Roma ha edifici alti, facciate difficili, cortili chiusi, monumenti, ponti, torri e coperture inaccessibili ai mezzi. Per chi gestisce un immobile (amministratori, responsabili tecnici, imprese) la domanda è sempre la stessa: **come arrivare lì in sicurezza, a un costo ragionevole?** **EdilExtreme** risponde con l'accesso su fune, gestito con regole precise.
 
-Con vari contratti conclusi con successo con il nostro nome, siamo leader di mercato nel nostro settore altamente specializzato.
+## Quando serve l'accesso su fune
 
-Abbiamo anni di **esperienza** all’interno del nostro team insieme a procedure che sono state sviluppate per garantire un lavoro sicuro ed efficiente che ci consente di minimizzare i costi e risparmiare tempo sul posto.
+- Ispezione e manutenzione di **facciate, balconi e cornicioni**;
+- Lavori su **coperture** senza ponteggio: tetti, grondaie, camini, lucernari;
+- **Controlli visivi e rilievi fotografici** di strutture alte;
+- **Posa di reti, sigillanti, presidi e piccole riparazioni** in punti irraggiungibili;
+- Interventi **urgenti** su materiale a rischio caduta.
 
-I nostri tecnici specializzati Italfuni risolvono complessi problemi di accesso laddove i metodi convenzionali non sono possibili / impraticabili o troppo costosi.
+## Sicurezza: come la organizziamo
 
-Una volta che il problema dell’accesso è stato valutato e la soluzione è in atto, i nostri operatori vanno a posizionarsi nel punto esatto del lavoro svolgendo una vasta gamma di compiti, dalla fissazione del mastice al lavoro di pulizia.
+Il lavoro su fune non è improvvisazione, è un sistema:
 
-Per noi è fondamentale la documentazione sulla sicurezza (**piano operativo della sicurezza – D.lgs 81/08**)  e l’attenzione ai dettagli, la nostra filosofia è quella di “ **completare il proprio compito, con dovere ed attenzione** ” garantendo che le migliori pratiche nel lavoro siano pienamente rispettate.
+1. **Valutazione dei rischi** del sito e piano operativo di sicurezza, come richiede il D.Lgs. 81/2008;
+2. **Doppia fune indipendente**: una di lavoro e una di sicurezza, ancorate separatamente;
+3. **Operatori formati** con corsi specifici per lavori in quota con accesso e posizionamento su fune;
+4. **Dispositivi di protezione** (imbracature, caschi, connettori, discensori) controllati e registrati;
+5. **Procedura di recupero** pronta: ogni cantiere ha un piano per il soccorso rapido, con persone e attrezzatura sul posto;
+6. **Delimitazione** dell'area sotto il lavoro e coordinamento con altre imprese.
 
-La professionalità e l’impegno degli addetti al settore dell’accesso alle funi nasce per fornire un ambiente di lavoro sicuro per i nostri operatori grazie all’accreditamento che deteniamo.
+## Un vantaggio concreto per il committente
 
-La  **nostra formazione** è appositamente progettata e ci consente di fornire una preparazione di prima classe e offrire ai nostri tecnici l’opportunità di praticare tecniche e salvataggi in un ambiente controllato.
+Il cantiere su fune è più semplice da gestire: non richiede pratiche di occupazione del suolo, dura di meno, non blocca ingressi e passaggi. Per gli amministratori significa **spese più contenute** da portare in assemblea e meno disagi per i condomini.
 
-Italfuni ha un **notevole livello di sicurezza** rispetto ad altri settori per mantenere attraverso un duro lavoro un approccio metodico disciplinato e procedure robuste.
+## Casi particolari a Roma
 
-*Contattataci, siamo qui a Roma per discutere insieme le vostre esigenze, per risparmiare tempo e denaro utilizzando le nostre tecniche di accesso flessibili e specializzate.*
+Edifici vincolati, palazzi del centro storico, torri di uffici, scuole e strutture sanitarie hanno regole proprie. Concordiamo con te orari, accessi e precauzioni, e produciamo la documentazione necessaria per i controlli.
+
+## Cosa ricevi da noi
+
+Un preventivo chiaro, un piano di lavoro, il personale formato, la documentazione di sicurezza e, a fine lavoro, un **report con foto** dello stato dei luoghi.
+
+## Collegati
+
+I servizi che svolgiamo più spesso su fune: [pulizia vetri a Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}), [grondaie a Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}) e [tetti a Roma]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}). Siamo attivi anche a [Latina]({{ '/servizi/messa-in-sicurezza-dei-lavoratori-latina/' | relative_url }}) e [Viterbo]({{ '/servizi/messa-in-sicurezza-a-viterbo/' | relative_url }}). Per approfondire: [messa in sicurezza]({{ '/servizi/messa-in-sicurezza/' | relative_url }}).
+
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con una descrizione del problema e qualche foto.

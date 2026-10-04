@@ -1,38 +1,46 @@
 ---
 layout: servizio
 title: "Rimozione materiale pericolante su fune a Viterbo"
-description: "Spesso negli edifici, in particolar modo quelli più vecchi, sono presenti pezzi di intonaco o parti di casa pericolanti che potrebbero cadere causando..."
+description: "Rimozione di parti instabili da cornicioni, facciate e torri a Viterbo e nella Tuscia, con intervento su fune che rispetta le murature storiche."
 gruppo: "Viterbo e provincia"
-seo_title: "Rimozione materiale pericolante su fune a Viterbo - Italfuni"
-seo_description: "Spesso negli edifici, in particolar modo quelli più vecchi, sono presenti pezzi di intonaco o parti di casa pericolanti che potrebbero cadere causando danni anche importanti a persone e oggetti: occorre dunque contattare esperti per la rimozione di questi materiali pericolanti. Lo staff di Italfuni mette a disposizione lavoratori altamente qualificati esperti in tecniche di …"
+seo_title: "Rimozione materiale pericolante a Viterbo su fune | EdilExtreme"
+seo_description: "Cornicioni, intonaci e coppi instabili a Viterbo e in Tuscia? Rimozione del materiale pericolante su fune, con rispetto per le murature storiche e relazione fotografica. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/materiale-pericolante.jpg" alt="Rimozione materiale pericolante su fune a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/materiale-pericolante.jpg" alt="Operatore su fune rimuove parti instabili da una facciata a Viterbo" align="center" %}
 
-Spesso negli edifici, in particolar modo quelli più vecchi, sono presenti pezzi di intonaco o parti di casa pericolanti che potrebbero cadere causando danni anche importanti a persone e oggetti: occorre dunque contattare esperti per la rimozione di questi materiali pericolanti.
+A Viterbo e nei borghi della Tuscia molti edifici hanno secoli di storia: murature in tufo e peperino, cornicioni in laterizio, coperture a coppi, torrette e comignoli. Il tempo, l'acqua e le variazioni di temperatura lasciano il segno, e qualche elemento può **perdere stabilità e cadere** su strade e piazze strette. **EdilExtreme** lo individua e lo rimuove con tecniche su fune, che non caricano le strutture antiche.
 
-Lo staff di Italfuni mette a disposizione lavoratori altamente qualificati esperti in tecniche di alpinismo.
+## Cosa controlliamo e rimuoviamo
 
-I servizi di sicurezza sono gestiti da professionisti specializzati.
+- **Cornicioni e mensole** con parti sconnesse o fessurate;
+- **Intonaci distaccati** su facciate di palazzi e case a schiera;
+- **Coppi e tegole** smossi che rischiano di scivolare;
+- **Comignoli, merlature e piccoli elementi decorativi** non più saldi;
+- **Vegetazione infestante** che entra nei giunti e allarga le crepe.
 
-Tutte le attività di sicurezza vengono eseguite in conformità con la legislazione applicabile, tenendo conto dei rispettivi requisiti delle amministrazioni pubbliche.
+## Perché non usare il ponteggio
 
-L’utilizzo di funi e corde permette ai nostri esperti di lavorare a qualsiasi altezza e in ogni punto e ciò non sarebbe possibile se si utilizzassero impalcature o ponteggi; il nostro metodo di lavoro permette inoltre di far risparmiare il cliente, riuscendo ad abbassare i costi che i grandi impianti richiedono.
+Nei vicoli del centro storico un ponteggio ingombra, richiede permessi di occupazione del suolo e non sempre si può appoggiare su murature fragili. La fune permette di **arrivare in alto con un contatto minimo** con l'edificio e di chiudere il lavoro in poche ore.
 
-Durante l’intervento, i nostri operatori si occupano della recinzione temporanea delle aree di lavoro se necessario e della rimozione di ogni parte con segni di cedimento strutturale, al fine di garantire la sicurezza dei passanti e del cliente.
+## Il nostro metodo
 
-Ogni operazione viene attentamente valutata dal nostro personale interno che redigerà tutta la documentazione per la sicurezza (piano operativo di sicurezza ex D.Lgs. 81/08) da sottoporre al project manager o al contraente prima del lavoro.
+1. **Sopralluogo** e valutazione dei punti di ancoraggio, sempre scelti su parti solide;
+2. **Battitura e ispezione** da vicino, con foto delle zone critiche;
+3. **Rimozione controllata** dei frammenti, con raccolta e smaltimento;
+4. **Messa in sicurezza provvisoria** di ciò che non si può togliere, in attesa del restauro;
+5. **Relazione fotografica** da consegnare a proprietari, amministratori o ai tecnici incaricati.
 
-In tutti i lavori in quota su funi vengono utilizzate attrezzature tecniche (**Dispositivi di Protezione Individuale**) create apposta per il lavoro da svolgere, certificate secondo la UNI EN e sottoposte a rigorosi controlli di qualità.
+## Edifici vincolati
 
-La nostra azienda offre **supporto professionale** durante le varie fasi, dallo studio di fattibilità alla pianificazione e monitoraggio del progresso del lavoro diventando parte integrante del progetto del cliente e contribuendo alla produzione del progetto.
+Se l'edificio è sottoposto a tutela, possono servire autorizzazioni prima di intervenire. Ti aiutiamo a capire cosa serve e collaboriamo volentieri con il progettista o il restauratore.
 
-Perché sceglierci?
+## Sicurezza
 
-Italfuni garantisce:
+Doppia fune indipendente, operatori formati e attrezzature controllate, secondo il D.Lgs. 81/2008. Il passaggio sottostante viene delimitato o sorvegliato per tutta la durata del lavoro.
 
-- **Conformità delle norme di sicurezza;**
-- **Personale altamente specializzato;**
-- **Gestione della conformità.**
+## Altri servizi a Viterbo
 
-*Chiamaci senza impegno per un preventivo!!!*
+[Manutenzione dei tetti]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}), [pulizia delle grondaie]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}) e [accesso su fune per edifici storici]({{ '/servizi/messa-in-sicurezza-a-viterbo/' | relative_url }}). Interveniamo anche a [Rieti]({{ '/servizi/rimozione-materiale-pericolante-su-fune-a-rieti/' | relative_url }}), [Latina]({{ '/servizi/rimozione-materiale-pericolante-su-fune-a-latina/' | relative_url }}) e [Frosinone]({{ '/servizi/rimozione-materiale-pericolane-su-fune-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con una foto della zona che ti preoccupa.

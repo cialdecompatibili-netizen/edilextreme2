@@ -1,32 +1,50 @@
 ---
 layout: servizio
 title: "Impermeabilizzazione su fune a Latina"
-description: "Le infiltrazioni di acqua rappresentano una delle cause principali del deterioramento degli edifici nel tempo."
+description: "Impermeabilizzazione di terrazze, tetti piani e coperture a Latina e sulla costa con guaine riflettenti e resine: resistono a sole e salsedine."
 gruppo: "Latina e provincia"
-seo_title: "Impermeabilizzazione su fune a Latina - Italfuni"
-seo_description: "Le infiltrazioni di acqua rappresentano una delle cause principali del deterioramento degli edifici nel tempo. Per evitare danni strutturali importanti è meglio intervenire ai primi segni di crepe o fessure. Assume dunque un’importanza primordiale l’impermeabilizzazione costante al fine di mantenere il tuo immobile sicuro da eventuali danni strutturali, ma non tutte le aree sono facilmente …"
+seo_title: "Impermeabilizzazione terrazze e tetti a Latina su fune | EdilExtreme"
+seo_description: "Impermeabilizzazione di terrazze, lastrici e coperture piane a Latina e provincia con guaine riflettenti e resine, resistenti a sole e salsedine. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione-1.jpg" alt="Impermeabilizzazione su fune a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione-1.jpg" alt="Posa di guaina su una copertura a Latina" align="center" %}
 
-Le infiltrazioni di acqua rappresentano una delle cause principali del deterioramento degli edifici nel tempo.
+Nella provincia di Latina l'impermeabilizzazione deve fare i conti con due fattori che altrove pesano meno: **il sole forte** e la **salsedine**. Le terrazze delle palazzine al mare e le coperture piane dei capannoni sono esposte a temperature elevate per mesi, e i materiali, dilatandosi e contraendosi ogni giorno, si fessurano. **EdilExtreme** sceglie sistemi pensati per questo clima.
 
-Per evitare danni strutturali importanti è meglio intervenire ai primi segni di crepe o fessure.
+## Luoghi in cui interveniamo
 
-Assume dunque un’importanza primordiale l’impermeabilizzazione costante al fine di mantenere il tuo immobile sicuro da eventuali danni strutturali, ma non tutte le aree sono facilmente accessibili da terra, motivo in più per sceglierci, il motivo è molto semplice; noi di Italfuni offriamo un servizio di impermeabilizzazione in tutta Latina e provincia, ma ci serviamo di funi per svolgere i lavori che ci vengono commissionati.
+- **Terrazze e lastrici** di palazzine a Latina, Latina Lido, Sabaudia e Terracina;
+- **Coperture piane** di capannoni, magazzini e serre;
+- **Balconi** e pergolati in cemento;
+- **Vasche, fioriere e muri controterra**;
+- **Rampe e garage** esposti ai temporali.
 
-Grazie al lavoro su funi, gli esperti di Italfuni riescono ad operare a qualsiasi altezza, in totale sicurezza, garantendo un lavoro di qualità, rispettando i tempi e permettendo al cliente di **risparmiare** notevolmente sul costo di ponteggi e impalcature.
+## Guaine riflettenti
 
-Le impermeabilizzazione sono lavori spesso complessi e costosi, finalizzati ad impedire il passaggio dell’acqua piovana negli strati sottostanti, che può compromettere la solidità della struttura e la capacità d’isolamento termico dell’abitazione.
+Sulle coperture piane una **finitura chiara e riflettente** riduce la temperatura del tetto e quindi anche il calore trasmesso all'interno e la dilatazione dei materiali. Il risultato è un'impermeabilizzazione che invecchia più lentamente e una minore richiesta di raffrescamento estivo, soprattutto in capannoni e magazzini.
 
-Con Italfuni puoi bloccare le infiltrazioni rapidamente grazie al lavoro su corde, che non prevede il montaggio di ponteggi o di altre strutture ingombranti e costose per il sollevamento del personale.
+## Resine per terrazzi e balconi
 
-I nostri tecnici sono esperti e competenti, in possesso degli che permettono loro di accedere in sicurezza a zone più alte, per svolgere compiti complessi come l’impermeabilizzazione.
+Sulle terrazze calpestabili usiamo resine elastiche, che si adattano alle micro-fessure del supporto. Lungo la costa preferiamo prodotti resistenti al sale e ai raggi UV. Pavimenti e bordi vengono ripristinati con cura, curando gocciolatoi e raccordi con le pareti.
 
-Ci occupiamo di qualsiasi tipo di riparazione, da una semplicissima pulizia di routine alla verniciatura, mettendoci sempre grandissima **passione** e **professionalità**.
+## Come procediamo
 
-L’inizio dei lavori sarà preceduto da un sopralluogo in cui verrà valutata la condizione dell’edificio e decidere come intervenire, ponendo così una scadenza e un budget.
+1. **Ispezione** per capire da dove entra l'acqua;
+2. **Preparazione del supporto**: pulizia, riparazione di crepe, rimozione di materiali incoerenti;
+3. **Posa del sistema** scelto, con primer, strati e rinforzi nei punti critici;
+4. **Controllo di scarichi e pendenze**, per evitare ristagni;
+5. **Documentazione fotografica** e indicazioni di manutenzione.
 
-Italfuni offre prodotti di alta qualità, conoscenze specialistiche sul campo e una serie di servizi di rilevamento degli edifici, come la stesura di bozze, la registrazione fotografica e altro ancora.
+## Fune o ponteggio
 
-*Non aspettare, un team di esperti è pronto ad operare in tutta Latina e provincia, richiedi un preventivo gratuito senza impegno! Italfuni è con te!*
+Per balconi, cornicioni e bordi dall'esterno la fune evita ponteggi su giardini e passaggi. Sulle grandi coperture piane serve soprattutto un lavoro accurato dall'alto, che coordiniamo secondo la sicurezza in quota richiesta dal D.Lgs. 81/2008.
+
+## Quando conviene
+
+Il tempo ideale è da **primavera a inizio estate**, con supporto asciutto. Evitiamo i giorni di pioggia e l'umidità alta, che compromettono l'adesione.
+
+## Collegati
+
+Spesso insieme: [manutenzione del tetto a Latina]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }}) e [grondaie a Latina]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}). Altre province: [Roma]({{ '/servizi/impermeabilizzazione-su-fune-a-roma/' | relative_url }}), [Rieti]({{ '/servizi/impermeabilizzazione-su-fune-a-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/impermeabilizzazione-su-fune-a-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/impermeabilizzazione-su-fune-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto e località.

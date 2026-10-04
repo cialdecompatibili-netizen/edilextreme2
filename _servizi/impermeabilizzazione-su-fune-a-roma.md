@@ -1,36 +1,46 @@
 ---
 layout: servizio
 title: "Impermeabilizzazione su fune a Roma"
-description: "Le infiltrazioni di acqua possono essere una delle ragioni principali del deterioramento degli edifici nel tempo."
+description: "Impermeabilizzazione di terrazzi, lastrici solari, balconi e coperture a Roma con accesso su fune: guaine, resine e sigillature, senza ponteggi."
 gruppo: "Roma e provincia"
-seo_title: "Impermeabilizzazione su fune a Roma - Italfuni"
-seo_description: "Le infiltrazioni di acqua possono essere una delle ragioni principali del deterioramento degli edifici nel tempo. Per questo motivo, l’impermeabilizzazione costante e coerente è fondamentale per mantenere il tuo stabile sicuro ed evitare danni strutturali. Ma dal momento che non tutte le aree sono facilmente accessibili da terra e si desidera impermeabilizzare completamente l’edificio, è …"
+seo_title: "Impermeabilizzazione terrazzi e tetti a Roma su fune | EdilExtreme"
+seo_description: "Impermeabilizzazione di lastrici solari, terrazzi e coperture a Roma e provincia con guaine e resine, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione.jpg" alt="Impermeabilizzazione su fune a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione.jpg" alt="Impermeabilizzazione di una copertura a Roma" align="center" %}
 
-Le infiltrazioni di acqua possono essere una delle ragioni principali del deterioramento degli edifici nel tempo.
+A Roma la maggior parte delle infiltrazioni nei condomini nasce da pochi punti: il **lastrico solare** del terrazzo condominiale, i balconi sporgenti, il bordo del tetto, il raccordo tra muro e copertura. L'acqua entra, scende lungo le murature e si fa notare solo quando macchia i soffitti dei piani alti. **EdilExtreme** individua il punto d'ingresso e ripristina la tenuta, lavorando anche su fune dove serve.
 
-Per questo motivo, l’**impermeabilizzazione** costante e coerente è fondamentale per mantenere il tuo stabile sicuro ed evitare danni strutturali.
+## Cosa impermeabilizziamo
 
-Ma dal momento che non tutte le aree sono facilmente accessibili da terra e si desidera impermeabilizzare completamente l’edificio, è necessario un buon lavoro da parte di specialisti dell’altezza per gestirlo.
+- **Lastrici solari e terrazzi condominiali**, il caso più frequente;
+- **Balconi e logge**, con trattamento di pavimenti, gocciolatoi e parapetti;
+- **Coperture piane** di palazzine, magazzini e garage;
+- **Cornicioni e bordi** di tetti, dove l'acqua si infiltra dietro i rivestimenti;
+- **Giunti, camini e passaggi di impianti**, sigillati con prodotti elastici.
 
-**Italfuni a Roma è uno dei principali fornitori di servizi di accesso per lavori in fune nella città capitolina**.
+## Materiali e sistemi
 
-I nostri tecnici sono esperti e competenti, in possesso degli strumenti e delle competenze che consentono loro di accedere in sicurezza a zone più alte, per svolgere compiti complessi come l’impermeabilizzazione.
+Scegliamo il sistema in base all'uso e all'esposizione: **guaine bituminose** o sintetiche per grandi superfici piane; **resine poliuretaniche o acriliche** per terrazzi pedonali e balconi; **malte cementizie osmotiche** per muri e vasche; **sigillanti elastici** per giunti e raccordi. Tutti i prodotti sono pensati per sopportare sole, pioggia e sbalzi di temperatura.
 
-Con il loro aiuto, puoi stare tranquillo che il tuo edificio sarà impermeabile in un batter d’occhio e nessuno si farà male nelle riparazioni.
+## Perché la diagnosi conta
 
-Nessuna finestra, tetto o parete è troppo alta per essere pulita.
+Un'impermeabilizzazione fatta male dura poco. Prima di intervenire cerchiamo la **vera causa**: pendenze sbagliate, scarichi intasati, fessure, giunti vecchi. A volte basta ripristinare un tratto, altre serve rifare tutta la superficie. Ti diciamo con chiarezza cosa serve e cosa no.
 
-A Roma, Italfuni opera nella gestione di tutti i tipi di riparazioni, che si tratti di una pulizia di routine o di rimozione di graffiti, ma anche compiti di verniciatura sia semplici che complessi.
+## Fune e ponteggio
 
-Il nostro servizio di impermeabilizzazione è qui per aiutarti ed assicurarti che il tuo tetto, terrazzo o balcone siano sempre completamente sigillati.
+Intervenire su balconi e cornicioni dall'esterno con un ponteggio richiede tempo e permessi. Con la fune si lavora in sicurezza anche su parti sporgenti e si limitano i costi. Sul terrazzo condominiale il lavoro avviene dall'alto, senza occupare la strada.
 
-Attraverso un attento sopralluogo, sarà effettuata una prima valutazione dello stato generale dell’edificio per verificare la fuoriuscita dell’acqua.
+## Garanzie e durata
 
-Gli interventi si svolgeranno attraverso l’applicazione di uno stato di primer e con la sostituzione della nuova guaina che a seconda delle necessità sarà applicata nella superficie usurata.
+Il lavoro viene documentato con foto prima, durante e dopo. Indichiamo sempre prodotti, spessori e tempi di posa. Una buona impermeabilizzazione, ben mantenuta, dura molti anni: consigliamo un controllo annuale, insieme alla pulizia degli scarichi.
 
-**Italfuni offre prodotti di alta qualità, conoscenze specialistiche sul campo e una serie di servizi di rilevamento degli edifici, come la stesura di bozze, la registrazione fotografica e altro ancora.**
+## Sicurezza
 
-*Non aspettare, un team di esperti è pronto ad operare in tutta Roma, richiedi un preventivo gratuito senza impegno! Italfuni è con te!*
+Operatori formati, doppia fune, protezione dell'area sottostante, D.Lgs. 81/2008.
+
+## Collegati
+
+Spesso l'impermeabilizzazione va con la [riparazione del tetto a Roma]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}) e con le [grondaie]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}). Servizio attivo anche a [Latina]({{ '/servizi/impermeabilizzazione-su-fune-a-latina/' | relative_url }}), [Rieti]({{ '/servizi/impermeabilizzazione-su-fune-a-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/impermeabilizzazione-su-fune-a-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/impermeabilizzazione-su-fune-a-frosinone/' | relative_url }}). Pagina generale: [impermeabilizzazione su fune]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}).
+
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto della zona che perde.
