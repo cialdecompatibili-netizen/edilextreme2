@@ -9,7 +9,7 @@ seo_title: "Impermeabilizzazione terrazzi e tetti su fune | EdilExtreme"
 seo_description: "Infiltrazioni da terrazzo, balcone o tetto? EdilExtreme impermeabilizza con guaine e membrane lavorando su fune, senza ponteggi. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune durante un intervento di impermeabilizzazione" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su fune durante un intervento di impermeabilizzazione" align="center" %}
 
 Una macchia sul soffitto, un angolo di muro che si gonfia, un cornicione che perde pezzi: quasi sempre il problema nasce da una superficie esterna che ha smesso di tenere l'acqua. **EdilExtreme** ripristina l'impermeabilizzazione di terrazzi, balconi, cornicioni, lastrici solari e coperture lavorando su fune, quindi senza montare ponteggi e senza noleggiare piattaforme.
 

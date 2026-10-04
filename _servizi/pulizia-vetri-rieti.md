@@ -7,7 +7,7 @@ seo_title: "Pulizia vetri a Rieti e provincia su fune | EdilExtreme"
 seo_description: "Pulizia vetri e vetrate a Rieti, nella Sabina e nel Reatino con tecnica su fune: niente ponteggi, interventi programmati con il meteo di montagna. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/rope-access-window-cleaning.jpg" alt="Operatore su corda lavora su vetri a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/rope-access-window-cleaning.jpg" alt="Operatore su corda lavora su vetri a Rieti" align="center" %}
 
 Nel Reatino il clima condiziona ogni lavoro in quota. Inverni freddi con gelo e nebbia, estati asciutte, vento che scende dai rilievi: un intervento sui vetri va **programmato sul meteo**, non sul calendario. **EdilExtreme** conosce questi vincoli e organizza la pulizia su fune scegliendo le giornate giuste, così le vetrate tornano pulite senza ponteggi e senza rischi.
 

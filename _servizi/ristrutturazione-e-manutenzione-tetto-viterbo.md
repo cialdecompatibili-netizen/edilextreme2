@@ -7,7 +7,7 @@ seo_title: "Riparazione e rifacimento tetti a Viterbo su fune | EdilExtreme"
 seo_description: "Riparazione, manutenzione e rifacimento di tetti in coppi a Viterbo e nella Tuscia: casali e edifici storici, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Lavori di manutenzione su un tetto in coppi nella Tuscia" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/riparazione-tetti.jpg" alt="Lavori di manutenzione su un tetto in coppi nella Tuscia" align="center" %}
 
 A Viterbo il tetto è una parte importante dell'identità dell'edificio: coppi e tegole in laterizio, cornicioni in pietra, travi in castagno e quercia. Sono coperture belle, ma da trattare con attenzione. Un colpo di vento o una grandinata possono spostare i coppi, e l'acqua che entra nei vecchi solai fa danni lenti e costosi. **EdilExtreme** ripara e rifà i tetti con accesso su fune, riducendo l'impatto sull'edificio.
 

@@ -7,7 +7,7 @@ seo_title: "Potatura alberi a Roma con tree climbing | EdilExtreme"
 seo_description: "Potatura, alleggerimento e abbattimento di pini, platani e alberi ad alto fusto a Roma e provincia con tecnica su fune. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Operatore su corda pota un albero ad alto fusto" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/potatura-albero-con-corde.jpg.jpg" alt="Operatore su corda pota un albero ad alto fusto" align="center" %}
 
 Roma è una delle città più alberate d'Europa: pini domestici, platani, lecci, cedri e magnolie crescono in cortili, ville, viali e giardini condominiali. Quando i rami toccano tetti, cavi o finestre, o quando un esemplare diventa instabile, la potatura va affidata a chi sa lavorare in quota. **EdilExtreme** sale con le tecniche dell'arboricoltura su fune, senza gru e senza rovinare ciò che sta sotto.
 

@@ -9,7 +9,7 @@ seo_title: "Potatura alberi ad alto fusto con tree climbing | EdilExtreme"
 seo_description: "Potatura, riduzione e abbattimento controllato di alberi alti con tree climbing: si lavora in chioma con le funi, senza gru. Sopralluogo e preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Operatore in chioma con tecnica tree climbing" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/potatura-albero-con-corde.jpg.jpg" alt="Operatore in chioma con tecnica tree climbing" align="center" %}
 
 Un albero grande è un bene prezioso, finché non tocca il tetto, non sporge sulla strada o non ha rami secchi sopra il parcheggio. Intervenire senza gru e senza rovinare giardino, aiuole e recinzioni è possibile con il **tree climbing**: l'operatore sale in chioma con le funi e lavora a stretto contatto con la pianta.
 

@@ -7,7 +7,7 @@ seo_title: "Lavori in quota in sicurezza a Latina su fune | EdilExtreme"
 seo_description: "Accesso su fune e lavori in quota a Latina e provincia con operatori formati, piano di sicurezza e procedure di soccorso, per aziende, condomini e strutture agricole. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore in quota su fune a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore in quota su fune a Latina" align="center" %}
 
 Nella provincia di Latina molte attività hanno bisogno di lavorare in alto: tetti di capannoni e magazzini frigoriferi, serre, silos, torri dell'acqua, palazzine al mare, coperture di stabilimenti. Non sempre ci sono ponteggi o linee vita, e chi sale rischia. **EdilExtreme** porta l'accesso su fune e le regole che lo rendono sicuro.
 

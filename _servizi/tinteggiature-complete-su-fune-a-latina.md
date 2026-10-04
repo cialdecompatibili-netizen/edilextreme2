@@ -7,7 +7,7 @@ seo_title: "Tinteggiatura facciate a Latina su fune | EdilExtreme"
 seo_description: "Tinteggiatura di condomini e facciate a Latina e provincia con pitture adatte all'ambiente marino, lavoro su fune senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/tinteggiatura.jpg" alt="Tinteggiatura su fune di un condominio a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/tinteggiatura.jpg" alt="Tinteggiatura su fune di un condominio a Latina" align="center" %}
 
 Sul litorale pontino una facciata dura meno che nell'entroterra: **sole intenso, vento carico di sale, umidità e pioggia** spengono i colori e rovinano le pitture in pochi anni. Scegliere il prodotto giusto fa la differenza tra un lavoro che dura e uno da rifare presto. **EdilExtreme** dipinge condomini, residence e ville tra Latina, Sabaudia, Terracina, Gaeta, Formia e dintorni, con l'accesso su fune.
 

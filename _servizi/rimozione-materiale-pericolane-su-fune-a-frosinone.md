@@ -7,7 +7,7 @@ seo_title: "Rimozione materiale pericolante a Frosinone su fune | EdilExtreme"
 seo_description: "Intonaci e cornicioni che si staccano a Frosinone e provincia? Rimozione del materiale pericolante su fune, con area delimitata e documentazione. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/materiale-pericolante.jpg" alt="Rimozione di materiale pericolante da una facciata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/materiale-pericolante.jpg" alt="Rimozione di materiale pericolante da una facciata" align="center" %}
 
 In provincia di Frosinone molti edifici sono stati costruiti nei decenni del boom edilizio, con balconi e cornicioni in cemento armato oggi in età. Con il tempo l'acqua penetra, i **ferri d'armatura si ossidano e si gonfiano**, il calcestruzzo si spacca e cade a pezzi. Un frammento di facciata che si stacca da venti metri è un pericolo serio per chi cammina sotto. **EdilExtreme** lo elimina prima che succeda, lavorando su fune.
 

@@ -8,7 +8,7 @@ seo_title: "Pulizia e installazione canne fumarie e comignoli su fune | EdilExtr
 seo_description: "Pulizia, ispezione e installazione di canne fumarie e comignoli lavorando su fune: più sicurezza, meno rischio di incendio e niente ponteggi. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune al lavoro su un comignolo" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su fune al lavoro su un comignolo" align="center" %}
 
 Ogni volta che si accende un camino, una stufa o una caldaia a combustibile solido, sulle pareti del condotto si deposita qualcosa: fuliggine e, soprattutto con legna umida o poco stagionata, **creosoto**, un residuo catramoso e molto infiammabile. Se si accumula, il condotto restringe la sezione, il tiraggio peggiora e il rischio di **incendio della canna fumaria** aumenta. **EdilExtreme** si occupa di pulizia, controllo e installazione di canne fumarie e comignoli, lavorando dall'alto su fune.
 

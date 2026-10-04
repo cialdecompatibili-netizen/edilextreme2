@@ -7,7 +7,7 @@ seo_title: "Tinteggiatura facciate a Viterbo su fune | EdilExtreme"
 seo_description: "Tinteggiatura di facciate a Viterbo e in Tuscia con accesso su fune: prodotti traspiranti per edifici storici e pitture moderne per i condomini. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/tinteggiatura-su-fune-1-705x296-1.jpg" alt="Operatore su fune dipinge una facciata a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/tinteggiatura-su-fune-1-705x296-1.jpg" alt="Operatore su fune dipinge una facciata a Viterbo" align="center" %}
 
 Dipingere una facciata a Viterbo non è mai un lavoro standard. Nel centro storico ci sono **intonaci a calce, murature antiche e vincoli sui colori**; nei quartieri più recenti, condomini in cemento con esigenze diverse. **EdilExtreme** sceglie prodotti e metodi in base al supporto, lavorando su fune dove il ponteggio è scomodo o impossibile.
 

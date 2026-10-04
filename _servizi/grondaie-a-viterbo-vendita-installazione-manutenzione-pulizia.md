@@ -7,7 +7,7 @@ seo_title: "Grondaie a Viterbo: installazione e pulizia su fune | EdilExtreme"
 seo_description: "Installazione, manutenzione e pulizia di grondaie a Viterbo e provincia con tecnica su fune: tetti in coppi, casali e centro storico. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/grondaie.jpg" alt="Grondaia su un edificio a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/grondaie.jpg" alt="Grondaia su un edificio a Viterbo" align="center" %}
 
 Sui tetti di Viterbo e della Tuscia le grondaie hanno compiti delicati: raccogliere l'acqua senza rovinare un'architettura che spesso ha secoli di storia. Palazzi in peperino, casali in tufo, tetti in coppi con cornicioni sporgenti: qui una grondaia non è solo un canale, è parte dell'edificio. **EdilExtreme** la installa e la manutiene su fune, evitando strutture invasive.
 

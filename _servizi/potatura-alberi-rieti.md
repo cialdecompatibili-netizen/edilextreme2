@@ -7,7 +7,7 @@ seo_title: "Potatura alberi a Rieti e provincia su fune | EdilExtreme"
 seo_description: "Potatura, messa in sicurezza e abbattimento di alberi ad alto fusto a Rieti, Sabina e montagna reatina con tree climbing. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Operatore su fune pota un albero a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/potatura-albero-con-corde.jpg.jpg" alt="Operatore su fune pota un albero a Rieti" align="center" %}
 
 Il Reatino è un territorio verde: boschi di querce e faggi, castagneti, noci e ulivi nelle fasce collinari, conifere in quota. Chi vive o lavora qui sa che gli alberi sono una risorsa, ma anche un rischio quando i rami toccano tetti e linee, dopo una nevicata o in terreni in pendenza dove nessun mezzo arriva. **EdilExtreme** lavora con il tree climbing, perfetto per questi luoghi.
 

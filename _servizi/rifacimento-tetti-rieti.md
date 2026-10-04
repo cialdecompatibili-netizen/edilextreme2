@@ -7,7 +7,7 @@ seo_title: "Rifacimento e riparazione tetti a Rieti su fune | EdilExtreme"
 seo_description: "Riparazione, manutenzione e rifacimento di tetti a Rieti e provincia: neve, gelo e travi in legno, con accesso su fune. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Tetto in riparazione in zona montana" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/riparazione-tetti.jpg" alt="Tetto in riparazione in zona montana" align="center" %}
 
 A Rieti e nelle valli intorno il tetto non è solo una copertura: deve **sopportare la neve**, il gelo che spacca tegole e coppi, l'umidità che invecchia le travi. Case di pietra, fienili, casali ristrutturati e seconde case di montagna chiedono controlli regolari. **EdilExtreme** lavora su fune, anche dove salire con un mezzo è impossibile.
 

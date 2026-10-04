@@ -9,7 +9,7 @@ seo_title: "Pulizia, riparazione e sostituzione grondaie su fune | EdilExtreme"
 seo_description: "Grondaie otturate o che perdono? EdilExtreme pulisce, ripara e sostituisce grondaie e pluviali lavorando su fune, senza ponteggi. Richiedi un preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune che interviene su una grondaia" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su fune che interviene su una grondaia" align="center" %}
 
 La grondaia lavora in silenzio finché funziona. Quando si intasa, invece, l'acqua trabocca lungo la facciata, scava gli intonaci, entra sotto le tegole e finisce nelle fondazioni. **EdilExtreme** pulisce, ripara e sostituisce grondaie e pluviali lavorando su fune: si arriva a qualsiasi altezza senza ponteggi, senza piattaforme aeree e con un cantiere che si monta in pochi minuti.
 

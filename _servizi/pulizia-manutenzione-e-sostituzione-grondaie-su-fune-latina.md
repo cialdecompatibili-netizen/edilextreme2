@@ -7,7 +7,7 @@ seo_title: "Grondaie a Latina: pulizia e sostituzione su fune | EdilExtreme"
 seo_description: "Pulizia, riparazione e sostituzione di grondaie e pluviali a Latina e provincia con tecnica su fune: la salsedine corrode, noi interveniamo. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/grondaie.jpg" alt="Grondaia in manutenzione su un edificio a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/grondaie.jpg" alt="Grondaia in manutenzione su un edificio a Latina" align="center" %}
 
 Nella piana pontina le grondaie soffrono più che altrove. In estate il sole e la salsedine, in autunno piogge intense e vento: i materiali si ossidano, i giunti si aprono, i canali si riempiono di sabbia, foglie di eucalipto e aghi di pino. **EdilExtreme** pulisce e ripara le grondaie su fune, evitando ponteggi e interventi invasivi.
 

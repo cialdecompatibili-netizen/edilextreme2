@@ -7,7 +7,7 @@ seo_title: "Installazione condizionatori su facciata a Roma su fune | EdilExtrem
 seo_description: "Montaggio e sostituzione di unità esterne di climatizzatori su facciate alte a Roma e provincia con accesso su fune: niente ponteggi, tempi rapidi, operatori formati. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/rope-access-air-conditioning-vent-installation-4.jpg" alt="Operatore su fune installa un'unità esterna di condizionatore su una facciata a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/rope-access-air-conditioning-vent-installation-4.jpg" alt="Operatore su fune installa un'unità esterna di condizionatore su una facciata a Roma" align="center" %}
 
 A Roma l'estate è lunga e il caldo arriva presto: ogni anno aumentano le richieste di climatizzazione per uffici, negozi, studi e appartamenti. Il problema è che molte unità esterne vanno montate **in alto**, su facciate di palazzi alti, cortili interni stretti o terrazzi poco accessibili. **EdilExtreme** risolve il montaggio con l'accesso su fune, senza ponteggi e senza gru.
 

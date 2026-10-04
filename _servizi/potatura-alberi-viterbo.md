@@ -7,7 +7,7 @@ seo_title: "Potatura alberi a Viterbo e provincia su fune | EdilExtreme"
 seo_description: "Potatura, riduzione e abbattimento di alberi a Viterbo e nella Tuscia con tecnica su fune: giardini storici, casali, cipressi e querce. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura su fune di un albero nella Tuscia" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/potatura-albero-con-corde.jpg.jpg" alt="Potatura su fune di un albero nella Tuscia" align="center" %}
 
 La Tuscia è un mosaico di cipressi lungo i viali, querce e cerri nei boschi, ulivi nelle campagne, noccioleti sui Cimini e grandi alberi nei giardini delle ville storiche. Ogni specie ha le sue esigenze e ogni giardino i suoi limiti. **EdilExtreme** sceglie la tecnica su fune, che permette di lavorare con garbo anche dove una macchina non passa.
 

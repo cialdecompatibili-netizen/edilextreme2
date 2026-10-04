@@ -7,7 +7,7 @@ seo_title: "Isolamento termico a Latina montato su fune | EdilExtreme"
 seo_description: "Isolamento termico di facciate e coperture a Latina e provincia con pannelli posati su fune: meno caldo d'estate e meno umidità. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Pannelli isolanti montati su una facciata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/isolanti.jpg" alt="Pannelli isolanti montati su una facciata" align="center" %}
 
 A Latina e sul litorale l'isolamento termico serve soprattutto d'estate. Il sole forte scalda pareti e coperture, che cedono calore all'interno per tutta la notte; d'inverno, con un clima mite ma umido, la condensa lascia macchie e muffa negli angoli freddi. **EdilExtreme** monta isolanti su facciate e tetti lavorando su fune, per ridurre entrambi i problemi senza ponteggi.
 

@@ -7,7 +7,7 @@ seo_title: "Ristrutturazione balconi e facciate a Rieti su fune | EdilExtreme"
 seo_description: "Balconi e facciate rovinati da gelo e umidità a Rieti e provincia? Ripristino del calcestruzzo, protezione dei ferri e finitura su fune, anche in zone ripide. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Lavori su fune al ripristino di un balcone a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/operai-balconi.jpg" alt="Lavori su fune al ripristino di un balcone a Rieti" align="center" %}
 
 A Rieti e nei paesi del Reatino l'inverno mette alla prova gli edifici: **neve, gelo, umidità e forti sbalzi di temperatura** entrano nelle crepe di balconi e facciate e le allargano stagione dopo stagione. Se in più il fabbricato è stato costruito con materiali di qualità modesta, i danni si vedono presto. **EdilExtreme** ripara balconi, frontalini e intonaci lavorando su fune, anche dove le strade sono ripide o strette.
 

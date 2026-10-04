@@ -7,7 +7,7 @@ seo_title: "Rimozione materiale pericolante a Rieti su fune | EdilExtreme"
 seo_description: "Intonaci e cornicioni che si staccano per il gelo a Rieti e provincia? Rimozione del materiale pericolante su fune, area messa in sicurezza e relazione fotografica. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/materiale-pericolante.jpg" alt="Messa in sicurezza di una facciata a Rieti con rimozione di parti instabili" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/materiale-pericolante.jpg" alt="Messa in sicurezza di una facciata a Rieti con rimozione di parti instabili" align="center" %}
 
 Nel Reatino gli inverni sono freddi e le escursioni termiche tra giorno e notte sono marcate. L'acqua entra nelle microfessure di intonaci, balconi e cornicioni, **gela e si espande**, poi si scioglie: ripetuto più volte, questo ciclo di gelo e disgelo stacca pezzi di materiale che prima o poi cadono. **EdilExtreme** interviene su fune per toglierli prima che diventino un pericolo per chi passa sotto.
 

@@ -9,7 +9,7 @@ seo_title: "Rimozione materiale pericolante e messa in sicurezza facciate | Edil
 seo_description: "Intonaci e cornicioni che si staccano? EdilExtreme rimuove il materiale pericolante e mette in sicurezza facciate e balconi lavorando su fune. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune che rimuove materiale pericolante da una facciata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su fune che rimuove materiale pericolante da una facciata" align="center" %}
 
 Un pezzo d'intonaco che cade da dieci metri non è un fastidio: è un pericolo per chi passa e una responsabilità per chi amministra l'edificio. Cornicioni sgretolati, frontalini di balconi con il ferro a vista, rivestimenti che suonano "a vuoto" sono situazioni da trattare in fretta. **EdilExtreme** esegue la **rimozione del materiale instabile** e la messa in sicurezza di facciate, balconi e coperture lavorando su fune, quindi senza dover aspettare il montaggio di un ponteggio.
 

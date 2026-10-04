@@ -7,7 +7,7 @@ seo_title: "Grondaie a Rieti: pulizia e riparazione su fune | EdilExtreme"
 seo_description: "Pulizia e riparazione di grondaie a Rieti e provincia con tecnica su fune: neve, gelo e foglie danneggiano i canali. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-grondaie-su-fune.jpg" alt="Pulizia di una grondaia su fune a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-grondaie-su-fune.jpg" alt="Pulizia di una grondaia su fune a Rieti" align="center" %}
 
 Per una grondaia di Rieti l'inverno è la prova più dura. L'acqua che gela nei pluviali si espande e **spacca giunti e tubi**; la neve che scivola dal tetto piega i canali e strappa le staffe; in primavera ci si trova con grondaie aperte, deformate o piene di foglie e terra. **EdilExtreme** le sistema su fune, senza ponteggi, anche su tetti alti e spioventi.
 

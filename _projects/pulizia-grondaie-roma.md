@@ -2,13 +2,13 @@
 layout: page
 title: "Pulizia grondaie su fune"
 description: "Grondaie e pluviali ostruiti da foglie e detriti, puliti e ripristinati con l'accesso su fune: nessun ponteggio, intervento in giornata."
-img: assets/img/italfuni/img_20180118_wa0002.jpg
+img: assets/img/servizi/img_20180118_wa0002.jpg
 importance: 2
 category: Lavori
 in_home: true
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune pulisce una grondaia" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su fune pulisce una grondaia" align="center" %}
 
 Una grondaia intasata smette di raccogliere l'acqua: quella che dovrebbe scendere nei pluviali trabocca sulla facciata, bagna l'intonaco e, nei mesi freddi, gela. Foglie, aghi di pino, fango e persino piccoli arbusti portati dal vento o dagli uccelli sono le cause più comuni.
 

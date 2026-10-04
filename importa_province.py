@@ -10,7 +10,7 @@ REPO = HOME / "Desktop/italfuni"
 W = HOME / "AppData/Local/Temp/italfuni_prov_src"; W.mkdir(parents=True, exist_ok=True)
 OUT = HOME / "AppData/Local/Temp/italfuni_prov_out"
 if OUT.exists(): shutil.rmtree(OUT)
-(OUT / "_servizi").mkdir(parents=True); (OUT / "assets/img/italfuni").mkdir(parents=True)
+(OUT / "_servizi").mkdir(parents=True); (OUT / "assets/img/servizi").mkdir(parents=True)
 BASE = "https://italfuni.it"
 UA = {"User-Agent": "Mozilla/5.0"}
 PROV = {"roma": "Roma e provincia", "latina": "Latina e provincia", "rieti": "Rieti e provincia",
@@ -58,14 +58,14 @@ print("TOTALE articoli:", len(posts))
 SLUGS = {u.rstrip("/").rsplit("/", 1)[1] for u in posts}
 
 def scarica(src, nome):
-    dest = OUT / "assets/img/italfuni" / nome
+    dest = OUT / "assets/img/servizi" / nome
     if not dest.exists():
         orig = re.sub(r"-\d+x\d+(?=\.\w+$)", "", src)
         for u in (orig, src):
             try: dest.write_bytes(fetch(u)); break
             except Exception: continue
         else: return None
-    return "assets/img/italfuni/" + nome
+    return "assets/img/servizi/" + nome
 
 report = []
 for url, prov in posts.items():
@@ -129,4 +129,4 @@ for url, prov in posts.items():
 for r in sorted(report): print(r)
 from collections import Counter
 print(Counter(r[0] for r in report))
-print("immagini:", sorted(p.name for p in (OUT / "assets/img/italfuni").iterdir()))
+print("immagini:", sorted(p.name for p in (OUT / "assets/img/servizi").iterdir()))

@@ -7,7 +7,7 @@ seo_title: "Tinteggiatura facciate a Rieti su fune | EdilExtreme"
 seo_description: "Tinteggiatura di condomini, case e borghi a Rieti e provincia con pitture resistenti al gelo e all'umidità, lavoro su fune senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/tinteggiatura-su-fune-1.jpg" alt="Operatore su fune dipinge la facciata di un edificio a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/tinteggiatura-su-fune-1.jpg" alt="Operatore su fune dipinge la facciata di un edificio a Rieti" align="center" %}
 
 La pittura di una facciata a Rieti deve fare i conti con un clima esigente: **inverni freddi, neve, gelo notturno, umidità e poi sole forte d'estate**. Questi sbalzi mettono a dura prova le superfici, e una pittura scelta male si fessura o si sfoglia in poche stagioni. **EdilExtreme** usa cicli adatti al clima del Reatino e lavora su fune, anche su edifici in pendenza o dove il ponteggio è scomodo.
 

@@ -7,7 +7,7 @@ seo_title: "Pulizia pannelli fotovoltaici a Rieti su fune | EdilExtreme"
 seo_description: "Pulizia di pannelli fotovoltaici a Rieti e provincia con tecnica su fune: via foglie, polvere e residui dopo l'inverno, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari-660x321.png" alt="Pulizia pannelli solari su fune a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-pannelli-solari-660x321.png" alt="Pulizia pannelli solari su fune a Rieti" align="center" %}
 
 Sulle colline e nelle valli del Reatino un impianto fotovoltaico ha un vantaggio, l'aria più pulita, e uno svantaggio: un ciclo stagionale marcato. Dopo l'inverno si trovano **foglie, aghi di pino, resti di neve sciolta con polvere, muschio e licheni** sui bordi dei moduli. **EdilExtreme** li pulisce su fune, senza salire sul campo e senza ponteggi.
 

@@ -7,7 +7,7 @@ seo_title: "Isolamento termico a Frosinone montato su fune | EdilExtreme"
 seo_description: "Isolamento termico di condomini, capannoni e case a Frosinone e provincia con pannelli posati su fune: meno consumi energetici. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Posa di pannelli isolanti su un edificio" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/isolanti.jpg" alt="Posa di pannelli isolanti su un edificio" align="center" %}
 
 A Frosinone e nella Ciociaria il parco edilizio comprende molti edifici di trent'anni o più: condomini dei quartieri residenziali, case in pietra nei paesi, capannoni e uffici delle zone produttive. Per gran parte di questi, l'energia costa troppo: d'inverno il calore sfugge dalle pareti e dal tetto, d'estate i capannoni lamierati diventano torridi. **EdilExtreme** installa isolanti su facciate e coperture con accesso su fune.
 

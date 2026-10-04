@@ -7,7 +7,7 @@ seo_title: "Ristrutturazione balconi e facciate a Latina su fune | EdilExtreme"
 seo_description: "Balconi e facciate rovinati dalla salsedine a Latina e provincia? Ripristino del calcestruzzo, protezione dei ferri e finitura su fune, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Ripristino di balconi su una palazzina vicino al mare a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/operai-balconi.jpg" alt="Ripristino di balconi su una palazzina vicino al mare a Latina" align="center" %}
 
 Chi ha un appartamento a Latina Lido, Sabaudia, Terracina o in un'altra località della costa lo sa: **il mare è bellissimo, ma consuma gli edifici**. La salsedine si deposita su balconi, ringhiere e facciate, penetra nel calcestruzzo e arriva ai ferri, che si ossidano e si gonfiano. Il risultato sono balconi che si sbriciolano e facciate con macchie e crepe. **EdilExtreme** ripristina queste parti su fune, lavorando dove il ponteggio sarebbe costoso e invadente.
 

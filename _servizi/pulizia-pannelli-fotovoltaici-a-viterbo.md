@@ -7,7 +7,7 @@ seo_title: "Pulizia pannelli fotovoltaici a Viterbo su fune | EdilExtreme"
 seo_description: "Pulizia di pannelli fotovoltaici a Viterbo e nella Tuscia con tecnica su fune: tetti in coppi, casali e capannoni agricoli, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pannelli-fotov.jpg" alt="Impianto fotovoltaico su un tetto nella Tuscia" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pannelli-fotov.jpg" alt="Impianto fotovoltaico su un tetto nella Tuscia" align="center" %}
 
 La Tuscia è terra di casali, uliveti, noccioleti e aziende agricole, e i tetti di molte di queste strutture hanno oggi un impianto fotovoltaico. Con la raccolta, le lavorazioni e il vento il vetro si copre di **polvere, residui vegetali e guano**: la produzione cala e il danno non si vede finché non si confrontano i dati. **EdilExtreme** pulisce i pannelli su fune, mantenendo gli operatori fuori dai moduli e dai coppi.
 

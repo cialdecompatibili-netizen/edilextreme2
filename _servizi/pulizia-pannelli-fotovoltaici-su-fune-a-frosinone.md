@@ -7,7 +7,7 @@ seo_title: "Pulizia pannelli fotovoltaici a Frosinone su fune | EdilExtreme"
 seo_description: "Pulizia di pannelli fotovoltaici a Frosinone, Cassino e Ciociaria con tecnica su fune: via polveri industriali e residui, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari.png" alt="Pulizia pannelli solari su un tetto industriale" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-pannelli-solari.png" alt="Pulizia pannelli solari su un tetto industriale" align="center" %}
 
 In provincia di Frosinone i grandi tetti produttivi sono diventati centrali elettriche: capannoni, magazzini e stabilimenti con file di pannelli che producono energia per l'azienda. In una zona industriale i moduli si coprono di **polveri sottili, particolato di traffico e residui di lavorazione**, che formano una patina scura e riducono la resa. **EdilExtreme** li pulisce su fune, senza fermare l'attività e senza ponteggi.
 

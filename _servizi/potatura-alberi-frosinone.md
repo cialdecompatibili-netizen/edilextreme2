@@ -7,7 +7,7 @@ seo_title: "Potatura alberi a Frosinone e provincia su fune | EdilExtreme"
 seo_description: "Potatura e abbattimento controllato di alberi a Frosinone, Cassino e Ciociaria con tree climbing: scarpate, strade e capannoni. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Operatore su corda lavora sulla chioma di un albero" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/potatura-albero-con-corde.jpg.jpg" alt="Operatore su corda lavora sulla chioma di un albero" align="center" %}
 
 In Ciociaria gli alberi crescono dove capita: sulle scarpate sopra le strade, lungo i corsi d'acqua, tra capannoni e zone residenziali, negli uliveti delle colline. Molti sono cresciuti per anni senza interventi e oggi rappresentano un pericolo per case, linee elettriche e viabilità. **EdilExtreme** li affronta con il tree climbing: attrezzatura leggera, nessun mezzo pesante e lavoro preciso.
 

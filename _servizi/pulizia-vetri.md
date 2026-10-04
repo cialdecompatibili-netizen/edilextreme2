@@ -9,7 +9,7 @@ seo_title: "Pulizia vetri e vetrate in quota su fune | EdilExtreme"
 seo_description: "Pulizia vetri, vetrate, lucernari e facciate continue in quota lavorando su fune: senza ponteggi, con poco disturbo e risultato senza aloni. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/window-cleaner-4593185_1280-1030x686.jpg" alt="Operatore che pulisce una vetrata in quota" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/window-cleaner-4593185_1280-1030x686.jpg" alt="Operatore che pulisce una vetrata in quota" align="center" %}
 
 Una vetrata sporca si nota subito, soprattutto se è alta: aloni, sabbia del deserto che torna con la pioggia, calcare, escrementi, gommini invecchiati. Pulirla da terra non è possibile, pulirla da una scala è pericoloso, e montare un ponteggio per lavare dei vetri raramente ha senso. **EdilExtreme** risolve il problema lavorando su fune: l'operatore si cala lungo la facciata e pulisce ogni superficie da vicino.
 
@@ -37,7 +37,7 @@ Non usiamo sostanze aggressive per l'ambiente e fissiamo insieme a te la frequen
 - **Raggiunge tutto**: balconi sporgenti, rientranze, cortili stretti, vetrate in aggetto.
 - **Disturba poco**: nessuna struttura in strada, operatori silenziosi e, per chi sta dentro, una privacy molto maggiore rispetto a un ponteggio.
 
-{% include immagine.liquid src="assets/img/italfuni/bogota-4490438_1280-1-1030x685.jpg" alt="Operatori su doppia fune lungo una facciata a vetri" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/bogota-4490438_1280-1-1030x685.jpg" alt="Operatori su doppia fune lungo una facciata a vetri" align="center" %}
 
 ## Sicurezza prima di tutto
 

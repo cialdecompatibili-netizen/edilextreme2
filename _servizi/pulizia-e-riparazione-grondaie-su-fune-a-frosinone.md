@@ -7,7 +7,7 @@ seo_title: "Grondaie a Frosinone: pulizia e riparazione su fune | EdilExtreme"
 seo_description: "Pulizia e riparazione di grondaie a Frosinone, Cassino e Ciociaria con tecnica su fune: capannoni, condomini e case, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-grondaie-su-fune.jpg" alt="Operatore su fune pulisce un canale di gronda a Frosinone" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-grondaie-su-fune.jpg" alt="Operatore su fune pulisce un canale di gronda a Frosinone" align="center" %}
 
 Nel Frusinate le grondaie lavorano su strutture molto diverse: i **grandi tetti dei capannoni**, dove i canali raccolgono migliaia di litri a ogni temporale, e le **abitazioni di colline e centri storici**, con coperture a più falde. In entrambi i casi un canale intasato causa danni: infiltrazioni nei solai, cadute d'acqua sui piazzali, facciate macchiate. **EdilExtreme** li pulisce e li ripara su fune.
 

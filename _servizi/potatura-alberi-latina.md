@@ -7,7 +7,7 @@ seo_title: "Potatura alberi a Latina e provincia su fune | EdilExtreme"
 seo_description: "Potatura di eucalipti, pini marittimi, palme e frangivento a Latina e nell'Agro Pontino con tree climbing. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura di un albero alto con tecnica su fune a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/potatura-albero-con-corde.jpg.jpg" alt="Potatura di un albero alto con tecnica su fune a Latina" align="center" %}
 
 Il paesaggio dell'Agro Pontino è fatto di alberi alti piantati per un motivo preciso: **filari di eucalipti** che dividono i campi, pini marittimi lungo la costa, palme nei giardini e nei viali. Sono piante belle ma impegnative: crescono molto, resistono al vento di mare e a volte cedono di colpo. **EdilExtreme** li cura con il tree climbing, senza gru e con un impatto minimo sul terreno e sulle colture.
 

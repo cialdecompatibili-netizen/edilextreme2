@@ -9,7 +9,7 @@ seo_title: "Ristrutturazione balconi e facciate su fune | EdilExtreme"
 seo_description: "Ripristino di balconi, frontalini e facciate: calcestruzzo ammalorato, intonaci e crepe, con interventi su fune e senza ponteggi. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Operatori al lavoro su un balcone e una facciata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/operai-balconi.jpg" alt="Operatori al lavoro su un balcone e una facciata" align="center" %}
 
 Balconi e facciate sono le parti dell'edificio più esposte: sole, pioggia, smog, gelo. Col tempo il calcestruzzo si fessura, il ferro ossida e si espande, l'intonaco si stacca a lastre. **EdilExtreme** ripristina balconi, cornicioni, frontalini e facciate intere lavorando su fune, quindi senza dover montare un ponteggio per ogni intervento.
 

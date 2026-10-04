@@ -7,7 +7,7 @@ seo_title: "Pulizia vetri a Frosinone e provincia su fune | EdilExtreme"
 seo_description: "Pulizia vetri e vetrate a Frosinone, Cassino, Sora e Ciociaria con tecnica su fune: via polveri industriali e smog, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/bogota-4490438_1280-1-1030x685.jpg" alt="Operatori su fune lungo una facciata vetrata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/bogota-4490438_1280-1-1030x685.jpg" alt="Operatori su fune lungo una facciata vetrata" align="center" %}
 
 La provincia di Frosinone è un territorio produttivo: stabilimenti, centri logistici, uffici e grandi superfici commerciali lungo le valli e le arterie principali. Qui il vetro si sporca di **polveri fini e residui di traffico**, e più è grande la facciata più è complesso raggiungerla. **EdilExtreme** pulisce vetrate e finestre su fune, senza ponteggi e con tempi di cantiere molto ridotti.
 

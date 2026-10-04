@@ -7,7 +7,7 @@ seo_title: "Accesso su fune e sicurezza in quota a Roma | EdilExtreme"
 seo_description: "Accesso su fune per edifici e strutture alte a Roma e provincia: operatori formati, piano di sicurezza per ogni cantiere in quota e procedure di soccorso. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatori in quota su fune a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatori in quota su fune a Roma" align="center" %}
 
 Roma ha edifici alti, facciate difficili, cortili chiusi, monumenti, ponti, torri e coperture inaccessibili ai mezzi. Per chi gestisce un immobile (amministratori, responsabili tecnici, imprese) la domanda è sempre la stessa: **come arrivare lì in sicurezza, a un costo ragionevole?** **EdilExtreme** risponde con l'accesso su fune, gestito con regole precise.
 

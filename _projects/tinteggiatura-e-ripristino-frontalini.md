@@ -2,13 +2,13 @@
 layout: page
 title: "Tinteggiatura e ripristino di frontalini"
 description: "Ripristino e tinteggiatura dei frontalini dei balconi con doppia fune: colore uniforme e protezione, senza impalcature."
-img: assets/img/italfuni/tinteggiatura-su-fune-1.jpg
+img: assets/img/servizi/tinteggiatura-su-fune-1.jpg
 importance: 3
 category: Lavori
 in_home: true
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/tinteggiatura-su-fune-1.jpg" alt="Operatore su fune tinteggia il frontalino di un balcone" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/tinteggiatura-su-fune-1.jpg" alt="Operatore su fune tinteggia il frontalino di un balcone" align="center" %}
 
 Il frontalino è il bordo esterno del balcone: è la parte più esposta a pioggia, sole e smog, e quando si scrosta o cambia colore rovina l'aspetto di tutta la facciata. Se sotto ci sono ferri arrugginiti o calcestruzzo che si stacca, il problema va oltre l'estetica.
 

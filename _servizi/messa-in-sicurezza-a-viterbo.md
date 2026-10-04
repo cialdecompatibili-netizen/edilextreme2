@@ -7,7 +7,7 @@ seo_title: "Accesso su fune e sicurezza in quota a Viterbo | EdilExtreme"
 seo_description: "Accesso su fune a Viterbo e nella Tuscia per edifici storici, torri e coperture difficili: operatori formati, piano di sicurezza e procedure di soccorso. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune lavora in quota a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su fune lavora in quota a Viterbo" align="center" %}
 
 Il patrimonio edilizio della Tuscia è unico, ma complesso: **palazzi medievali, torri, campanili, mura, chiese, casali, ville storiche**. Lavorare in alto su strutture di questo tipo richiede delicatezza e rispetto. **EdilExtreme** usa l'accesso su fune perché permette di arrivare ovunque senza appoggiare strutture pesanti su murature antiche.
 

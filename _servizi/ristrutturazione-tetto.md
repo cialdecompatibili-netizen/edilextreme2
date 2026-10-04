@@ -8,7 +8,7 @@ seo_title: "Ristrutturazione e riparazione tetto con accesso su fune | EdilExtre
 seo_description: "Riparazione e rifacimento del tetto: sostituzione di tegole e travi, isolamento e impermeabilizzazione, con accesso su fune e linee vita. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Lavori di riparazione su una copertura" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/riparazione-tetti.jpg" alt="Lavori di riparazione su una copertura" align="center" %}
 
 Il tetto è la parte della casa che lavora di più e che si guarda di meno: sole, gelo, grandine e vento lo consumano ogni anno, e i primi segni di cedimento si vedono quasi sempre dall'interno, quando l'acqua è già passata. **EdilExtreme** si occupa di riparazione, manutenzione e rifacimento di coperture a falde e piane, con un metodo che riduce al minimo ponteggi e piattaforme.
 

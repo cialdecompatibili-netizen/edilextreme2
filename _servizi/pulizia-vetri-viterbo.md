@@ -7,7 +7,7 @@ seo_title: "Pulizia vetri a Viterbo e provincia su fune | EdilExtreme"
 seo_description: "Pulizia vetri e vetrate a Viterbo e nella Tuscia con tecnica su fune: adatta a centri storici e vicoli stretti, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-su-fune-1200x630.jpg" alt="Pulizia vetri su fune a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-vetri-su-fune-1200x630.jpg" alt="Pulizia vetri su fune a Viterbo" align="center" %}
 
 Il centro di Viterbo è un labirinto di vie strette, scalinate e palazzi di pietra dove un camion con cestello o un ponteggio sono quasi sempre fuori questione. Per le finestre alte, i lucernari e le vetrate dei piani superiori la soluzione più semplice è la **fune**: **EdilExtreme** arriva dall'alto con attrezzatura leggera e pulisce senza toccare la facciata e senza ingombrare la strada.
 

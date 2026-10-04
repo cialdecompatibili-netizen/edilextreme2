@@ -7,7 +7,7 @@ seo_title: "Pulizia vetri a Latina e provincia su fune | EdilExtreme"
 seo_description: "Pulizia vetri e vetrate a Latina, Terracina, Sabaudia e dintorni con tecnica su fune: via salsedine e polvere agricola, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-latina.jpg" alt="Pulizia di vetrate su fune a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-vetri-latina.jpg" alt="Pulizia di vetrate su fune a Latina" align="center" %}
 
 Nella provincia di Latina i vetri si sporcano in modo diverso da altre parti del Lazio. Sulla costa arriva la **salsedine**, che si deposita in una pellicola opaca e attacca guarnizioni e telai; nell'entroterra agricolo si sommano **polvere dei campi** e residui dei trattamenti. **EdilExtreme** interviene su fune, senza ponteggi, e restituisce trasparenza a facciate e vetrate anche molto alte.
 

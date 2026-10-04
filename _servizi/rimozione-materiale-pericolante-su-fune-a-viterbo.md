@@ -7,7 +7,7 @@ seo_title: "Rimozione materiale pericolante a Viterbo su fune | EdilExtreme"
 seo_description: "Cornicioni, intonaci e coppi instabili a Viterbo e in Tuscia? Rimozione del materiale pericolante su fune, con rispetto per le murature storiche e relazione fotografica. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/materiale-pericolante.jpg" alt="Operatore su fune rimuove parti instabili da una facciata a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/materiale-pericolante.jpg" alt="Operatore su fune rimuove parti instabili da una facciata a Viterbo" align="center" %}
 
 A Viterbo e nei borghi della Tuscia molti edifici hanno secoli di storia: murature in tufo e peperino, cornicioni in laterizio, coperture a coppi, torrette e comignoli. Il tempo, l'acqua e le variazioni di temperatura lasciano il segno, e qualche elemento può **perdere stabilità e cadere** su strade e piazze strette. **EdilExtreme** lo individua e lo rimuove con tecniche su fune, che non caricano le strutture antiche.
 

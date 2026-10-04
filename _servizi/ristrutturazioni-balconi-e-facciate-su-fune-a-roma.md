@@ -7,7 +7,7 @@ seo_title: "Ristrutturazione balconi e facciate a Roma su fune | EdilExtreme"
 seo_description: "Balconi ammalorati e facciate da rifare a Roma e provincia? Ripristino del calcestruzzo, trattamento dei ferri e finitura su fune, senza ponteggi. Preventivo gratuito per condomini."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Operai su fune lavorano al ripristino dei balconi di un palazzo a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/operai-balconi.jpg" alt="Operai su fune lavorano al ripristino dei balconi di un palazzo a Roma" align="center" %}
 
 Molti condomini romani costruiti tra gli anni Cinquanta e Settanta hanno balconi e facciate che mostrano il passare del tempo: **copriferro che si sgretola, ferri arrugginiti a vista, intonaci crepati, macchie di umidità**. Aspettare peggiora la situazione e i costi crescono. **EdilExtreme** ripristina balconi e facciate con l'accesso su fune, senza montare un ponteggio per tutto l'edificio.
 

@@ -7,7 +7,7 @@ seo_title: "Impermeabilizzazione terrazze e tetti a Latina su fune | EdilExtreme
 seo_description: "Impermeabilizzazione di terrazze, lastrici e coperture piane a Latina e provincia con guaine riflettenti e resine, resistenti a sole e salsedine. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione-1.jpg" alt="Posa di guaina su una copertura a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/impermeabilzzazione-1.jpg" alt="Posa di guaina su una copertura a Latina" align="center" %}
 
 Nella provincia di Latina l'impermeabilizzazione deve fare i conti con due fattori che altrove pesano meno: **il sole forte** e la **salsedine**. Le terrazze delle palazzine al mare e le coperture piane dei capannoni sono esposte a temperature elevate per mesi, e i materiali, dilatandosi e contraendosi ogni giorno, si fessurano. **EdilExtreme** sceglie sistemi pensati per questo clima.
 

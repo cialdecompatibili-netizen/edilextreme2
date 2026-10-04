@@ -7,7 +7,7 @@ seo_title: "Rimozione materiale pericolante a Latina su fune | EdilExtreme"
 seo_description: "Intonaci, cornicioni e frontalini che si staccano a Latina e provincia? Rimozione del materiale pericolante su fune, con area delimitata e relazione. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/materiale-pericolante.jpg" alt="Messa in sicurezza di una facciata a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/materiale-pericolante.jpg" alt="Messa in sicurezza di una facciata a Latina" align="center" %}
 
 Sulla costa pontina l'aria salmastra è un acceleratore di degrado. Il sale penetra nel calcestruzzo, raggiunge i ferri d'armatura e ne provoca l'ossidazione: il ferro arrugginito aumenta di volume e **spinge via il copriferro**, facendo cadere pezzi di balconi, frontalini e cornicioni. Succede più in fretta qui che nell'entroterra. **EdilExtreme** rimuove le parti instabili su fune, prima che diventino un rischio.
 

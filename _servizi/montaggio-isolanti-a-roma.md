@@ -7,7 +7,7 @@ seo_title: "Cappotto termico a Roma montato su fune | EdilExtreme"
 seo_description: "Isolamento a cappotto di condomini e palazzine a Roma e provincia con pannelli posati su fune, senza ponteggi: meno consumi e più comfort. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Posa di pannelli isolanti a cappotto su una facciata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/isolanti.jpg" alt="Posa di pannelli isolanti a cappotto su una facciata" align="center" %}
 
 A Roma gran parte dei condomini è stata costruita tra gli anni Cinquanta e Settanta, quando il risparmio energetico non era un tema: pareti sottili, serramenti semplici, nessun isolamento. Oggi quegli edifici pesano sulle bollette in inverno e diventano forni in estate. Il **cappotto termico** è l'intervento che cambia di più, e con l'accesso su fune si fa anche senza ponteggio. **EdilExtreme** monta isolanti su facciate e coperture lavorando in quota.
 

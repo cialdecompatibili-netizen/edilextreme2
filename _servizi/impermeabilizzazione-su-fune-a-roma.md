@@ -7,7 +7,7 @@ seo_title: "Impermeabilizzazione terrazzi e tetti a Roma su fune | EdilExtreme"
 seo_description: "Impermeabilizzazione di lastrici solari, terrazzi e coperture a Roma e provincia con guaine e resine, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione.jpg" alt="Impermeabilizzazione di una copertura a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/impermeabilzzazione.jpg" alt="Impermeabilizzazione di una copertura a Roma" align="center" %}
 
 A Roma la maggior parte delle infiltrazioni nei condomini nasce da pochi punti: il **lastrico solare** del terrazzo condominiale, i balconi sporgenti, il bordo del tetto, il raccordo tra muro e copertura. L'acqua entra, scende lungo le murature e si fa notare solo quando macchia i soffitti dei piani alti. **EdilExtreme** individua il punto d'ingresso e ripristina la tenuta, lavorando anche su fune dove serve.
 

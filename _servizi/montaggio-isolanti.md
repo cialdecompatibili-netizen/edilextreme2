@@ -9,7 +9,7 @@ seo_title: "Isolamento a cappotto e montaggio isolanti su fune | EdilExtreme"
 seo_description: "Isolamento termico e acustico di facciate e tetti con pannelli montati su fune, senza ponteggi. Meno dispersioni e condensa. Richiedi un preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Posa di pannelli isolanti su una facciata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/isolanti.jpg" alt="Posa di pannelli isolanti su una facciata" align="center" %}
 
 Un edificio non isolato si comporta come una stanza con la finestra aperta: d'inverno il calore se ne va dalle pareti e dal tetto, d'estate entra l'aria calda. Il risultato sono bollette alte, stanze fredde con superfici che sudano e, negli angoli, la muffa. **EdilExtreme** monta sistemi isolanti su facciate e coperture lavorando su fune, evitando ponteggi e piattaforme.
 

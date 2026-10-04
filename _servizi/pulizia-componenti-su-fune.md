@@ -8,7 +8,7 @@ seo_title: "Pulizia componenti in quota: pluviali, comignoli, lucernari | EdilEx
 seo_description: "Pulizia di pluviali, comignoli, lucernari e componenti esterni su fune, con ispezione e manutenzione programmata. Niente ponteggi, preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune che pulisce un componente esterno dell'edificio" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su fune che pulisce un componente esterno dell'edificio" align="center" %}
 
 Quando si parla di manutenzione degli edifici si pensa a tetti e facciate, ma i problemi spesso nascono da piccoli componenti che nessuno vede da terra: un pluviale intasato, un lucernario opaco, un comignolo coperto da un nido, un frontalino pieno di muschio. **EdilExtreme** li raggiunge su fune, li pulisce, li controlla e segnala cosa va riparato prima che diventi un danno.
 

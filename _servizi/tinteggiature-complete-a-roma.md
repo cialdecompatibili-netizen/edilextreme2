@@ -7,7 +7,7 @@ seo_title: "Tinteggiatura facciate a Roma su fune | EdilExtreme"
 seo_description: "Tinteggiatura di facciate, condomini e palazzi alti a Roma e provincia con accesso su fune: preparazione accurata, prodotti professionali, costi ridotti rispetto al ponteggio. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/tinteggiatura.jpg" alt="Tinteggiatura di una facciata a Roma con operatori su fune" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/tinteggiatura.jpg" alt="Tinteggiatura di una facciata a Roma con operatori su fune" align="center" %}
 
 Una facciata ben dipinta valorizza l'edificio, ma soprattutto lo protegge: la pittura è la prima barriera contro pioggia, smog e raggi UV. A Roma, dove gran parte dei palazzi è esposta a traffico, polveri e forti sbalzi di sole e pioggia, una tinteggiatura trascurata si rovina in fretta. **EdilExtreme** dipinge facciate, vani scala esterni, cortili e fronti alti con l'accesso su fune.
 

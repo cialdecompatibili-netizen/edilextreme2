@@ -7,7 +7,7 @@ seo_title: "Impermeabilizzazione terrazzi e cornicioni a Viterbo su fune | EdilE
 seo_description: "Impermeabilizzazione di terrazzi, cornicioni e coperture a Viterbo e provincia, su edifici in tufo e pietra, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione.jpg" alt="Impermeabilizzazione di una copertura nella Tuscia" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/impermeabilzzazione.jpg" alt="Impermeabilizzazione di una copertura nella Tuscia" align="center" %}
 
 A Viterbo e nei borghi della Tuscia molti edifici sono in **tufo, peperino o pietra**, materiali porosi che assorbono l'acqua come una spugna. Un cornicione rotto, un balcone che perde o una terrazza con la guaina vecchia possono provocare macchie, muffe e sfaldamenti. **EdilExtreme** ripristina la tenuta con interventi su misura, rispettando la natura dell'edificio.
 

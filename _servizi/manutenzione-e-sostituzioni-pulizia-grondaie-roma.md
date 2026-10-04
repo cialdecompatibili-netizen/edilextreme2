@@ -7,7 +7,7 @@ seo_title: "Grondaie a Roma: pulizia e riparazione su fune | EdilExtreme"
 seo_description: "Pulizia, riparazione e sostituzione di grondaie e pluviali a Roma e provincia con tecnica su fune, senza ponteggi. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-grondaie-su-fune.jpg" alt="Operatore su fune ripara una grondaia a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-grondaie-su-fune.jpg" alt="Operatore su fune ripara una grondaia a Roma" align="center" %}
 
 A Roma la grondaia è spesso una questione di quota: palazzi di cinque, sei o più piani, cornicioni sporgenti, cortili interni stretti, terrazze condominiali. Quando un canale si intasa, l'acqua trabocca sulle facciate, macchia gli intonaci e finisce nei balconi. **EdilExtreme** sistema il problema dall'alto, su doppia fune, senza montare ponteggi.
 

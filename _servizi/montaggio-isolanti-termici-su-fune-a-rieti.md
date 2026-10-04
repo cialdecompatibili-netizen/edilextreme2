@@ -7,7 +7,7 @@ seo_title: "Isolamento termico a Rieti montato su fune | EdilExtreme"
 seo_description: "Isolamento termico di pareti e tetti a Rieti e provincia con pannelli posati su fune: meno spese di riscaldamento e niente muffa. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Pannelli isolanti su una parete di casa in montagna" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/isolanti.jpg" alt="Pannelli isolanti su una parete di casa in montagna" align="center" %}
 
 A Rieti e nelle valli intorno l'inverno dura, e la stufa o la caldaia lavorano molto. Chi vive in una casa non isolata lo sa: pareti fredde, spifferi, angoli con muffa, bollette pesanti. **L'isolamento termico** riduce le dispersioni e rende più stabile la temperatura. **EdilExtreme** monta pannelli su pareti e coperture con accesso su fune, anche dove il terreno rende difficile un ponteggio.
 

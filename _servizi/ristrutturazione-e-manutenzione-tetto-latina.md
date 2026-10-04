@@ -7,7 +7,7 @@ seo_title: "Riparazione e rifacimento tetti a Latina su fune | EdilExtreme"
 seo_description: "Riparazione, guaine e rifacimento di tetti a Latina e provincia: coperture piane, tegole e capannoni, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Intervento di riparazione su un tetto a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/riparazione-tetti.jpg" alt="Intervento di riparazione su un tetto a Latina" align="center" %}
 
 A Latina e nella provincia i tetti raccontano due storie. Nella città di fondazione e nei centri costieri prevalgono **coperture piane e terrazze** con guaina, soggette a sole intenso, sbalzi termici e salsedine. Nelle campagne dominano capannoni, stalle e magazzini con tetti ampi e basse pendenze. **EdilExtreme** interviene su entrambi con tecniche su fune.
 

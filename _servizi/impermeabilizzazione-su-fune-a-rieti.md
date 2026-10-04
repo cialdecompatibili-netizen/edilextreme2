@@ -7,7 +7,7 @@ seo_title: "Impermeabilizzazione terrazzi e tetti a Rieti su fune | EdilExtreme"
 seo_description: "Impermeabilizzazione di terrazzi, tetti e muri a Rieti e provincia con sistemi resistenti a gelo e disgelo, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione-2.jpg" alt="Impermeabilizzazione di una terrazza in zona montana" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/impermeabilzzazione-2.jpg" alt="Impermeabilizzazione di una terrazza in zona montana" align="center" %}
 
 Nella conca reatina e sui rilievi circostanti il nemico dell'impermeabilizzazione è il **ciclo di gelo e disgelo**: l'acqua entra in una microfessura, gela, si dilata e allarga la crepa; il giorno dopo ne entra di più. In pochi inverni una terrazza che sembrava a posto comincia a perdere. **EdilExtreme** sceglie sistemi elastici e resistenti al freddo, e li applica con cura, anche su fune.
 

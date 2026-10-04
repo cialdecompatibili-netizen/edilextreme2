@@ -7,7 +7,7 @@ seo_title: "Pulizia pannelli fotovoltaici a Roma su fune | EdilExtreme"
 seo_description: "Pulizia di pannelli fotovoltaici a Roma e provincia con tecnica su fune: recuperi la resa persa per polvere e smog, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pannelli-fotov.jpg" alt="Pannelli fotovoltaici su un tetto a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pannelli-fotov.jpg" alt="Pannelli fotovoltaici su un tetto a Roma" align="center" %}
 
 Un impianto fotovoltaico a Roma lavora in un ambiente che lo sporca in fretta: smog del traffico, polvere sottile, pollini in primavera, sabbia portata dallo scirocco e i segni dei gabbiani e dei piccioni. Una patina uniforme sul vetro riduce la luce che arriva alle celle e, con essa, la **produzione di energia**. **EdilExtreme** pulisce i pannelli su fune, senza camminarci sopra e senza ponteggi.
 

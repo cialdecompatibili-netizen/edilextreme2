@@ -8,7 +8,7 @@ seo_title: "Dissuasori per piccioni e volatili: installazione su fune | EdilExtr
 seo_description: "Piccioni su cornicioni, balconi e tetti? EdilExtreme rimuove il guano e installa dissuasori non cruenti (punte, reti, cavi) lavorando su fune, senza ponteggi."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune che installa dissuasori antipiccione su una facciata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su fune che installa dissuasori antipiccione su una facciata" align="center" %}
 
 I piccioni scelgono sempre gli stessi posti: cornicioni, davanzali, nicchie, sottotetti, cavi e lamiere. Dove si fermano lasciano guano, piume e nidi, e il problema non si risolve da solo: più il sito è frequentato, più diventa un richiamo per altri esemplari. **EdilExtreme** installa e mantiene sistemi di dissuasione su fune, raggiungendo anche i punti dove un ponteggio sarebbe sproporzionato.
 

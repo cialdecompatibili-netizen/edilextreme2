@@ -7,7 +7,7 @@ seo_title: "Riparazione e manutenzione tetti a Roma su fune | EdilExtreme"
 seo_description: "Riparazione, manutenzione e rifacimento di tetti a Roma e provincia: tegole, coppi, guaine e lastrici solari con tecnica su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Lavori su un tetto con accesso su fune" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/riparazione-tetti.jpg" alt="Lavori su un tetto con accesso su fune" align="center" %}
 
 I tetti di Roma sono molto diversi tra loro: coperture in coppi e tegole sui palazzi storici, terrazze e lastrici solari nei condomini, tetti a falde nei villini, coperture industriali nelle zone periferiche. Quasi tutti hanno qualcosa in comune: sono difficili da raggiungere e costosi da ponteggiare. **EdilExtreme** lavora su fune, con interventi mirati dove servono davvero.
 

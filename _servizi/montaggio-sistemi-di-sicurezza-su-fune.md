@@ -9,7 +9,7 @@ seo_title: "Lavori in quota su fune e installazione linee vita | EdilExtreme"
 seo_description: "Lavori in quota con accesso su fune, punti di ancoraggio e linee vita: operatori formati, doppia fune e DPI conformi UNI EN. Preventivo e sopralluogo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su doppia fune con imbracatura e dispositivi di sicurezza" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/img_20180118_wa0002.jpg" alt="Operatore su doppia fune con imbracatura e dispositivi di sicurezza" align="center" %}
 
 Lavorare in quota non significa soltanto "essere legati a qualcosa". Significa avere un sistema progettato: punti di ancoraggio affidabili, attrezzature certificate, procedure scritte e persone formate a usarle e a gestire un'emergenza. **EdilExtreme** applica questo metodo a ogni intervento su fune e può occuparsi anche dell'installazione di **punti di ancoraggio e linee vita** per le manutenzioni future.
 

@@ -8,7 +8,7 @@ seo_title: "Pulizia pannelli fotovoltaici su fune | EdilExtreme"
 seo_description: "Pulizia di pannelli fotovoltaici con acqua demineralizzata e spazzole morbide, lavorando su fune senza ponteggi né rischi per i moduli. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari-660x321.png" alt="Pulizia di un impianto fotovoltaico" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-pannelli-solari-660x321.png" alt="Pulizia di un impianto fotovoltaico" align="center" %}
 
 I pannelli fotovoltaici si puliscono in gran parte da soli con la pioggia, ma non sempre. Escrementi di uccelli, polline, sabbia, cenere, residui oleosi e licheni restano attaccati al vetro e formano zone d'ombra che riducono la produzione del modulo, e quindi dell'intera stringa. **EdilExtreme** esegue la pulizia di impianti su tetti, facciate e coperture alte lavorando su fune, con metodi che non rovinano i moduli.
 

@@ -7,7 +7,7 @@ seo_title: "Rifacimento e riparazione tetti a Frosinone su fune | EdilExtreme"
 seo_description: "Riparazione, manutenzione e rifacimento di tetti a Frosinone e provincia: capannoni, lamiere e tegole, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Intervento su un tetto di un capannone a Frosinone" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/riparazione-tetti.jpg" alt="Intervento su un tetto di un capannone a Frosinone" align="center" %}
 
 La provincia di Frosinone ha un tessuto produttivo importante, e con esso molti tetti industriali: capannoni con coperture in lamiera, pannelli sandwich, lucernari, canali di gronda lunghi decine di metri. Accanto, ci sono condomini, scuole e abitazioni con coperture a tegole. In tutti i casi un tetto trascurato costa: infiltrazioni, merci rovinate, interruzioni di attività. **EdilExtreme** lo controlla e lo ripara su fune.
 

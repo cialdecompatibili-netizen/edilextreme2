@@ -7,7 +7,7 @@ seo_title: "Impermeabilizzazione coperture a Frosinone su fune | EdilExtreme"
 seo_description: "Impermeabilizzazione di coperture industriali, lastrici solari e terrazzi a Frosinone e provincia con guaine e resine, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/impermeabilzzazione-1.jpg" alt="Impermeabilizzazione di una copertura industriale" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/impermeabilzzazione-1.jpg" alt="Impermeabilizzazione di una copertura industriale" align="center" %}
 
 In provincia di Frosinone l'impermeabilizzazione riguarda spesso grandi superfici: coperture piane di capannoni, tetti di magazzini, lastrici di condomini, rampe di parcheggi. Un'infiltrazione in un capannone può bagnare merci, macchinari e impianti elettrici, con danni molto superiori al costo della riparazione. **EdilExtreme** interviene con sistemi duraturi e programma il lavoro per interferire il meno possibile con l'attività.
 

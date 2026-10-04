@@ -7,7 +7,7 @@ seo_title: "Ristrutturazione balconi e facciate a Viterbo su fune | EdilExtreme"
 seo_description: "Facciate e balconi da ripristinare a Viterbo e in Tuscia? Intervento su fune rispettoso delle murature storiche: intonaci, calcestruzzo, ferri e finitura. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/operai-balconi.jpg" alt="Squadra su fune al lavoro sulla facciata di un edificio a Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/operai-balconi.jpg" alt="Squadra su fune al lavoro sulla facciata di un edificio a Viterbo" align="center" %}
 
 La Tuscia ha un patrimonio edilizio vario: **palazzi del centro storico, case di paese, ville e condomini moderni** nella parte più recente della città. Ognuno richiede un approccio diverso. Un intonaco a calce di un edificio antico non si tratta come un balcone in cemento armato degli anni Settanta. **EdilExtreme** si adatta al tipo di supporto e interviene su fune, con attenzione a ciò che si tocca.
 

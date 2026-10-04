@@ -7,7 +7,7 @@ seo_title: "Isolamento termico a Viterbo montato su fune | EdilExtreme"
 seo_description: "Isolamento termico di edifici in tufo, pietra e laterizio a Viterbo e provincia con posa su fune: soluzioni adatte alle murature storiche. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/isolanti.jpg" alt="Isolamento termico di una facciata" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/isolanti.jpg" alt="Isolamento termico di una facciata" align="center" %}
 
 Nella Tuscia molte case sono costruite con muri spessi in tufo, pietra o laterizio: robusti, ma non sempre efficienti. Anche con pareti di 50 o 60 centimetri, il calore se ne va dal tetto, dalle finestre e dai solai. Isolare un edificio storico però non è come isolare un condominio moderno: serve **attenzione ai materiali e alla traspirabilità**. **EdilExtreme** propone soluzioni adatte e le monta con accesso su fune.
 

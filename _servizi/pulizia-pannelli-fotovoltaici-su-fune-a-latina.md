@@ -7,7 +7,7 @@ seo_title: "Pulizia pannelli fotovoltaici a Latina su fune | EdilExtreme"
 seo_description: "Pulizia di pannelli fotovoltaici a Latina e provincia, da aziende agricole a capannoni, con tecnica su fune: via salsedine e polvere. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari.png" alt="Pulizia di pannelli solari su fune a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-pannelli-solari.png" alt="Pulizia di pannelli solari su fune a Latina" align="center" %}
 
 L'Agro Pontino è una delle aree del Lazio con più impianti fotovoltaici: tetti di capannoni, aziende agricole, serre, magazzini frigoriferi e coperture di stalle. Sono anche luoghi dove lo sporco è particolare: **polvere di terra e di mangimi**, residui di trattamenti, pollini e, vicino al mare, **salsedine**. **EdilExtreme** pulisce i pannelli su fune, evitando di camminare sulle celle.
 

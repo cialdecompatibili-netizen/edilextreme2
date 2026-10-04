@@ -7,7 +7,7 @@ seo_title: "Tinteggiatura facciate e capannoni a Frosinone su fune | EdilExtreme
 seo_description: "Tinteggiatura di condomini, capannoni e facciate alte a Frosinone e provincia con accesso su fune: pitture resistenti, preparazione accurata, preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/tinteggiatura.jpg" alt="Tinteggiatura di una facciata a Frosinone con operatori su fune" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/tinteggiatura.jpg" alt="Tinteggiatura di una facciata a Frosinone con operatori su fune" align="center" %}
 
 La provincia di Frosinone unisce **centri collinari, quartieri residenziali e zone industriali**: condomini nelle città, abitazioni nei paesi, capannoni e stabilimenti nelle aree produttive. Per tutti la pittura esterna è una protezione prima che un fatto estetico, e quando l'edificio è alto o con pareti difficili da raggiungere il lavoro su fune è spesso la soluzione più pratica. **EdilExtreme** dipinge senza ponteggi, con tempi chiari.
 

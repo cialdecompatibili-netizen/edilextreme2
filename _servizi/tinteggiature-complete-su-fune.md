@@ -9,7 +9,7 @@ seo_title: "Tinteggiatura facciate e fronti esterni su fune | EdilExtreme"
 seo_description: "Tinteggiatura di facciate e fronti esterni con preparazione del supporto e prodotti adatti, lavorando su fune senza ponteggi. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/tinteggiatura.jpg" alt="Tinteggiatura di una facciata lavorando su fune" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/tinteggiatura.jpg" alt="Tinteggiatura di una facciata lavorando su fune" align="center" %}
 
 Una facciata ben dipinta non è solo bella: è uno strato protettivo. La pittura esterna respinge l'acqua, filtra i raggi UV e rallenta il degrado dell'intonaco. Quando si scrosta, si macchia o cambia colore a chiazze, la protezione è finita e il supporto resta esposto. **EdilExtreme** esegue tinteggiature complete di condomini, ville, capannoni e fronti commerciali lavorando su fune.
 

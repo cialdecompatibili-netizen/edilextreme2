@@ -7,7 +7,7 @@ seo_title: "Pulizia vetri a Roma su fune, senza ponteggi | EdilExtreme"
 seo_description: "Pulizia vetri e vetrate a Roma e provincia con tecnica su fune: nessun ponteggio, nessun permesso di suolo pubblico, tempi rapidi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-su-fune.jpg" alt="Operatore su fune pulisce una vetrata a Roma" align="center" %}
+{% include immagine.liquid src="assets/img/servizi/pulizia-vetri-su-fune.jpg" alt="Operatore su fune pulisce una vetrata a Roma" align="center" %}
 
 A Roma pulire un vetro alto non è mai una questione di sola pulizia. Strade strette, zone a traffico limitato, marciapiedi pieni e uffici che non possono fermarsi trasformano un lavoro semplice in un problema di logistica. **EdilExtreme** lo risolve dall'alto: l'operatore si cala lungo la facciata su doppia fune e lava ogni vetro da vicino, senza chiudere la strada e senza montare strutture.
 

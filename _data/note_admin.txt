@@ -1,1 +1,1 @@
-Clonare un sito WordPress: repo italfuni (cialdecompatibili-netizen), file CLAUDE.md, punto 34. Script: importa_wordpress.py.
+﻿Sito clonato da un altro progetto: procedura in CLAUDE.md, punti 34 e 36.
