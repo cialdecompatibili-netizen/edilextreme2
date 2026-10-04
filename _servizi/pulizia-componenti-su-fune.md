@@ -1,37 +1,38 @@
 ---
 layout: servizio
 title: "Pulizia componenti su fune"
-description: "Pulizia di grondaie, serbatoi, camini, facciate, dighe, lampioni e molto altro, senza ponteggi."
+description: "Pulizia e controllo di pluviali, comignoli, lucernari, cornicioni e altri componenti in quota, con manutenzione programmata e senza ponteggi."
 gruppo: "I nostri servizi"
 ordine: 8
-seo_title: "Pulizia componenti su fune - Italfuni"
-seo_description: "Desideri pulire o fare delle manutenzione al tuo stabile in posti inaccessibili senza montare ponteggi o impalcature? Sei nel posto giusto! Azienda leader specializzata nella pulizia di grondaie, serbatoi, camini, facciate, dighe, lampioni e molto altro ancora."
+seo_title: "Pulizia componenti in quota: pluviali, comignoli, lucernari | EdilExtreme"
+seo_description: "Pulizia di pluviali, comignoli, lucernari e componenti esterni su fune, con ispezione e manutenzione programmata. Niente ponteggi, preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Pulizia componenti su fune" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune che pulisce un componente esterno dell'edificio" align="center" %}
 
-La **pulizia di Grondaie e Pluviali** sono un intervento edile importante: la sporcizia accumulata nelle grondaie è una delle principali cause delle infiltrazioni e comporta seri danni all’edificio.  Tenere una grondaia pulita, evita un sacco di problemi e di spese impreviste durante l’anno!
+Quando si parla di manutenzione degli edifici si pensa a tetti e facciate, ma i problemi spesso nascono da piccoli componenti che nessuno vede da terra: un pluviale intasato, un lucernario opaco, un comignolo coperto da un nido, un frontalino pieno di muschio. **EdilExtreme** li raggiunge su fune, li pulisce, li controlla e segnala cosa va riparato prima che diventi un danno.
 
-Adesso è giunto per voi l’importante momento: dovete pulire grondaie, pluviali e camini ma, sono in quota e, non volete o potete installare cestelli elevatori, gru o ponti mobili?
+## Cosa puliamo e controlliamo
 
-…..Come fare? Chi chiamare?
+- **Pluviali e scarichi**: disostruzione dei tratti verticali e dei pozzetti, dove l'accumulo spesso passa inosservato.
+- **Comignoli e terminali di canne fumarie**: rimozione di nidi, foglie e depositi che ostacolano il tiraggio.
+- **Lucernari e cupole di vetro o policarbonato**: lavaggio per recuperare luce naturale e verificare guarnizioni.
+- **Cornicioni, frontalini e gocciolatoi**: eliminazione di muschio, licheni e depositi che trattengono acqua e rovinano l'intonaco.
+- **Parapetti, ringhiere e insegne in quota**: pulizia di superfici metalliche e controllo dei fissaggi.
+- **Prese d'aria, griglie e canalizzazioni esterne** ostruite da polvere o volatili.
 
-Nessun problema: **ci pensiamo a tutto noi di Italfuni!**
+## Cosa trovi alla fine dell'intervento
 
-I nostri operatori su fune, addestrati, competenti, efficienti, con estrema **agilità**  e **velocità** (l’intervento dura poche ore, a seconda delle dimensioni dell’edificio), verificano il corretto funzionamento di tutte le componenti, sigillano eventuali parti disgiunte ed effettuano un’accurata pulizia.
+Non solo "pulito". Durante il lavoro osserviamo da vicino ciò che da terra non si vede, e ti consegniamo un **resoconto con fotografie** dei punti critici: sigillature secche, viti allentate, intonaci che si stanno staccando, ruggine in avanzamento. Un controllo annuale costa pochissimo rispetto al danno che previene.
 
-Gli interventi che eseguono su corda sono così **rapidi** e **silenziosi**  che non ve ne accorgerete nemmeno: in quattro e quattro, otto, ispezionano e ripuliscono tutto!
+## Manutenzione programmata
 
-E senza:
+Per condomini, aziende, edifici pubblici e proprietari di più immobili proponiamo **piani periodici**: un calendario di passaggi (di solito uno o due l'anno) con un elenco di controlli fisso, così le segnalazioni sono confrontabili nel tempo e ogni intervento si può pianificare, invece di inseguire le emergenze. Per i casi urgenti, come un pluviale che scarica sulla facciata durante un temporale, valutiamo l'intervento a parte.
 
-- **nessun vincolo**: operiamo a livello ordinario e straordinario su qualsiasi edificio, senza alcun limite di altezza, anche su grandi opere, come dighe, ponti, serbatoi.
-- **nessun pericolo:**  lavoriamo nel pieno rispetto di **tutte**  le **norme di sicurezza**.
+## Perché lavorare su fune
 
-….Con la vantaggiosa possibilità di **contratti**  di  **manutenzione ordinaria**: garantiamo operazioni periodiche di pulizia in quota e manutenzione edile.
+Servono pochi minuti per attrezzare un punto di ancoraggio e iniziare. Non c'è bisogno di ponteggi, cestelli elevatori o chiusure al transito, e l'intervento si svolge in modo silenzioso, in genere nell'arco di una giornata. Il metodo segue il D.Lgs. 81/2008: doppia fune, imbracatura collegata alla fune di sicurezza e operatori formati per questo tipo di lavoro.
 
-Le nostre parole d’ordine? **Convenienza e Professionalità !**
+Per il solo capitolo grondaie trovi i dettagli in [riparazione e pulizia grondaie]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }}); per i condotti di fumo, in [canne fumarie]({{ '/servizi/manutenzione-e-installazione-canne-fumarie/' | relative_url }}).
 
-Offriamo:
-
-- **Interventi d’urgenza**: arriviamo tempestivamente (in 24 ore).
-- **Preventivi personalizzati**  con **sopralluoghi gratuiti**: che aspetti, richiedi subito il tuo!
+**Vuoi impostare un piano di manutenzione?** [Contattaci]({{ '/contatti/' | relative_url }}) per un sopralluogo e un preventivo senza impegno.

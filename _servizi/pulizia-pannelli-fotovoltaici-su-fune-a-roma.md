@@ -1,56 +1,46 @@
 ---
 layout: servizio
-title: "Pulizia pannelli fotovoltaici su fune a Roma"
-description: "Se avete bisogno di un servizio di pulizia di pannelli fotovoltaici a Roma e provincia siete nel posto giusto."
+title: "Pulizia pannelli fotovoltaici a Roma e provincia"
+description: "Pulizia di impianti fotovoltaici su tetti e coperture a Roma con accesso su fune: più resa dai pannelli, nessun rischio di camminare sulle celle."
 gruppo: "Roma e provincia"
-seo_title: "Pulizia pannelli fotovoltaici su fune a Roma - Italfuni"
-seo_description: "Stai cercando un servizio affidabile di pulizia di pannelli fotovoltaici a Roma e provincia? Clicca qui per avere un preventivo gratuito e senza impegno."
+seo_title: "Pulizia pannelli fotovoltaici a Roma su fune | EdilExtreme"
+seo_description: "Pulizia di pannelli fotovoltaici a Roma e provincia con tecnica su fune: recuperi la resa persa per polvere e smog, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari.png" alt="pulizia pannelli solari" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pannelli-fotov.jpg" alt="Pannelli fotovoltaici su un tetto a Roma" align="center" %}
 
-Se avete bisogno di un **servizio di pulizia di pannelli fotovoltaici a Roma** e provincia siete nel posto giusto.
+Un impianto fotovoltaico a Roma lavora in un ambiente che lo sporca in fretta: smog del traffico, polvere sottile, pollini in primavera, sabbia portata dallo scirocco e i segni dei gabbiani e dei piccioni. Una patina uniforme sul vetro riduce la luce che arriva alle celle e, con essa, la **produzione di energia**. **EdilExtreme** pulisce i pannelli su fune, senza camminarci sopra e senza ponteggi.
 
-Saprete sicuramente che la loro pulizia è fondamentale per garantirne la **massima efficienza energetica**. Infatti la superficie dei
-pannelli, essendo esposta costantemente all’azione degli agenti atmosferici, si sporca con estrema facilità.
+## Dove interveniamo
 
-Ma perché scegliere un servizio di pulizia su fune? Spieghiamo più nel dettaglio quindi, di cosa si occupa l’azienda **Italfuni**.
+- **Condomini e palazzi** con impianti in copertura o su terrazze alte;
+- **Capannoni, magazzini e aziende** nelle zone industriali e commerciali attorno alla città;
+- **Edifici pubblici e scuole** con pensiline o tetti fotovoltaici;
+- **Ville e case** nei comuni della provincia, dai Castelli alla costa.
 
-Se non hai ancora dei pannelli fotovoltaici prova a leggere qui: pannelli solari: vendita, assistenza manutenzione
+## Quanto incide lo sporco
 
-## Pulizia pannelli fotovoltaici Roma: ecco perché conviene
+Dipende dall'inclinazione e dalla pioggia, ma su impianti poco inclinati lo sporco si accumula e la pioggia non basta a pulirlo. Il calo è spesso graduale e non lo si nota in bolletta: un controllo e un lavaggio programmato aiutano a recuperare resa dove oggi la perdi. Il dato preciso va verificato sul tuo impianto, confrontando la produzione prima e dopo.
 
-Per lavori come questo si possono scegliere due opzioni. La prima è di **affittare costose impalcature**. Questa però è estremamente sconsigliata per i seguenti motivi:
+## Come laviamo
 
-- alti costi di affitto;
-- tempistiche lavorative molto lunghe;
-- impossibilità di effettuare interventi in maniera regolare;
-- disturbo a quiete e privacy.
+1. **Verifica** di accessi, inclinazione, stato di cablaggi e fissaggi.
+2. **Lavaggio** con acqua demineralizzata e spazzole morbide, senza detergenti aggressivi e senza raschiare il vetro.
+3. **Risciacquo** per non lasciare aloni o residui di sali.
+4. **Controllo visivo** su celle, cornici e connettori, con segnalazione di crepe, hot-spot evidenti o cavi danneggiati.
 
-Inoltre aggiungiamo che le impalcature non potranno essere installate ovunque.
+Si lavora nelle ore fresche o con cielo coperto: acqua fredda su vetro caldo può creare stress termico.
 
-La seconda opzione invece è quella di **scegliere operai che lavorano avvalendosi di corde e funi**. Sono meno costosi e assai più versatili.
+## Perché la fune
 
-### Pulizia uguale a convenienza
+Camminare sui pannelli può provocare microfratture invisibili alle celle e fa decadere la garanzia. Con l'accesso su doppia fune l'operatore resta fuori dal piano dei moduli, lavora in sicurezza e non sposta un solo pannello. Niente ponteggi e niente cestelli, quindi costi e tempi più bassi.
 
-Avere un impianto pulito vuol dire **aumentare la sua produzione energetica**. Polvere, pollini, foglie e rami infatti potrebbero far calare anche del 30% l’efficienza dei pannelli solari.
+## Sicurezza
 
-Inoltre gli **escrementi dei volatili**, essendo estremamente corrosivi potrebbero a lungo andare, danneggiare seriamente parti elettriche molto delicate. Il rischio concreto è quello di dover procedere a costose riparazioni e in casi più gravi, alla sostituzione dell’intero impianto.
+Operatori formati per i lavori in quota, due funi indipendenti e attrezzature a norma, nel rispetto del D.Lgs. 81/2008. Prima del lavoro verifichiamo i punti di ancoraggio e il rischio di scivolamento sulle superfici bagnate.
 
-## Pulizia pannelli fotovoltaici Roma: ecco come lavoriamo
+## Servizi collegati
 
-Grazie a tecniche prese in prestito direttamente dall’alpinismo i nostri esperti potranno arrivare ovunque. Ancorandosi in sicurezza potranno operare senza l’uso di **ingombranti impalcature**. Queste inoltre avranno bisogno di personale specializzato (che ovviamente non lavorerà gratis) per essere montate e disassemblate.
+Dopo la pulizia puoi far controllare anche tetto e grondaie: [manutenzione del tetto a Roma]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}) e [grondaie a Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}). Il servizio è attivo anche a [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}) e [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}). Per la descrizione generale: [pulizia pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).
 
-Qualità in questo caso non vuol dire pagare di più, tutt’altro.
-
-Grazie all’utilizzo di **spazzole in micro fibra** le delicate superfici saranno al sicuro da danneggiamenti.
-
-I professionisti di **italfuni** inoltre, utilizzano prodotti non dannosi per l’ambiente come l’acqua deionizzata. Qualità, risparmio e rispetto dell’ambiente tutto in un unico servizio.
-
-## Preventivi gratuiti
-
-Ricevere informazioni e richiedere un **preventivo gratuito e senza impegno** è facilissimo. Basterà infatti riempire il modulo in alto e il gioco è fatto.
-
-Tramite **WhatsApp** è ancora più facile ed intuitivo. Contattaci sul nostro numero inviando una foto del tuo impianto solare e un nostro esperto vi ricontatterà velocemente.
-
-Non sei a Roma o provincia, allora prova a leggere qui: pulizia impianti fotovoltaici a [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) indicando potenza dell'impianto, tipo di tetto e indirizzo.

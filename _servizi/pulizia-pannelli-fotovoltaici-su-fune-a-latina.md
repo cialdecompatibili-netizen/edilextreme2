@@ -1,54 +1,42 @@
 ---
 layout: servizio
-title: "Pulizia pannelli fotovoltaici su fune Latina: preventivi"
-description: "Se hai bisogno di un servizio di pulizia dei tuoi pannelli fotovoltaici a Latina e provincia, continua a leggere qui!"
+title: "Pulizia pannelli fotovoltaici a Latina e provincia"
+description: "Pulizia di impianti fotovoltaici a Latina e nell'Agro Pontino con accesso su fune: via salsedine, polvere dei campi e residui dei trattamenti."
 gruppo: "Latina e provincia"
-seo_title: "Pulizia pannelli fotovoltaici su fune Latina: preventivi - Italfuni"
-seo_description: "Hai bisogno di servizio professionale di pulizia dei pannelli fotovoltaici a Latina? Sei nel posto giusto! clicca qui per avere un preventivo gratuito!"
+seo_title: "Pulizia pannelli fotovoltaici a Latina su fune | EdilExtreme"
+seo_description: "Pulizia di pannelli fotovoltaici a Latina e provincia, da aziende agricole a capannoni, con tecnica su fune: via salsedine e polvere. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pannelli-fotov.jpg" alt="pulizia pannelli fotovoltaici" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari.png" alt="Pulizia di pannelli solari su fune a Latina" align="center" %}
 
-Se hai bisogno di un servizio di pulizia dei tuoi pannelli fotovoltaici a Latina e provincia, continua a leggere qui!
+L'Agro Pontino è una delle aree del Lazio con più impianti fotovoltaici: tetti di capannoni, aziende agricole, serre, magazzini frigoriferi e coperture di stalle. Sono anche luoghi dove lo sporco è particolare: **polvere di terra e di mangimi**, residui di trattamenti, pollini e, vicino al mare, **salsedine**. **EdilExtreme** pulisce i pannelli su fune, evitando di camminare sulle celle.
 
-Saprai bene che è fondamentale tenerli puliti al fine di garantirne la massima efficienza energetica, bisogno tanto importante quanto necessario, infatti i pannelli sono spesso esposti all’azione degli agenti atmosferici, sporcandosi così con moltissima facilità.
+## Impianti che seguiamo
 
-Se non hai ancora dei pannelli fotovoltaici prova a leggere qui: pannelli solari: vendita, assistenza manutenzione
+- **Aziende agricole e zootecniche**, con grandi superfici sui tetti;
+- **Capannoni e centri logistici** della zona industriale;
+- **Serre e coperture con fotovoltaico integrato**;
+- **Alberghi, residence e stabilimenti** sulla costa, esposti al vento di mare;
+- **Case e ville** con impianti sul tetto, soprattutto vicino al litorale.
 
-## Pulizia pannelli fotovoltaici Latina: come lavoriamo
+## Cosa cambia da altre zone
 
-**Italfuni**, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di pulizia dei pannelli fotovoltaici in tutta Latina e provincia.
+In campagna la polvere è più abbondante e si fissa con la rugiada del mattino; vicino al mare, l'umidità salina forma una pellicola quasi trasparente che si nota solo da vicino. In entrambi i casi la pioggia da sola non basta, soprattutto sui tetti con poca pendenza, tipici dei capannoni.
 
-L’azienda garantisce professionalità ed efficienza grazie ad anni di esperienza sul campo.
+## Il nostro metodo
 
-L’utilizzo di funi e corde utilizzate dai nostri esperti, altamente qualificati e in possesso delle competenze e degli strumenti necessari per compiere ogni servizio in ogni condizione e luogo, permettono al cliente di godere di un enorme **risparmio**, potendo evitare i cospicui costi delle impalcature e dei ponteggi, che non sempre permettono di lavorare nelle migliori condizioni.
+Pulizia con acqua demineralizzata e spazzole a setola morbida, senza detergenti aggressivi. Lavoriamo preferibilmente la mattina presto o con cielo coperto. Alla fine controlliamo cavi, connettori e staffe e segnaliamo ciò che merita un controllo di un tecnico elettrico, come cavi usurati o moduli visibilmente danneggiati.
 
-### Risparmio in denaro ma non solo
+## Meno rischi, meno costi
 
-E’ molto semplice. Grazie all’utilizzo delle funi, la nostra azienda eviterà di affittare ponteggi. Oltretutto questo comporterà anche un risparmio nelle tempistiche di lavoro.
+Nei capannoni i tetti sono spesso di lamiera o fibrocemento: salirci per pulire i pannelli è pericoloso. Con l'accesso su fune l'operatore resta imbracato, non appoggia piedi su coperture fragili e può raggiungere anche file lontane dal bordo. Evitiamo ponteggi e cestelli, quindi il preventivo è più basso.
 
-Il lavoro di pulizia dei pannelli solari va fatto con regolarità. Montare e smontare tutte le volte delle impalcature, vien da se, risulterà poco pratico oltre che anti economico.
+## Quanto spesso
 
-Inoltre senza l’utilizzo di ponteggi si arrecherà molto meno disturbo alla **quiete** e alla **privacy** delle persone.
+In campagna e vicino alla costa consigliamo **un intervento all'anno**, meglio dopo la stagione dei lavori agricoli o prima dell'estate; se la zona è molto polverosa, due. Un controllo delle prestazioni prima e dopo ti dice se il lavaggio ha dato risultato.
 
-## Pulizia pannelli fotovoltaici Latina: perché è importante
+## Collegati
 
-I problemi che i pannelli fotovoltaici possono avere sono essenzialmente causati da tre fattori:
+Lo stesso accesso è utile per le [grondaie a Latina]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}) e la [manutenzione del tetto]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }}). Se hai impianti in altre zone: [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}), [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
 
-- pollini;
-- foglie e rami;
-- escrementi di volatili.
-
-Soprattutto gli escrementi possono **seriamente danneggiare tutto l’impianto** a causa del loro alto fattore corrosivo. Foglie e pollini invece, ostacolano l’assorbimento dei raggi solari con la conseguente riduzione dell’efficienza produttiva dell’impianto.
-
-Grazie alla tecnica dei lavori su corda, effettuiamo gli ancoraggi necessari ed eseguiamo la pulizia grazie a spazzole rotanti in micro fibra per non rischiare di danneggiare le delicate superfici degli impianti.
-
-La pulizia dei pannelli solari viene eseguita come per qualsiasi altra superficie vetrata. Vengono utilizzate acqua deionizzata ed altri prodotti non dannosi per l’ambiente.
-
-## Pulizia pannelli fotovoltaici Latina: preventivi
-
-Per informazioni o avere un **preventivo con sopralluogo gratuiti** è semplicissimo. Ti basterà compilare il **modulo preventivo** qui in alto e il gioco è fatto.
-
-Per velocizzare il tutto è possibile richiedere un preventivo gratuito anche tramite **WhatsApp** scattando delle foto ai vostri impianti da pulire.
-
-Non sei di Latina? Prova a leggere qui allora! Pulizia pannelli solari a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
+**Chiedi un preventivo:** [scrivici]({{ '/contatti/' | relative_url }}) con potenza dell'impianto e tipo di copertura.

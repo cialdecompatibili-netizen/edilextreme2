@@ -1,59 +1,41 @@
 ---
 layout: servizio
-title: "Pulizia vetri su fune Rieti e provincia"
-description: "Tra i servizi più richiesti nel campo dell’edilizia vi è sicuramente la pulizia dei vetri dei vostri immobili, in particolare se si tratta di grandi..."
+title: "Pulizia vetri a Rieti e provincia"
+description: "Pulizia di vetrate e finestre a Rieti e nella Sabina con accesso su fune: lavoriamo nelle finestre di bel tempo, senza ponteggi."
 gruppo: "Rieti e provincia"
-seo_title: "Pulizia vetri su fune Rieti e provincia - Italfuni"
-seo_description: "Stai cercando professionisti per la pulizia di vetri con funi nella provincia di Rieti? Sei nel posto giusto. Preventivi e sopralluoghi gratuiti in 1 click."
+seo_title: "Pulizia vetri a Rieti e provincia su fune | EdilExtreme"
+seo_description: "Pulizia vetri e vetrate a Rieti, nella Sabina e nel Reatino con tecnica su fune: niente ponteggi, interventi programmati con il meteo di montagna. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-su-fune.jpg" alt="Pulizia vetri su fune Rieti e provincia" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/rope-access-window-cleaning.jpg" alt="Operatore su corda lavora su vetri a Rieti" align="center" %}
 
-Tra i servizi più richiesti nel campo dell’edilizia vi è sicuramente la **pulizia dei vetri** dei vostri immobili, in particolare se si tratta di grandi altezze, o di dimensioni ragguardevoli in cui gli interventi di esperti si rivela assolutamente necessario.
+Nel Reatino il clima condiziona ogni lavoro in quota. Inverni freddi con gelo e nebbia, estati asciutte, vento che scende dai rilievi: un intervento sui vetri va **programmato sul meteo**, non sul calendario. **EdilExtreme** conosce questi vincoli e organizza la pulizia su fune scegliendo le giornate giuste, così le vetrate tornano pulite senza ponteggi e senza rischi.
 
-**Italfuni**, azienda leader nel campo dei servizi su **corda a fune**, offre lavori di pulizia vetrate caratterizzandosi per la professionalità, rapidità e soprattutto sicurezza a in tutta **Rieti e provincia**.
+## Dove interveniamo
 
-## Pulizia vetri: Come lavoriamo
+- **Rieti città**: condomini, uffici pubblici e privati, banche, negozi del centro e dei quartieri nuovi;
+- **Valle del Velino e Sabina**: edifici residenziali, strutture ricettive, aziende agricole e agriturismi;
+- **Zone turistiche di montagna**, come l'area del Terminillo: rifugi, hotel e seconde case con ampie vetrate esposte;
+- **Edifici pubblici**: scuole, ospedali e sedi di enti con facciate vetrate difficili da raggiungere.
 
-L’utilizzo di attrezzature specifiche e di funi ci consentono di poter lavorare su qualsiasi tipo di edificio, garantendo ogni volta un’accurata pulizia dei vetri a **prezzi competitivi**.
+## Cosa trovano i nostri operatori
 
-Il servizio che offriamo garantisce un ottimo **risparmio**  al cliente, questo grazie al metodo di lavoro, che non prevede l’utilizzo di installazione di ponteggi o piattaforme aeree, spesso ingombranti e costose da affittare. Le nostre tecniche sono le stesse utilizzate dagli alpinisti!
+A quote più alte le vetrate si sporcano soprattutto di **polvere fine, pollini, residui di condensa e depositi di calcare** lasciati dall'acqua piovana. Dove il gelo è frequente guardiamo anche lo stato delle guarnizioni e dei sigillanti, che con i cicli di gelo e disgelo si screpolano e lasciano passare aria e umidità.
 
-Questo si traduce anche in un notevole risparmio di tempo e la possibilità di intervenire in maniera regolare nel tempo.
+## Perché la fune è adatta al territorio
 
-**Italfuni** rappresenta la scelta giusta, innovativa e, soprattutto, economica per quanto riguarda la pulizia di tutti questi elementi, con l’utilizzo delle funi.
+Molti edifici del Reatino sorgono su pendii o in vie strette, dove montare un ponteggio è complicato e costoso. Con la fune servono solo punti di ancoraggio in copertura: niente strutture a terra, niente occupazione di strade, tempi di montaggio ridotti a pochi minuti.
 
-Come si noterà dalla foto sopra, questo non è un lavoro per tutti.
+## Periodo migliore
 
-## Dove possiamo intervenire
+Il momento ideale va da **primavera a inizio autunno**. In inverno interveniamo solo se le temperature sono sopra lo zero e se il vetro non è ghiacciato; altrimenti rinviamo, per sicurezza e per non rovinare la finitura.
 
-Grazie a questa innovativa tecnica dell’utilizzo di corde e funi realizziamo lavori di pulizie di facciate e vetrate e lucernari, anche a svariati metri di altezza, in maniera non invasiva e veloce. Infatti l’assenza di ponteggi ed impalcature ci permettono di operare ad ogni altezza ed in ogni condizione. Eseguiamo lavori pubblici e privati, in subappalto per imprese di pulizia o direttamente per la committenza.
+## Come lavoriamo
 
-**Perché scegliere Italfuni?**
+Sopralluogo o foto, piano di accesso, pulizia con acqua demineralizzata e rifinitura a mano, controllo finale. Tutto con doppia fune e operatori formati, nel rispetto del D.Lgs. 81/2008.
 
-- siamo accreditati, garantendo ogni volta un servizio professionale;
-- offriamo un ottimo rapporto qualità- prezzo, grazie all’utilizzo di funi che permettono di risparmiare sulle impalcature;
-- il lavoro su fune permette di **lavorare in ogni spazio e in ogni condizione;**
-- **Risparmio** del cliente;
-- professionalità e sicurezza
-- ottimo rapporto qualità- prezzo, con la garanzia di un servizio di qualità, professionale e a prezzi molto competitivi;
-- i nostri esperti sono altamente qualificati;
-- totale sicurezza nell’esecuzione del lavoro;
-- **rispetto delle scadenze** concordate e soddisfazione dei clienti.
+## Altri servizi nello stesso sito
 
-### Pulizia di vetri ma non solo
+Se oltre ai vetri ti serve manutenzione, guarda la [pulizia delle grondaie a Rieti]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}) o il [rifacimento dei tetti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}). Per altre zone del Lazio: [Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}), [Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }}), [Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}).
 
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri non arrivano.
-
-Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Rieti e provincia]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}).
-
-Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura: riparazione tetti Rieti.
-
-### Non sai di Rieti? allora prova qui
-
-- [pulizia vetri Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }});
-- [pulizia vetri Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }});
-- [pulizia vetri Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }});
-- [pulizia vetri Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}).
-
-Richiedi ora un **preventivo gratuito** per risparmiare pulendo vetri ad alta quota grazie ad Italfuni, esperti di qualità e sicurezza! Ti stupiremo per la nostra professionalità e l’ottimo rapporto qualità prezzo!
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con l'indirizzo dell'edificio e qualche foto.

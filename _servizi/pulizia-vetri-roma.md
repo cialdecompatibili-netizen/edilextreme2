@@ -1,63 +1,45 @@
 ---
 layout: servizio
-title: "Pulizia vetri roma"
-description: "Avete bisogno di una pulizia di vetri e vetrate che operi su tutta la provincia di Roma? Sei proprio nel posto giusto!"
+title: "Pulizia vetri a Roma e provincia"
+description: "Pulizia di vetrate, finestre e lucernari a Roma lavorando su fune: niente ponteggi, niente occupazione di suolo pubblico, risultato senza aloni."
 gruppo: "Roma e provincia"
-seo_title: "Pulizia vetri roma - Italfuni"
-seo_description: "Stai cercando professionisti a Roma e provincia per la pulizia di vetri con l'utilizzo funi, senza installazione di ponteggi? Preventivi gratuiti in 1 click"
+seo_title: "Pulizia vetri a Roma su fune, senza ponteggi | EdilExtreme"
+seo_description: "Pulizia vetri e vetrate a Roma e provincia con tecnica su fune: nessun ponteggio, nessun permesso di suolo pubblico, tempi rapidi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-su-fune.jpg" alt="Pulizia vetri roma" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-su-fune.jpg" alt="Operatore su fune pulisce una vetrata a Roma" align="center" %}
 
-Avete bisogno di una pulizia di vetri e vetrate che operi su tutta la provincia di Roma? Sei proprio nel posto giusto!
+A Roma pulire un vetro alto non è mai una questione di sola pulizia. Strade strette, zone a traffico limitato, marciapiedi pieni e uffici che non possono fermarsi trasformano un lavoro semplice in un problema di logistica. **EdilExtreme** lo risolve dall'alto: l'operatore si cala lungo la facciata su doppia fune e lava ogni vetro da vicino, senza chiudere la strada e senza montare strutture.
 
-**Italfuni** allora fa al caso vostro! Siamo un team di professionisti, esperti nella pulizia e lucidatura su corda, di vetrate e di tutti quei punti che normalmente sarebbero solamente raggiungibili con delle impalcature.
+## Perché a Roma conviene la fune
 
-## Pulizia di vetri Roma: perché rivolgersi a noi
+- **Niente occupazione di suolo pubblico**: un ponteggio o un cestello in città richiede pratiche, tempi e costi che con la fune non esistono.
+- **Cantiere compatto**: bastano pochi punti di ancoraggio in copertura, utile nei palazzi del centro dove lo spazio sotto è quasi sempre inesistente.
+- **Interventi rapidi**: in una giornata si lavano interi fronti di uffici e condomini, anche in orari che disturbano il meno possibile.
 
-**Perché Italfuni e non altri?** I nostri professionisti, presenti da anni nel settore hanno esperienza da vendere. Ma ce ne vuole così tanta per un lavoro che detto così sembra semplice? Normalmente in effetti no, ma ci sono casi particolari da tenere in considerazione. Eccone alcuni:
+## Dove interveniamo in città e nei dintorni
 
-- vetrine di negozi;
-- lucernari;
-- vetri di palazzi alti o grattacieli.
+Condomini dei quartieri residenziali, sedi direzionali e torri di uffici, negozi con vetrine alte, scuole, hotel e strutture ricettive, capannoni e showroom lungo le grandi arterie. Lavoriamo anche nei comuni della provincia, dai Castelli ai centri della costa.
 
-Operai a lavoro sule vetrate esterne di un grattacielo
+## Lo sporco tipico della capitale
 
-### Vetrine di negozi
+Lo smog del traffico lascia una patina grigia e grassa che l'acqua da sola non porta via. A questo si aggiungono il polline di primavera, la sabbia trasportata dal vento e i segni dei piccioni sulle sporgenze. Per questo lavoriamo con acqua demineralizzata e prodotti neutri, spazzole morbide e tergitura a mano: il vetro asciuga senza aloni e senza residui di calcare.
 
-Il biglietto da visita di un negozio è la sua **vetrina**. La pulizia andrà fatta in maniera perfetta e regolare. Questa infatti è toccata continuamente dai passanti ed esposta agli agenti atmosferici e allo smog. Il lavoro può essere anche fatto da soli, ma la perdita di tempo giornaliera sarà veramente cospicua e il risultato spesso, non perfetto. I nostri ragazzi sanno il fatto loro e garantiranno risultati ai massimi livelli.
+## Come procediamo
 
-### Lucernari e vetri di palazzi e grattacieli
+1. Sopralluogo, oppure foto e misure se l'edificio è già noto.
+2. Delimitazione dell'area sotto la facciata e controllo del meteo.
+3. Lavaggio e rifinitura di vetri, telai e guarnizioni.
+4. Verifica finale insieme a chi segue l'immobile.
 
-Questo è il vero fiore all’occhiello della nostra ditta. La pulizia di vetri e vetrate su corda **distingue Italfuni** dalle altre realtà sul mercato. Le tecniche usate sono le stesse degli alpinisti o degli speleologi. Sarà così possibile operare in zone dove solamente operai muniti di impalcature potrebbero arrivare.
+Il lavoro rispetta le regole del D.Lgs. 81/2008 sull'accesso su fune: due funi indipendenti, imbracatura collegata alla fune di sicurezza e operatori formati.
 
-I vantaggi non sono pochi. Ci sarà un grosso risparmio di soldi, infatti verrà azzerato il costo di affitto delle impalcature. Inoltre il risparmio nelle tempistiche sarà enorme, dovendo appunto eliminare assemblaggio e smontaggio di queste strutture. Ultimo ma non meno importante, sarà quindi possibile pulire in maniera costante infissi normalmente irraggiungibili.
+## Altri lavori che possiamo fare nello stesso intervento
 
-## Pulizia di vetri: Come viene svolto il lavoro
+Se hai già un'imbracatura a fune sul posto, conviene approfittarne: la [pulizia delle grondaie a Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}) e la [manutenzione del tetto]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}) si fanno con la stessa attrezzatura.
 
-Usiamo prodotti biodegradabili e non dannosi per l’ambiente. Attraverso la tecnologia di purificazione (osmosi inversa e resina demineralizzante) produciamo acqua pura al 100%.
+## Siamo attivi anche nel resto del Lazio
 
-L’assenza di strutture esterne inoltre, permette di recare meno disturbo agli occupanti degli edifici e dei passanti.
+Lo stesso servizio è disponibile a [Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }}), [Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }}) e [Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}). Per una descrizione generale della tecnica leggi la pagina [pulizia vetri]({{ '/servizi/pulizia-vetri/' | relative_url }}).
 
-Salute e Sicurezza della **persona** sopra ogni cosa. CI atteniamo alle ultime direttive CEE e prima di qualsiasi lavoro, svolgiamo un sopralluogo e documentando le dichiarazioni dei metodi individuali e le valutazioni del rischio.
-
-Quindi per la pulizia di vetrate di qualsiasi tipo e dimensione, **Italfuni** è la ditta che fa al caso tuo. Richiedi il tuo preventivo gratuito e senza impegno!
-
-### Pulizia di vetri ma non solo
-
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri non riescono.
-
-Hai ad esempio problemi con la tua **grondaia** e hai bisogno di **riparazioni o manutenzione**? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}).
-
-Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura per le tue esigenze: [riparazione tetti Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}).
-
-### Non sei nella provincia di Roma allora prova qui
-
-La nostra azienda offre i suoi servizi su tutto il territorio della **regione Lazio**:
-
-- [pulizia vetri Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }});
-- [pulizia vetri Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }});
-- [pulizia vetri Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }});
-- [pulizia vetri Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}).
-
-Chiamaci per avere un **preventivo gratuito e senza impegno**. Ti sorprenderemo per la nostra professionalità e l’ottimo rapporto qualità prezzo!
+**Vuoi un prezzo preciso?** [Scrivici]({{ '/contatti/' | relative_url }}) con qualche foto e l'indirizzo: ti rispondiamo con un preventivo gratuito.

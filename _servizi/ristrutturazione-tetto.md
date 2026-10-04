@@ -1,27 +1,48 @@
 ---
 layout: servizio
 title: "Ristrutturazione tetto"
-description: "Ristrutturazione di tetti con l’edilizia su fune, per abbattere il prezzo."
+description: "Riparazione e rifacimento di coperture a falde o piane: sostituzione di tegole e travi, isolamento e impermeabilizzazione, con accesso su fune e linee vita."
 gruppo: "I nostri servizi"
 ordine: 14
-seo_title: "Ristrutturazione tetto - Italfuni"
-seo_description: "Stai cercando una ditta edile specializzata nella ristrutturazione di tetti che grazie all'edilizia su fune abbatte il prezzo? Sei nel posto giusto!"
+seo_title: "Ristrutturazione e riparazione tetto con accesso su fune | EdilExtreme"
+seo_description: "Riparazione e rifacimento del tetto: sostituzione di tegole e travi, isolamento e impermeabilizzazione, con accesso su fune e linee vita. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Ristrutturazione tetto" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Lavori di riparazione su una copertura" align="center" %}
 
-Il tetto come tutti sappiamo è un elemento fondamentale per la casa, garantisce protezione contro intemperie, isolamento termico e permette di vivere in un ambiente sano e sicuro.
+Il tetto è la parte della casa che lavora di più e che si guarda di meno: sole, gelo, grandine e vento lo consumano ogni anno, e i primi segni di cedimento si vedono quasi sempre dall'interno, quando l'acqua è già passata. **EdilExtreme** si occupa di riparazione, manutenzione e rifacimento di coperture a falde e piane, con un metodo che riduce al minimo ponteggi e piattaforme.
 
-Avere un tetto fatto a regola d’arte significa risparmiare sulla bolletta della luce grazie ad un buon isolamento termico, evita infiltrazioni d’acqua e umidità di ogni tipo.
+## Segnali che il tetto ha bisogno di lavori
 
-Che sia la sostituzione di alcune tegole oppure la ristrutturazione completa non è un problema, eseguiamo isolamenti termici d’impermeabilizzazione avvalendoci dell’innovativa tecnica di fare edilizia su fune permettendo di abbattere i costi grazie all’assenza di impalcature e  piattaforme aeree risparmiando sull’affitto di tale materia e il personale addetto all’installazione.
+- tegole o coppi spostati, rotti o mancanti dopo temporali e vento;
+- **macchie di umidità** su soffitti e pareti sottotetto, muffa negli angoli;
+- colmi, displuvi e converse con sigillature aperte;
+- travi o listelli visibilmente imbarcati o attaccati da umidità e insetti;
+- grondaie che si staccano o sono piene di granuli di guaina e frammenti di coppo;
+- bollette che crescono perché la copertura isola poco.
 
-## Come si svolge il nostro intervento?
+## Che interventi facciamo
 
-Per prima cosa il Team di ItalFuni effettua un sopralluogo gratuito senza impegno, controllando ogni parte a rischio di usura del tetto.
+**Manutenzione.** Riposizionamento e sostituzione di singole tegole o lastre, risigillatura di colmi e converse, pulizia di canali e scarichi, trattamento di muschi e licheni.
 
-Effettuato il sopralluogo verrà annotato ogni dettaglio e dopo aver deciso  con il cliente in che modo e su cosa intervenire verrà fatto un preventivo.
+**Rifacimento parziale o totale del manto.** Rimozione del vecchio manto, ripristino dell'orditura (travi, travetti, listelli), posa dei nuovi elementi, con particolare cura per i punti sensibili: camini, lucernari, abbaini e bordi.
 
-A questo punto verranno istallate delle linee vita non che punti di ancoraggio dove agganciarsi con le corde per poter iniziare a lavorare.
+**Isolamento e impermeabilizzazione.** Il rifacimento è l'occasione migliore per migliorare la resa energetica, come spieghiamo in [montaggio isolanti]({{ '/servizi/montaggio-isolanti/' | relative_url }}), e per risolvere le infiltrazioni con un sistema continuo (vedi [impermeabilizzazione]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }})).
 
-Grazie all’esperienza maturata siamo in grado di cambiare una singola tegola fino allo smantellamento completo del tetto e la sostituzione di vecchie travi pericolanti, rimozione di materiale pericoloso e pericolante a rischio caduta o grondaie danneggiate con interventi tempestivi.
+**Rimozione di materiale pericoloso o pericolante**, come parti di cornice o lastre in cattivo stato, in sicurezza.
+
+## Come si svolge un lavoro
+
+1. **Sopralluogo** del tetto e dell'interno per capire la causa e l'estensione del danno.
+2. **Relazione e preventivo** con le soluzioni possibili e un ordine di priorità: cosa è urgente e cosa può aspettare.
+3. **Messa in sicurezza**: installazione di punti di ancoraggio o linee vita temporanee per agganciare le funi e lavorare in sicurezza.
+4. **Esecuzione dei lavori**, con aggiornamenti sul cantiere.
+5. **Verifica finale** e consegna di fotografie dell'intervento.
+
+Per tetti storici o in zone vincolate può servire una valutazione preventiva con un tecnico: ti indichiamo quando conviene. Per interventi che modificano la struttura o i materiali della copertura verifica sempre con il tecnico incaricato quale titolo edilizio è richiesto dal tuo Comune.
+
+## Perché l'accesso su fune
+
+Quando il lavoro riguarda una porzione di tetto, o una falda difficile da raggiungere, il ponteggio può incidere più della riparazione. L'accesso su doppia fune permette di lavorare con una squadra snella, con tempi brevi e senza occupare suolo pubblico. Resta fondamentale la presenza di ancoraggi sicuri: per questo ti spieghiamo anche come installare [sistemi di sicurezza permanenti]({{ '/servizi/montaggio-sistemi-di-sicurezza-su-fune/' | relative_url }}) per le manutenzioni future.
+
+**Hai un tetto che perde o che invecchia?** [Contattaci]({{ '/contatti/' | relative_url }}): ti prepariamo un preventivo senza impegno.

@@ -1,32 +1,45 @@
 ---
 layout: servizio
 title: "Impermeabilizzazione su fune"
-description: "Impermeabilizzazioni di lastre d’ardesia, terrazzi e tetti."
+description: "Impermeabilizzazione di terrazzi, balconi, cornicioni e coperture lavorando su fune, senza ponteggi: dalla ricerca delle infiltrazioni alla posa di guaine e membrane."
 gruppo: "I nostri servizi"
 ordine: 1
 in_home: true
-seo_title: "Impermeabilizzazione su fune - Italfuni"
-seo_description: "Italfuni, nell’ambito degli interventi edili su fune, esegue lavori di impermeabilizzazione di terrazzi, balconi, tetti e cornicioni di appartamenti, ville e condomini garantendo un notevole risparmio rispetto ai lavori con i sistemi tradizionali applicando guaine bituminose e liquide di altissima qualità."
+seo_title: "Impermeabilizzazione terrazzi e tetti su fune | EdilExtreme"
+seo_description: "Infiltrazioni da terrazzo, balcone o tetto? EdilExtreme impermeabilizza con guaine e membrane lavorando su fune, senza ponteggi. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Impermeabilizzazione su fune" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune durante un intervento di impermeabilizzazione" align="center" %}
 
-**Italfuni**, nell’ambito degli interventi edili su fune, esegue lavori di **impermeabilizzazione** di terrazzi, balconi, tetti e cornicioni di appartamenti, ville e condomini garantendo un notevole risparmio rispetto ai lavori con i sistemi tradizionali (ponteggi, autogru, impalcature aeree ecc.).
+Una macchia sul soffitto, un angolo di muro che si gonfia, un cornicione che perde pezzi: quasi sempre il problema nasce da una superficie esterna che ha smesso di tenere l'acqua. **EdilExtreme** ripristina l'impermeabilizzazione di terrazzi, balconi, cornicioni, lastrici solari e coperture lavorando su fune, quindi senza montare ponteggi e senza noleggiare piattaforme.
 
-L’impermeabilizzazione delle terrazze, balconi e tetti viene eseguita con l’applicazione di guaine bituminose e liquide, utilizzando i migliori materiali in commercio.
+## Da dove entra davvero l'acqua
 
-L’usura delle superfici di copertura si manifesta nel tempo e con infiltrazioni di acqua che danneggiano in profondità le strutture di cemento, esponendo all’aria le parti in ferro e facendole arrugginire. In questi casi, per evitare danni alla struttura e pericolose cadute di materiale, gli esperti di Italfuni possono mettere in sicurezza lo stabile riparando la mancata impermeabilità delle superfici rovinate.
+Raramente la causa è "tutta la superficie". Più spesso l'acqua passa da pochi punti deboli:
 
-I fattori che causano la fuoriuscita di acqua possono derivare dall’utilizzo di prodotti di bassa qualità, da una inadeguata sigillatura della pavimentazione o da una guaina difettosa o un comune deterioramento causato dal tempo.
+- **giunti e risvolti** contro i muri, dove la guaina si stacca o si crepa;
+- **bocchettoni e pluviali** mal raccordati o ostruiti;
+- **soglie e davanzali** senza gocciolatoio o con sigillature ormai secche;
+- **vecchie guaine** indurite dal sole e dal gelo, che hanno perso elasticità.
 
-Attraverso un **attento sopralluogo**, i nostri tecnici effettueranno una prima valutazione dello stato generale dell’edificio.
+Il guaio è che l'acqua percorre la struttura prima di manifestarsi: la macchia in casa può trovarsi a metri di distanza dal punto da riparare. Per questo partiamo sempre da una diagnosi, non da un rotolo di guaina.
 
-Successivamente con strumentazioni altamente tecnologiche andranno a verificare la fuoriuscita dell’acqua che si può manifestare in zone non sempre visibili ad occhio nudo o in punti lontani da quelli in cui si evidenzia la macchia.
+## Come lavoriamo
 
-Gli interventi si svolgeranno attraverso l’applicazione di uno stato di primer e con la sostituzione della nuova guaina che a seconda delle necessità sarà applicata nella superficie usurata.
+1. **Ispezione** della superficie e delle zone sottostanti, con verifica dell'umidità dove l'occhio non arriva.
+2. **Preparazione del fondo**: pulizia, rimozione delle parti incoerenti, riparazione di crepe e ripristino delle pendenze di scarico.
+3. **Primer di adesione**, indispensabile perché il nuovo strato si leghi al supporto.
+4. **Posa del sistema impermeabile**, con particolare cura a risvolti, giunti e scarichi.
+5. **Controllo finale** e indicazioni per la manutenzione.
 
-Le guaine utilizzate sono realizzate con **materiali di alta qualità**, dall’elevata resistenza all’alto grado di elasticità, garantendo una profonda copertura. Possono essere applicate in diverse colorazioni in base alla tonalità dell’edificio.
+## Guaine o membrane liquide?
 
-**Professionalità e serietà** sono garantiti dalla Italfuni, interventi edili su fune.
+Dipende dalla superficie. Le **guaine bituminose** (membrane bitume-polimero) sono la soluzione classica per grandi piani; le **membrane liquide** poliuretaniche o acriliche si stendono a pennello o a rullo, seguono bene forme irregolari e rendono semplici i raccordi. Quando si lavora in sospensione preferiamo sistemi applicabili a freddo; la posa a caldo la valutiamo solo dove l'operatore può lavorare su un piano stabile e calpestabile.
 
-*Richiedi un preventivo senza impegno!!!*
+## Perché farlo su fune
+
+Il ponteggio per un intervento di poche ore pesa spesso più del lavoro stesso: montaggio, noleggio, eventuale occupazione di suolo pubblico. Con l'accesso su doppia fune si raggiungono cornicioni, balconi sporgenti e facciate alte con una squadra ridotta, tempi brevi e meno disturbo per chi abita l'edificio.
+
+Se hai già visto comparire umidità o distacchi, intervenire presto costa meno: l'acqua che resta intrappolata porta all'ossidazione dei ferri d'armatura e al distacco del calcestruzzo, che poi richiede la [rimozione del materiale pericolante]({{ '/servizi/messa-in-sicurezza/' | relative_url }}). Per la parte di finitura puoi abbinare il lavoro a [balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}).
+
+**Vuoi capire cosa sta succedendo?** [Contattaci]({{ '/contatti/' | relative_url }}) e descrivici il problema: ti diciamo come procedere e ti prepariamo un preventivo senza impegno.

@@ -1,64 +1,41 @@
 ---
 layout: servizio
-title: "Pulizia pannelli fotovoltaici Rieti su fune"
-description: "Disponi di pannelli fotovoltaici a Rieti e provincia? Avrai allora sicuramente bisogno di un servizio di pulizia regolare ed affidabile."
+title: "Pulizia pannelli fotovoltaici a Rieti e provincia"
+description: "Pulizia di pannelli fotovoltaici a Rieti e nel Reatino con accesso su fune: neve, gelo e foglie lasciano tracce che riducono la resa."
 gruppo: "Rieti e provincia"
-seo_title: "Pulizia pannelli fotovoltaici Rieti su fune - Italfuni"
-seo_description: "Se hai bisogno di un servizio di pulizia dei tuoi pannelli fotovoltaici a Rieti sei nel posto giusto.Clicca qui per un preventivo gratis e senza impegno."
+seo_title: "Pulizia pannelli fotovoltaici a Rieti su fune | EdilExtreme"
+seo_description: "Pulizia di pannelli fotovoltaici a Rieti e provincia con tecnica su fune: via foglie, polvere e residui dopo l'inverno, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari.png" alt="pulizia pannelli solari" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari-660x321.png" alt="Pulizia pannelli solari su fune a Rieti" align="center" %}
 
-Disponi di **pannelli fotovoltaici a Rieti** e provincia? Avrai allora sicuramente bisogno di un **servizio di pulizia** regolare ed affidabile.
+Sulle colline e nelle valli del Reatino un impianto fotovoltaico ha un vantaggio, l'aria più pulita, e uno svantaggio: un ciclo stagionale marcato. Dopo l'inverno si trovano **foglie, aghi di pino, resti di neve sciolta con polvere, muschio e licheni** sui bordi dei moduli. **EdilExtreme** li pulisce su fune, senza salire sul campo e senza ponteggi.
 
-Tenerli puliti è fondamentale per garantirne la massima efficienza energetica. Questi infatti sono spesso esposti all’azione degli agenti atmosferici, sporcandosi così con moltissima facilità.
+## Chi chiama più spesso
 
-Se non hai ancora un impianto fotovoltaico prova a leggere qui: pannelli solari, vendita assistenza e manutenzione.
+- **Aziende agricole e agriturismi** con impianti sui fienili e sui tetti degli annessi;
+- **Case e ville** su pendii, dove il tetto è difficile da raggiungere;
+- **Capannoni e piccole attività** nelle zone industriali di Rieti e del Velino;
+- **Strutture ricettive di montagna** con pannelli per acqua calda e corrente.
 
-## Pulizia pannelli fotovoltaici Rieti: chi siamo
+## Cosa lascia l'inverno
 
-**Italfuni** come si evince dal nome, usa tecniche derivanti dall’alpinismo e dalla speleologia per arrivare dove gli altri no possono.
+Il ghiaccio e la neve scivolando spingono verso il bordo foglie e polvere, formando una **striscia opaca nella parte bassa dei moduli**. Quella fascia, anche piccola, può ombreggiare le celle e influire sull'intera stringa. Il muschio si insedia nelle cornici e trattiene umidità: va tolto con delicatezza, senza graffiare il vetro.
 
-Questa azienda è leader dei servizi su **corda a fune.** Offre, tra le tante cose, anche un servizio di pulizia dei pannelli fotovoltaici in tutta Rieti e provincia.
+## Quando conviene intervenire
 
-## Pulizia pannelli fotovoltaici Rieti: perché sceglierci
+Il periodo migliore è la **primavera**, quando il rischio di gelo è passato. Un secondo passaggio ha senso a fine estate se l'impianto è vicino ad alberi o a campi arati. Non lavoriamo con ghiaccio, vento forte o pioggia: se il tempo cambia, rinviamo.
 
-Praticamente esistono solamente pro e nessun contro. L’utilizzo di funi per questo genere di intervento comporta i seguenti vantaggi:
+## Come lavoriamo
 
-- risparmio economico;
-- tempistiche lavorative abbattute;
-- mino disturbo alle persone.
+Pulizia con acqua demineralizzata e spazzole morbide, senza acidi e senza raschietti. Controlliamo cornici, staffe, pozzetti, cavi e canaline; se vediamo segni di infiltrazione o fissaggi allentati ti avvisiamo con foto.
 
-### Il risparmio economico
+## Perché non salire sui pannelli
 
-Non sempre spendere di più vuol dire avere un lavoro migliore. Il **risparmio economico** deriva dal fatto che verranno eliminati tutti i costi relativi alle impalcature.
+Su un tetto inclinato e bagnato il rischio di scivolare è alto, e il peso dei piedi può causare microcrepe nelle celle. Con la doppia fune l'operatore resta ancorato e fuori dal piano dei moduli. È il sistema più sicuro e rispetta le regole del D.Lgs. 81/2008.
 
-I ponteggi infatti andranno affittati, trasportati e montati in loco.
+## Collegati
 
-### Tempistiche lavorative
+Se i tetti hanno anche bisogno di lavori: [rifacimento tetti a Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}) e [grondaie a Rieti]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}). Altre province: [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}), [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}), [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}).
 
-Un altro problema dei ponteggi è che occorre **parecchio tempo** e personale altamente specializzato per **essere assemblati**. Inoltre essendo il lavoro di pulizia dei pannelli fotovoltaici un’attività di manutenzione ordinaria, sarebbe poco pratico tirare su queste strutture ogni volta.
-
-### Minimo disturbo
-
-I nostri professionisti oltre che ad essere bravissimi tecnici sanno anche essere **silenziosi e discreti**. Inoltre come già detto poc’anzi, il non dover montare strutture di supporto porterà anche ad un mino rumore prima e durante i lavori di pulizia.
-
-## Pulizia pannelli fotovoltaici Rieti: come lavoriamo
-
-Tra i **problemi principali** che i pannelli fotovoltaici possono avere vi è sicuramente la presenza di vari fattori:
-
-- polline;
-- escrementi di volatili;
-- foglie e rami.
-
-Tutti e tre possono diminuire l’efficienza dei pannelli solari. Il problema più grosso è presentato però dagli escrementi dei volatili, Questi infatti presentano alti taddi di acidità che potrebbero seriamente danneggiare questi dispositivi.
-
-Per l’eliminazione di questi procediamo con l’utilizzo di spazzole rotanti in micro fibra (molto efficaci che non righeranno le superfici) e dell’acqua deionizzata. Questo prodotto permette oltretutto di essere completamente **eco friendly**.
-
-La pulizia dei pannelli fotovoltaici viene eseguita come per qualsiasi altra superficie vetrata: spazzole, acqua deionizzata e abilità, per far brillare i pannelli del territorio romano e rendere luminosi anche i volti delle famiglie che decideranno di utilizzare questo metodo e ridurre gli sprechi!
-
-## Preventivi gratuiti
-
-Avere informazioni o **richiedere un preventivo con sopralluogo gratuito** è facilissimo. Basterà compilare il modulo “preventivo gratuito” qui in alto. Per velocizzare il tutto è possibile fare un preventivo gratuito anche tramite WhatsApp. scattando delle foto ai pannelli fotovoltaici da pulire ed inviandola i nostri esperti potranno aiutarti immediatamente.
-
-Se non sei di Rieti allora prova qui: pulizia pannelli fotovoltaici a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
+**Vuoi un preventivo?** [Contattaci]({{ '/contatti/' | relative_url }}) con indirizzo, potenza e foto del tetto.

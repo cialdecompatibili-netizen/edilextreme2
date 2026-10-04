@@ -1,63 +1,41 @@
 ---
 layout: servizio
-title: "Pulizia vetri su fune a Frosinone provincia"
-description: "Si sa, lo stato di pulizia dei nostri vetri rappresenta il biglietto da visita del nostro edificio, ufficio, negozio o appartamento. La pulizia di questi..."
+title: "Pulizia vetri a Frosinone e provincia"
+description: "Pulizia di vetri e vetrate a Frosinone e in Ciociaria con accesso su fune: per uffici, scuole e capannoni, senza ponteggi."
 gruppo: "Frosinone e provincia"
-seo_title: "Pulizia vetri su fune a Frosinone provincia - Italfuni"
-seo_description: "Stai cercando professionisti nella pulizia di vetri su fune a Frosinone e provincia? Sei nel posto giusto! Preventivo e sopralluogo gratuito in 1 click."
+seo_title: "Pulizia vetri a Frosinone e provincia su fune | EdilExtreme"
+seo_description: "Pulizia vetri e vetrate a Frosinone, Cassino, Sora e Ciociaria con tecnica su fune: via polveri industriali e smog, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-latina.jpg" alt="Pulizia vetri su fune a Frosinone provincia" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/bogota-4490438_1280-1-1030x685.jpg" alt="Operatori su fune lungo una facciata vetrata" align="center" %}
 
-Si sa, lo stato di **pulizia dei nostri vetri** rappresenta il biglietto da visita del nostro edificio, ufficio, negozio o appartamento. La pulizia di questi elementi risulta quindi fondamentale.
+La provincia di Frosinone è un territorio produttivo: stabilimenti, centri logistici, uffici e grandi superfici commerciali lungo le valli e le arterie principali. Qui il vetro si sporca di **polveri fini e residui di traffico**, e più è grande la facciata più è complesso raggiungerla. **EdilExtreme** pulisce vetrate e finestre su fune, senza ponteggi e con tempi di cantiere molto ridotti.
 
-Ma non tutti i punti sono raggiungibili, quindi bisogna appoggiarsi a chi davvero se ne intende. Ecco che scende in campo **Italfuni!**
+## Dove operiamo
 
-Italfuni, azienda leader nel campo dei servizi su **corda a fune**, offre lavori di pulizia vetrate caratterizzandosi per la professionalità, rapidità e soprattutto sicurezza a in tutta **Frosinone e provincia.**
+- **Frosinone e Alatri**: uffici, studi, banche, condomini e edifici scolastici;
+- **Cassino e la Valle del Liri**: sedi aziendali, capannoni, showroom e centri commerciali;
+- **Sora, Anagni, Ferentino e Ceccano**: aziende della zona industriale, strutture sanitarie e di servizio;
+- **Centri storici della Ciociaria**, dove i vicoli ripidi rendono difficile qualsiasi struttura temporanea.
 
-## Pulizia vetri: Come lavoriamo
+## Perché le aziende scelgono la fune
 
-L’utilizzo di attrezzature specifiche e di funi ci consentono di poter lavorare su qualsiasi tipo di edificio, garantendo ogni volta un’accurata pulizia a **prezzi competitivi**.
+Fermare la produzione o la logistica per far montare un ponteggio ha un costo che spesso supera quello della pulizia stessa. La tecnica su fune non interferisce con piazzali, carico e scarico o ingressi: l'operatore lavora in verticale, a lato dell'attività, e il lavoro si può programmare nei giorni più tranquilli, anche fuori orario.
 
-Il servizio che offriamo permette di **risparmiare sulla pulizia delle vetrate.** Questo grazie al metodo di lavoro, che non prevede l’utilizzo di installazione di ponteggi o piattaforme aeree, spesso ingombranti. Questo permette anche di **accorciare i tempi di consegna** (non dovendo montare e smontare impalcature) e provocherà minor disturbo per passanti e occupanti dello stabile.
+## Cosa togliamo
 
-I nostri operatori infatti si avvalgono di strumenti specifici, quali corde, funi, per fissarsi agli edifici in piena sicurezza, a qualsiasi altezza. Queste tecniche sono le stesse utilizzate in alpinismo.
+Polveri sottili che formano una crosta grigia, ossidi trasportati dalla pioggia, escrementi di volatili, residui di sigillanti e adesivi, pollini e fogliame. Il lavaggio avviene con acqua demineralizzata, con prodotti neutri e tergitura manuale; sui lucernari industriali, spesso sporchi da anni, programmiamo un ciclo di pulizia più accurato.
 
-### Dove possiamo intervenire
+## Frequenza
 
-Grazie a questa innovativa tecnica dell’utilizzo di corde e funi realizziamo lavori di pulizie in punti normalmente irraggiungibili:
+Uffici e showroom: da 2 a 4 interventi l'anno. Condomini e scuole: 1 o 2. Impianti produttivi: in base all'inquinamento specifico e alla funzione dei vetri. Costruiamo un calendario con te, invece di vendere interventi a caso.
 
-- alte vetrate;
-- lucernari;
-- finestre di grattacieli.
+## Sicurezza
 
-La possibilità di non avvalersi di impalcature permette inoltre, di poter intervenire in maniera regolare nel tempo.
+Lavoriamo con due funi indipendenti, operatori formati e attrezzature a norma, come previsto dal D.Lgs. 81/2008. Per i siti industriali concordiamo in anticipo percorsi, orari e regole interne.
 
-**Perché sceglierci?**
+## Altro che possiamo fare
 
-- siamo accreditati, garantendo ogni volta un servizio professionale;
-- offriamo un ottimo rapporto qualità- prezzo, grazie all’utilizzo di funi che permettono di risparmiare sulle impalcature;
-- il lavoro su fune permette di **lavorare in ogni spazio e in ogni condizione;**
-- **risparmio** del cliente;
-- professionalità e sicurezza;
-- ottimo rapporto qualità- prezzo, con la garanzia di un servizio di qualità e professionale a prezzi molto competitivi;
-- i nostri esperti sono altamente qualificati;
-- totale sicurezza nell’esecuzione del lavoro;
-- **rispetto delle scadenze** concordate e soddisfazione dei clienti.
+Per le coperture di capannoni e uffici: [pulizia pannelli fotovoltaici a Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}), [grondaie]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}) e [manutenzione del tetto]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }}). Il servizio vetri è presente anche a [Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}), [Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }}) e [Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}).
 
-### Pulizia di vetri ma non solo
-
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri non arrivano.
-
-Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Frosinone e provincia]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
-
-Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura: riparazione tetti Frosinone.
-
-## Non sei di Frosinone? Allora prova qui
-
-- [pulizia vetri Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }});
-- [pulizia vetri Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }});
-- [pulizia vetri Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }});
-- [pulizia vetri Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}).
-
-Richiedi un **preventivo gratuito!** Risparmierai sicuramente avvalendoti dei servizi di **Italfuni**!
+**Richiedi un preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con qualche foto e l'indirizzo.

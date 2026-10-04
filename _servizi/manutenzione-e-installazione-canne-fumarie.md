@@ -1,33 +1,43 @@
 ---
 layout: servizio
 title: "Pulizia, manutenzione e installazione canne fumarie"
-description: "Pulizia, manutenzione e installazione di canne fumarie su fune, con prezzi più bassi fino al 40%."
+description: "Pulizia di canne fumarie e comignoli, controlli e installazione di nuovi condotti: lavoriamo dall'alto su fune, senza ponteggi e con ispezione del condotto."
 gruppo: "I nostri servizi"
 ordine: 2
-seo_title: "Pulizia, manutenzione e installazione canne fumarie - Italfuni"
-seo_description: "Specializzati nella pulizia, manutenzione e installazione di canne fumarie su fune permettendo di abbattere il prezzo fino al 40%."
+seo_title: "Pulizia e installazione canne fumarie e comignoli su fune | EdilExtreme"
+seo_description: "Pulizia, ispezione e installazione di canne fumarie e comignoli lavorando su fune: più sicurezza, meno rischio di incendio e niente ponteggi. Preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Pulizia, manutenzione e installazione canne fumarie" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune al lavoro su un comignolo" align="center" %}
 
-Le canne fumarie aspirano polveri, ceneri, catrami, prodotti della combustione che vi si depositano sotto forma di fuliggine.
+Ogni volta che si accende un camino, una stufa o una caldaia a combustibile solido, sulle pareti del condotto si deposita qualcosa: fuliggine e, soprattutto con legna umida o poco stagionata, **creosoto**, un residuo catramoso e molto infiammabile. Se si accumula, il condotto restringe la sezione, il tiraggio peggiora e il rischio di **incendio della canna fumaria** aumenta. **EdilExtreme** si occupa di pulizia, controllo e installazione di canne fumarie e comignoli, lavorando dall'alto su fune.
 
-> Se la fuliggine occlude la parte terminale del comignolo ne altera il corretto funzionamento e riduce l’efficienza di caminetti, stufe o caldaie. L’occlusione completa dei comignoli è molto pericolosa: causa surriscaldamenti dell’impianto e, nei casi più gravi, incendi.
+## Segnali che il condotto va controllato
 
-Perciò per una maggiore sicurezza e efficienza è necessario rimuovere la fuliggine periodicamente.
+- fumo che rientra in casa all'accensione o odore di bruciato persistente;
+- fiamma che "tira male", vetro della stufa che si annerisce in fretta;
+- fuliggine o scaglie nere che cadono nel focolare;
+- comignolo parzialmente chiuso da nidi, foglie o depositi;
+- stagione fredda alle porte e condotto non pulito dall'anno precedente.
 
-A chi affidarsi per la pulizia? A Italfuni, i nostri operatori su fune, esperti di canne fumarie interne ed esterne di camini, caminetti e stufe!
+## Cosa facciamo
 
-Eseguiamo:
+**Pulizia e ispezione.** Puliamo il condotto dall'alto con scovoli adatti al materiale (muratura, acciaio, refrattario) e controlliamo le condizioni di camino, comignolo, cappello antipioggia e raccordi. Se serve, documentiamo lo stato interno con una ispezione video: è l'unico modo per accorgersi di crepe e giunti aperti.
 
-- **Installazione a regola d’arte.** E’ un intervento di edilizia verticale che abbiamo eseguito moltissime volte. Garantiamo competenza e rapidità di esecuzione. Per installare correttamente la canna fumaria è fondamentale, già in fase di progettazione, garantire un buon tiraggio: permettiamo ai fumi di uscire verso l’esterno in sicurezza, evitando rischi per la salute!
-- Possiamo programmare insieme tutte le fasi successive di **manutenzione e pulizia**: questo ti consentirà di mantenere il condotto sempre pulito e ben funzionante, evitando di ricorrere a interventi urgenti, impegnativi, costosi. La manutenzione e la pulizia sono servizi che eseguiamo in qualunque periodo dell’anno!
+**Manutenzione.** Sigillature, sostituzione di cappelli e terminali, ripristino di collari e bordature sul tetto.
 
-## I nostri interventi in quota sono:
+**Installazione di nuove canne fumarie.** Un buon impianto nasce prima del cantiere: diametro e altezza corretti, materiali idonei al combustibile, distanza da elementi infiammabili e tiraggio verificato. Le installazioni a biomassa fino a 35 kW fanno riferimento alla norma UNI 10683, e al termine del lavoro va prevista la documentazione di conformità.
 
-- **rapidi e veloci:**  eliminiamo i disagi, i rumori, le difficoltà legati alle impalcature
-- **economici:**  abbattiamo tutti i costi per la realizzazione di ponteggi. Non dobbiamo usare altre strutture ingombranti per sollevare i nostri operatori!  E non è necessario chiedere il permesso per l’occupazione del suolo pubblico, indispensabile per ponteggi e piattaforme.
-- **efficaci:** interveniamo su tutte le chiostrine e facciate ma anche, su terrazzi interni, cortili aree specifiche, qualsiasi spazio…. Non c’è niente che ci ferma!
-- **sicuri**: usiamo tecniche alpinistiche su corda e fune, all’avanguardia e sicure (doppia corda di sicurezza).        I servizi sono eseguiti dai nostri operatori su fune, nel rispetto delle norme di sicurezza previste per tutti gli interventi di edilizia acrobatica ed edilizia verticale eseguiti con il sistema dei lavori in quota su fune. Le norme di sicurezza sono quelle indicate nel D. Lgs 9 Luglio 2003, n 235.
+## Ogni quanto pulire
 
-Contattaci: prima di eseguire il lavoro, compiamo una **verifica di fattibilità,** definendo il tipo d’intervento più appropriato sia sul piano funzionale che strutturale.
+Dipende da quanto e cosa si brucia: come regola pratica, **una o due volte l'anno** per chi usa il camino con regolarità, da fare prima dell'inverno. Bruciare legna ben secca (umidità indicativamente sotto il 20%) riduce molto la formazione di creosoto, ma non sostituisce la pulizia.
+
+## Perché dall'alto e su fune
+
+Per raggiungere un comignolo su un tetto a falde o su un edificio alto si usano di solito ponteggi o piattaforme, con costi e burocrazia che pesano più del lavoro in sé. Con l'accesso su doppia fune il nostro operatore arriva direttamente al punto d'intervento: tempi più brevi, nessuna occupazione di suolo pubblico, disturbo minimo.
+
+La sicurezza è la parte su cui non si risparmia: i lavori con accesso e posizionamento su funi rientrano nelle regole del D.Lgs. 81/2008 (artt. 111-116), che richiedono due funi ancorate separatamente, imbracatura collegata alla fune di sicurezza e operatori formati allo scopo.
+
+Prima di partire facciamo una **verifica di fattibilità**, per scegliere l'intervento più adatto sia sul piano funzionale sia su quello strutturale. Se il camino è su un tetto da sistemare, puoi anche valutare la [ristrutturazione del tetto]({{ '/servizi/ristrutturazione-tetto/' | relative_url }}) nella stessa occasione.
+
+**Vuoi programmare la pulizia prima dell'inverno?** [Contattaci]({{ '/contatti/' | relative_url }}) e fissiamo un sopralluogo.

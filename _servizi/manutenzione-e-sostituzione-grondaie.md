@@ -1,33 +1,42 @@
 ---
 layout: servizio
 title: "Riparazione e pulizia grondaie"
-description: "Le altezze sono il nostro pane quotidiano, eseguiamo manutenzione, riparazione e sostituzione grondaie."
+description: "Pulizia, riparazione e sostituzione di grondaie e pluviali eseguite su fune: eliminiamo foglie, nidi e ostruzioni senza ponteggi né piattaforme."
 gruppo: "I nostri servizi"
 ordine: 3
 in_home: true
-seo_title: "Riparazione e pulizia grondaie su fune - Italfuni"
-seo_description: "Stai cercando chi ripara, pulisce o sostituisce grondaie e pluviali senza ponteggi, impalcature o affitto di macchinari abbattendo i costi? Sei nel posto giusto! Preventivi e sopralluoghi gratuiti senza impegno. Risparmia fino al 40% Su ogni intervento!"
+seo_title: "Pulizia, riparazione e sostituzione grondaie su fune | EdilExtreme"
+seo_description: "Grondaie otturate o che perdono? EdilExtreme pulisce, ripara e sostituisce grondaie e pluviali lavorando su fune, senza ponteggi. Richiedi un preventivo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Riparazione e pulizia grondaie" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su fune che interviene su una grondaia" align="center" %}
 
-Italfuni offre un servizio di alta qualità per la manutenzione, riparazione e sostituzione delle grondaie attraverso lavori in quota su fune.
+La grondaia lavora in silenzio finché funziona. Quando si intasa, invece, l'acqua trabocca lungo la facciata, scava gli intonaci, entra sotto le tegole e finisce nelle fondazioni. **EdilExtreme** pulisce, ripara e sostituisce grondaie e pluviali lavorando su fune: si arriva a qualsiasi altezza senza ponteggi, senza piattaforme aeree e con un cantiere che si monta in pochi minuti.
 
-La nuova metodologia permette di arrivare verso le parti più alte degli edifici evitando ponteggi e piattaforme aeree e garantendo un maggior risparmio oltre che un intervento rapido e personalizzato.
+## I problemi più frequenti
 
-Il servizio manutenzione del tetto e pulizia delle grondaie sono interventi necessari per rimuovere tutti i materiali organici e non che nel corso del tempo si depositano verso i canali di acqua o i tubi di scolo compromettendone la funzionalità.
+- **Ostruzioni**: foglie, muschio, nidi, residui di tegole e, negli edifici vicino ad alberi, veri e propri strati di terriccio.
+- **Pendenza perduta**: la grondaia si abbassa dove le staffe cedono e l'acqua ristagna invece di scorrere verso il pluviale.
+- **Giunti aperti e sigillature secche**: le perdite compaiono sempre nei punti di unione.
+- **Corrosione**: soprattutto su lamiera zincata, dove l'acqua stagnante accelera la ruggine.
+- **Pluviali schiacciati o staccati**, spesso a causa di urti o dell'allentamento delle fascette.
 
-L’accumulo di sporcizia e la scorretta canalizzazione dell’acqua a lungo andare potrebbe causare infiltrazioni e danni strutturali all’edificio.
-Italfuni provvede con interventi qualificati e professionali la possibilità di manutenzione periodica verificando da vicino ogni qualvolta se ne rende necessario l’esecuzione dei lavori.
+I segni da cui accorgersene: macchie scure o verdi sotto la linea di gronda, intonaco che si sfarina, acqua che cade dal bordo durante la pioggia, erbacce che crescono sul canale.
 
-Lo smaltimento adeguato delle acque piovane permette di evitare macchie e detriti visibili, muffa, deterioramento dell’intonaco o parte di esso oltre che il proliferare di vari insetti e la diffusione di odori stagnanti.
+## Come interveniamo
 
-Attraverso un sopralluogo tecnico, il nostro personale altamente qualificato verifica direttamente i canali di gronda e i tubi pluviali, indicando gli interventi da effettuare in base alle caratteristiche della copertura e della facciata.
+1. **Ispezione** di canali, giunti, staffe e discese pluviali, a distanza ravvicinata.
+2. **Pulizia**: rimozione manuale e con aspirazione del materiale accumulato, lavaggio a bassa pressione dove serve, prova di scorrimento dell'acqua.
+3. **Riparazione**: riallineamento delle pendenze, sostituzione di staffe e fascette, risigillatura dei giunti, ripristino di tratti ammalorati.
+4. **Sostituzione** quando il danno è esteso: scegliamo con te il materiale (rame, alluminio, acciaio preverniciato o PVC) in base all'edificio e al budget.
+5. **Controllo finale**, perché una grondaia pulita ma ancora con il giunto che perde non basta.
 
-I lavori potrebbe essere effettuati su fune o direttamente sull’area di calpestio.
+## Ogni quanto va pulita
 
-I materiali utilizzati nella pulizia sono di ultima generazione e comprendono anche strumentazioni meccaniche (idropulitrice). Al termine dei lavori, sarà effettuata una seconda ispezione per verificare lo stato generale del tetto e attivare una seconda procedura, in caso di eventuali otturazioni.
+Una regola semplice: **due volte l'anno**, a fine autunno, quando le foglie sono cadute, e a fine primavera, dopo fioriture e nidificazioni. Con alberi molto vicini al tetto conviene aggiungere un controllo intermedio. Gli interventi si fanno tutto l'anno, escluse giornate di vento forte o pioggia intensa.
 
-Gli interventi potranno essere eseguiti in un qualunque periodo dell’anno, salvo periodi di forte pioggia o vento ed almeno per una volta l’anno.
+## Perché su fune conviene
 
-Richiedi un preventivo gratuito senza impegno.
+Una pulizia di grondaie è un lavoro rapido: se per farla serve un ponteggio, il costo dell'impalcatura supera quello del lavoro. Con le funi l'intervento resta proporzionato, silenzioso e poco invasivo per chi vive o lavora nell'edificio. Se il lavoro riguarda anche altre parti del tetto, puoi abbinare la [ristrutturazione della copertura]({{ '/servizi/ristrutturazione-tetto/' | relative_url }}) o la [pulizia degli altri componenti in quota]({{ '/servizi/pulizia-componenti-su-fune/' | relative_url }}).
+
+**Vuoi evitare infiltrazioni prima dell'autunno?** [Contattaci]({{ '/contatti/' | relative_url }}) per un sopralluogo e un preventivo senza impegno.

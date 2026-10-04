@@ -1,33 +1,47 @@
 ---
 layout: servizio
 title: "Montaggio sistemi di sicurezza su fune"
-description: "Eseguiamo montaggi di sistemi di sicurezza in posti inaccessibili."
+description: "Accesso su fune in sicurezza e installazione di punti di ancoraggio e linee vita: procedure, DPI certificati e documentazione per lavorare in quota."
 gruppo: "I nostri servizi"
 ordine: 6
 in_home: true
-seo_title: "Montaggio sistemi di sicurezza su fune - Italfuni"
-seo_description: "Stai cercando degli operatori capaci di montare sistemi di sicurezza in zone inaccessibili? Sei nel posto giusto! Italfuni, azienda leader nel settore edile su fune è capace di arrivare ed operare tempestivamente in ogni angolo della vostra casa o palazzo senza installazioni di ponteggi o affitto di macchinari."
+seo_title: "Lavori in quota su fune e installazione linee vita | EdilExtreme"
+seo_description: "Lavori in quota con accesso su fune, punti di ancoraggio e linee vita: operatori formati, doppia fune e DPI conformi UNI EN. Preventivo e sopralluogo senza impegno."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Montaggio sistemi di sicurezza su fune" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/img_20180118_wa0002.jpg" alt="Operatore su doppia fune con imbracatura e dispositivi di sicurezza" align="center" %}
 
-**Italfuni**  esegue professionalmente l’accesso su corda presso edifici e strutture alti con attrezzature tecniche (Dispositivi di Protezione Individuali) appositamente certificate.
+Lavorare in quota non significa soltanto "essere legati a qualcosa". Significa avere un sistema progettato: punti di ancoraggio affidabili, attrezzature certificate, procedure scritte e persone formate a usarle e a gestire un'emergenza. **EdilExtreme** applica questo metodo a ogni intervento su fune e può occuparsi anche dell'installazione di **punti di ancoraggio e linee vita** per le manutenzioni future.
 
-La professionalità e l’impegno degli addetti al settore forniscono un ambiente di lavoro sicuro, secondo le normative UNI EN garantendo le migliori pratiche del settore.
+## Come funziona il lavoro su fune
 
-Rispetto alla sicurezza e all’attenzione dei dettagli, la filosofia di Italfuni è quella di “**completare il proprio compito, con dovere ed attenzione** ” curando tutta la documentazione per la sicurezza (**piano operativo della sicurezza – D.lgs 81/08**) e predisponendo un’accurata metodologia da sottoporre al responsabile dei lavori o al committente attraverso un sopralluogo tecnico.
+Il sistema di accesso e posizionamento su funi si basa su una doppia protezione: una **fune di lavoro**, che sostiene e permette di muoversi, e una **fune di sicurezza** indipendente, collegata all'imbracatura tramite un dispositivo anticaduta che segue l'operatore. Le due funi sono ancorate separatamente, così il cedimento di una non lascia mai l'operatore senza protezione. È il principio indicato dal D.Lgs. 81/2008, che disciplina i lavori in quota agli articoli 111-116, e che richiede inoltre una formazione specifica per chi lavora con accesso su funi.
 
-I nostri esperti ricevono una formazione di prima classe al settore e risolvono complessi problemi di accesso laddove i metodi convenzionali non sono possibili / impraticabili o troppo costosi. Una volta che il problema dell’accesso è stato valutato e la soluzione è in atto, i nostri agenti possono posizionarsi nel punto esatto del lavoro e svolgere una vasta gamma di compiti quali:
+Si ricorre alla fune quando altri sistemi (ponteggi, piattaforme, parapetti) non sono realizzabili in sicurezza o risulterebbero sproporzionati per un lavoro breve e localizzato.
 
-- MANUTENZIONE, RIPARAZIONE E SOSTITUZIONE di grondaie, pluviali, tetti, davanzali, comignoli;
-- IMPERMEABILIZZAZIONI di terrazzi, tetti etc
-- RISTRUTTURAZIONE COMPLETA e parziale di facciate, cornicioni, balconi, casse, camino;
-- TINTEGGIATURE complete;
-- MONTAGGIO ISOLANTI;
-- OPERE DI MESSA IN SICUREZZA di ogni tipo compresi DISPOSITIVI DI SICUREZZA certificati;
-- POTATURA ALBERI;
-- PULIZIE VETRATE.
+## Cosa comprende il servizio
 
-Abbiamo anni di esperienza all’interno del nostro team insieme a procedure che sono state sviluppate per garantire un lavoro sicuro ed efficiente che ci consente di ridurre al minimo i costi per i nostri clienti e di risparmiare tempo sul posto.
+- **Sopralluogo tecnico** per valutare accessi, ancoraggi disponibili, interferenze con altre attività e condizioni meteo.
+- **Documentazione di sicurezza**: piano operativo e procedure da condividere con il committente o con il responsabile dei lavori.
+- **Installazione di punti di ancoraggio e linee vita** su coperture e facciate, scelti in base all'edificio e agli interventi che dovranno ospitare. Per i sistemi permanenti in copertura le norme di riferimento sono UNI EN 795 e UNI 11560.
+- **Controlli periodici** degli ancoraggi, con verifica secondo le indicazioni del fabbricante.
+- **Squadra con compiti chiari**: operatore in quota, preposto a terra e gestione del recupero in caso di emergenza.
 
-*Vi preghiamo di contattarci per discutere le vostre esigenze* in quanto possiamo spesso **risparmiare tempo e costosi noleggi di gru e chiusure stradali** utilizzando le nostre tecniche di accesso flessibili e specializzate.
+## Dispositivi di protezione
+
+Imbracature, discensori, cordini, connettori e dispositivi anticaduta sono DPI soggetti a controlli periodici e a verifica prima dell'uso. Li usiamo conformi alle norme UNI EN di riferimento e li sostituiamo quando cambiano le condizioni di utilizzo, non quando "sembrano ancora buoni".
+
+## Quali lavori si fanno su fune
+
+Il sistema permette di eseguire praticamente tutte le lavorazioni esterne:
+
+- [riparazione e pulizia di grondaie e pluviali]({{ '/servizi/manutenzione-e-sostituzione-grondaie/' | relative_url }});
+- [impermeabilizzazioni]({{ '/servizi/impermeabilizzazione-su-fune/' | relative_url }}) di terrazzi e coperture;
+- [ristrutturazione di balconi e facciate]({{ '/servizi/ristrutturazioni-balconi-e-facciate/' | relative_url }}) e [tinteggiature]({{ '/servizi/tinteggiature-complete-su-fune/' | relative_url }});
+- [montaggio di isolanti]({{ '/servizi/montaggio-isolanti/' | relative_url }});
+- [rimozione di materiale pericolante]({{ '/servizi/messa-in-sicurezza/' | relative_url }});
+- [pulizia vetri]({{ '/servizi/pulizia-vetri/' | relative_url }}) e [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici/' | relative_url }}).
+
+Spesso evitare gru, ponteggi e chiusure stradali significa ridurre di molto tempi e costi: ne parliamo volentieri con te caso per caso.
+
+**Hai un edificio da raggiungere o una copertura da attrezzare?** [Contattaci]({{ '/contatti/' | relative_url }}) per un sopralluogo e un preventivo senza impegno.

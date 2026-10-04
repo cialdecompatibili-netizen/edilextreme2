@@ -1,58 +1,46 @@
 ---
 layout: servizio
-title: "Pulizia pannelli fotovoltaici su fune a Frosinone"
-description: "La pulizia dei pannelli fotovoltaici è fondamentale per garantire il loro perfetto funzionamento garantendone, allo stesso tempo un efficienza al 100%."
+title: "Pulizia pannelli fotovoltaici a Frosinone e provincia"
+description: "Pulizia di impianti fotovoltaici a Frosinone e in Ciociaria con accesso su fune: capannoni, aziende e tetti industriali, senza ponteggi."
 gruppo: "Frosinone e provincia"
-seo_title: "Pulizia pannelli fotovoltaici su fune a Frosinone - Italfuni"
-seo_description: "Stai cercando un servizio di pulizia di pannelli fotovoltaici? Sei nel posto giusto. Qui troverai informazioni e preventivi grattuiti e senza impegno!"
+seo_title: "Pulizia pannelli fotovoltaici a Frosinone su fune | EdilExtreme"
+seo_description: "Pulizia di pannelli fotovoltaici a Frosinone, Cassino e Ciociaria con tecnica su fune: via polveri industriali e residui, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pannelli-fotov.jpg" alt="pulizia pannelli fotovoltaici" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pulizia-pannelli-solari.png" alt="Pulizia pannelli solari su un tetto industriale" align="center" %}
 
-La **pulizia dei pannelli fotovoltaici**  è fondamentale per garantire il loro perfetto funzionamento garantendone, allo stesso tempo un **efficienza al 100%.**
+In provincia di Frosinone i grandi tetti produttivi sono diventati centrali elettriche: capannoni, magazzini e stabilimenti con file di pannelli che producono energia per l'azienda. In una zona industriale i moduli si coprono di **polveri sottili, particolato di traffico e residui di lavorazione**, che formano una patina scura e riducono la resa. **EdilExtreme** li pulisce su fune, senza fermare l'attività e senza ponteggi.
 
-Questa è un’azione tanto importante quanto necessaria. Infatti i pannelli solari sono esposti all’azione degli agenti atmosferici, sporcandosi così con moltissima facilità. Anche la presenza di alberi nelle vicinanze potrebbe causare l’accumulo di foglie e piccoli rami.
+## Dove lavoriamo
 
-Noi di  **Italfuni** possiamo aiutarti garantendo grazie alle nostre tecniche, interventi veloci, professionali e con il minimo disturbo.
+- **Frosinone, Anagni, Ferentino e Ceccano**: capannoni e aree artigianali e industriali;
+- **Cassino e Valle del Liri**: stabilimenti, logistica e sedi aziendali;
+- **Sora e Alatri**: aziende, scuole e strutture pubbliche con impianti sul tetto;
+- **Aziende agricole** e strutture rurali della Ciociaria.
 
-Se non hai ancora dei pannelli fotovoltaici prova a leggere qui: pannelli solari: vendita, assistenza manutenzione
+## Un tetto grande, un lavoro ordinato
 
-## Pulizia pannelli fotovoltaici: come lavoriamo
+Un impianto industriale può avere centinaia di moduli. Lavorare per file e per sezioni, con una squadra coordinata, permette di finire in poco tempo senza mai mettere un piede sui pannelli. L'accesso su fune permette di raggiungere anche le file centrali, lontane dai bordi, senza costruire nulla sul tetto.
 
-Italfuni, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di pulizia dei pannelli fotovoltaici in tutta Frosinone e provincia. Garantiamo sempre professionalità, sicurezza e qualità.
+## Perché non fermare l'azienda
 
-Grazie all’utilizzo di funi e corde utilizzate dai nostri professionisti, altamente qualificati e in possesso delle competenze e degli strumenti necessari per compiere ogni servizio in ogni condizione e luogo, permettono al cliente di godere di un enorme **risparmio.**
+Per montare un ponteggio o un cestello serve spazio a terra, spesso proprio dove passano camion e carrelli. L'accesso su fune non occupa il piazzale e si può programmare nei giorni di minore attività, anche nel fine settimana. Questo è un vantaggio concreto per chi lavora su turni.
 
-Perché riusciamo a far risparmiare così tanto? Con l’utilizzo delle funi **non sarà necessario** affittare, montare e smontare ingombranti ponteggi.
+## Cosa facciamo
 
-Garantiamo una pulizia perfetta grazie all’utilizzo di **spazzole rotanti in micro fibra**. E’ infatti molto importante non lasciare aloni ma soprattutto, non rigarle. La pulizia dei pannelli fotovoltaici viene eseguita come per qualsiasi altra superficie vetrata: spazzole, acqua deionizzata.
+1. Sopralluogo e valutazione di accessi, ancoraggi e portata del tetto.
+2. Lavaggio con acqua demineralizzata e spazzole morbide, senza abrasivi.
+3. Risciacquo e verifica dell'assenza di aloni.
+4. Segnalazione di anomalie visibili: cavi scoperti, connettori danneggiati, moduli crepati, fissaggi allentati.
 
-Oltre alla qualità prestiamo molta attenzione anche alla **salvaguardia dell’ambiente**, utilizzando solamente prodotti eco sostenibili.
+Se ti serve un riscontro numerico, ti consigliamo di confrontare la produzione dell'impianto nei giorni prima e dopo il lavaggio, a parità di irraggiamento.
 
-### Ecco perché effettuare interventi regolari
+## Sicurezza
 
-I fattori che possono causare problemi all’impianto sono parecchi. Polline o escrementi di volatili, oltre a foglie e altri piccoli rifiuti, che potranno seriamente danneggiare tutto l’impianto. Inoltre ostacolano l’assorbimento dei raggi solari con conseguente riduzione della produzione di energia elettrica.
+I tetti industriali hanno spesso lucernari fragili e lamiere scivolose: sono tra i rischi più gravi nei lavori in quota. Lavoriamo con doppia fune, operatori formati e valutazione del rischio specifica, come richiede il D.Lgs. 81/2008, e concordiamo con te percorsi e aree di accesso.
 
-Soprattutto il problema degli escrementi, vista la loro acidità, potrebbe compromettere l’efficienza dei pannelli in maniera permanente.
+## Servizi collegati
 
-Per questo motivo è molto consigliato **programmare una serie di interventi regolari**. Il prolungato contatto con questi agenti potrebbe causare problemi irreparabili che alle lunghe costringerebbero la sostituzione di completa dei pannelli. Vin da se che il costo da affrontare sarebbe molto alto.
+Per capannoni e tetti: [rifacimento e manutenzione del tetto a Frosinone]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }}) e [pulizia grondaie a Frosinone]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}). Il servizio è presente anche a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}), [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) e [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}).
 
-## Pulizia pannelli fotovoltaici: perché scegliere noi
-
-Grazie alla tecnica dei **lavori su corda**, effettuiamo gli ancoraggi necessari ed eseguiamo la pulizia senza l’utilizzo di ponteggi o impalcature, che non solo sono costosi e non esteticamente piacevoli, ma non permettono di eseguire un lavoro pulito e preciso, poiché ostacolano la vista e la luce.
-
-Riassumendo quindi, ci saranno solamente **vantaggi**:
-
-- risparmio in denaro;
-- tempistiche di lavoro ridotte all’osso;
-- possibilità di effettuare interventi regolari;
-- minor fastidio agli occupanti dell’edificio;
-- minor disagio ai passanti.
-
-## Pannelli fotovoltaici: preventivi
-
-Risparmio e professionalità ma non solo. Se hai ancora qualche dubbio puoi tranquillamente contattarci per avere ulteriori informazioni.
-
-Inoltre **potrai richiedere un preventivo gratuito e senza impegno** con un sopralluogo incluso nel servizio. Per velocizzare tutto consigliamo di utilizzare Whatsapp scattando le foto dei pannelli solari da pulire inviandocele.
-
-Non sei della zona di Frosinone? Allora leggi qui: pulizia pannelli solari su fune a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) – [Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}) – [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}).
+**Chiedi un preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) indicando numero di moduli o metri quadri e tipo di copertura.

@@ -1,60 +1,41 @@
 ---
 layout: servizio
-title: "Pulizia vetri su fune a Latina e provincia"
-description: "Tra i servizi più richiesti nel campo dell’edilizia vi è sicuramente la pulizia dei vetri dei vostri immobili, in particolare se si tratta di grandi..."
+title: "Pulizia vetri a Latina e provincia"
+description: "Pulizia di vetri e vetrate a Latina e sulla costa pontina con accesso su fune: toglie salsedine e polvere senza ponteggi."
 gruppo: "Latina e provincia"
-seo_title: "Pulizia vetri su fune a Latina e provincia - Italfuni"
-seo_description: "Stai cercando professionisti la pulizia di vetri a Latina e provincia su funi? Sei nel posto giusto. Preventivi e sopralluoghi gratuiti in 1 click."
+seo_title: "Pulizia vetri a Latina e provincia su fune | EdilExtreme"
+seo_description: "Pulizia vetri e vetrate a Latina, Terracina, Sabaudia e dintorni con tecnica su fune: via salsedine e polvere agricola, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/rope-access-window-cleaning.jpg" alt="Pulizia vetri su fune a Latina e provincia" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pulizia-vetri-latina.jpg" alt="Pulizia di vetrate su fune a Latina" align="center" %}
 
-Tra i servizi più richiesti nel campo dell’edilizia vi è sicuramente la pulizia dei vetri dei vostri immobili, in particolare se si tratta di grandi altezze, in cui l’interventi di esperti si rivela assolutamente necessario. Smog e agenti atmosferici rendono questo tipo di lavoro fondamentale.
+Nella provincia di Latina i vetri si sporcano in modo diverso da altre parti del Lazio. Sulla costa arriva la **salsedine**, che si deposita in una pellicola opaca e attacca guarnizioni e telai; nell'entroterra agricolo si sommano **polvere dei campi** e residui dei trattamenti. **EdilExtreme** interviene su fune, senza ponteggi, e restituisce trasparenza a facciate e vetrate anche molto alte.
 
-**Italfuni**, azienda leader nel campo dei servizi su **corda a fune**, offre lavori di pulizia caratterizzandosi per la professionalità, rapidità e soprattutto sicurezza. Operiamo in tutta Latina e provincia. Arriviamo ovunque grazie alle nostre tecniche utilizzate anche da scalatori ed alpinisti!
+## Dove lavoriamo
 
-## Pulizia vetri Latina: dove possiamo intervenire
+- **Latina e frazioni**: condomini, uffici e palazzi dell'edilizia razionalista con grandi finestre e fronti continui;
+- **Lungomare e località turistiche**, da Latina Lido a Sabaudia, San Felice Circeo, Terracina e Sperlonga: hotel, residence, ristoranti e stabilimenti con vetrate esposte al vento marino;
+- **Zona industriale e commerciale**: capannoni, showroom e centri logistici con lucernari e vetrate di grandi dimensioni;
+- **Serre e coperture in vetro** dove la luce è un fattore di resa.
 
-L’utilizzo di attrezzature specifiche e di funi ci consentono di poter lavorare su qualsiasi tipo di edificio, garantendo ogni volta un’accurata pulizia delle vetrate a **prezzi competitivi.** I nostri professionisti potranno intervenire nei seguenti casi:
+## Il problema della salsedine
 
-- alte vetrate, normalmente irraggiungibili;
-- lucernari;
-- vetrine;
-- finestre di palazzi e grattacieli.
+Il sale, asciugandosi, forma cristalli microscopici che rendono il vetro velato anche dopo una pioggia. Con acqua dura o prodotti troppo forti il risultato peggiora. Usiamo acqua demineralizzata e detergenti neutri, poi tergiamo a mano; controlliamo anche la condizione dei sigillanti, perché il sale accelera il loro invecchiamento.
 
-### Come lavoriamo
+## Perché scegliere la fune
 
-Il servizio che offriamo garantisce un ottimo **risparmio**  al cliente. Questo grazie al metodo di lavoro che **non prevede l’utilizzo di installazione di ponteggi** o piattaforme aeree, spesso ingombranti. Inoltre queste strutture hanno due grossi difetti. Il primo è il costo di acquisto o di affitto. Il secondo è la tempistica di montaggio e smontaggio. Questo infatti non permetterà di effettuare una pulizia costante nel tempo.
+Le palazzine lungo la costa hanno spesso balconi sporgenti e giardini curati, dove un ponteggio rovinerebbe aiuole e crea disagio agli ospiti. Con la fune non serve appoggiare nulla a terra: si lavora in verticale con attrezzatura leggera, in tempi più brevi e con costi di cantiere molto più contenuti.
 
-I nostri operatori infatti grazie a corde e funi per fissarsi agli edifici in piena sicurezza, **potranno operare a qualsiasi altezza**, senza dover utilizzare ingombranti attrezzature come gru e impalcature. Questo permetterà anche di arrecare meno disturbo a chi sta dentro lo stabile e ai passanti.
+## Frequenza consigliata
 
-**Italfuni** esegue sia lavori pubblici che privati, in subappalto per imprese di pulizia o direttamente per la committenza.
+Sulla costa, per attività aperte al pubblico, conviene una pulizia ogni **2-3 mesi** durante la stagione. Per i condomini bastano 1 o 2 interventi l'anno. Ti aiutiamo a impostare un programma su misura.
 
-**Perché scegliere Italfuni?**
+## Sicurezza
 
-- siamo accreditati, garantendo ogni volta un servizio professionale;
-- offriamo un ottimo rapporto qualità- prezzo, grazie all’utilizzo di funi che permettono di risparmiare sulle impalcature;
-- il lavoro su fune permette di **lavorare in ogni spazio e in ogni condizione;**
-- **risparmio** del cliente;
-- professionalità e sicurezza;
-- ottimo rapporto qualità- prezzo, con la garanzia di un servizio di qualità e professionale a prezzi molto competitivi;
-- i nostri esperti sono altamente qualificati;
-- totale sicurezza nell’esecuzione del lavoro;
-- **rispetto delle scadenze** concordate e soddisfazione dei clienti.
+Operiamo con due funi separate e con operatori formati, secondo il D.Lgs. 81/2008. Prima di cominciare valutiamo vento, pioggia e punti di ancoraggio: nelle giornate di libeccio o scirocco forte il lavoro viene spostato.
 
-### Pulizia di vetri ma non solo
+## Servizi collegati
 
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri non arrivano.
+Dopo i vetri chiedi anche la [pulizia dei pannelli fotovoltaici a Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}) o la [pulizia delle grondaie]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}). Lavoriamo anche a [Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}), [Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }}) e [Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}).
 
-Hai ad esempio problemi con la tua **grondaia** e hai bisogno di riparazioni o manutenzione? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Latina e provincia]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}).
-
-Se invece è il tuo tetto ad avere bisogno di un intervento ecco il servizio su misura: riparazione tetti Latina.
-
-## Non sei di Latina? Prova qui allora
-
-- [pulizia vetri Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }});
-- [pulizia vetri Viterbo;]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }})
-- [pulizia vetri Frosinone;]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }})
-- [pulizia vetri Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }}).
-
-Richiedi un **preventivo gratuito** per risparmiare sulla pulizia dei tuoi vetri ad alta quota grazie ad Italfuni.
+**Ti serve un preventivo?** [Contattaci]({{ '/contatti/' | relative_url }}): indicaci altezza dell'edificio e numero di finestre e ti rispondiamo senza impegno.

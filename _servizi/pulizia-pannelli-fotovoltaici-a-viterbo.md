@@ -1,54 +1,41 @@
 ---
 layout: servizio
-title: "Pulizia pannelli fotovoltaici su fune a Viterbo"
-description: "La pulizia dei pannelli fotovoltaici è un lavoro tutt’altro che facile. Spesso infatti si trovano ad altezze considerevoli (potenzialmente pericolose) e..."
+title: "Pulizia pannelli fotovoltaici a Viterbo e provincia"
+description: "Pulizia di pannelli fotovoltaici a Viterbo e nella Tuscia con accesso su fune: ideale per tetti in coppi, casali e aziende agricole."
 gruppo: "Viterbo e provincia"
-seo_title: "Pulizia pannelli fotovoltaici su fune a Viterbo - Italfuni"
-seo_description: "Hai bisogno di un servizio di pulizia dei pannelli fotovoltaici a Viterbo e provincia? Qui troverai preventivi gratuiti e senza alcun impegno."
+seo_title: "Pulizia pannelli fotovoltaici a Viterbo su fune | EdilExtreme"
+seo_description: "Pulizia di pannelli fotovoltaici a Viterbo e nella Tuscia con tecnica su fune: tetti in coppi, casali e capannoni agricoli, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/pannelli-fotov.jpg" alt="pulizia pannelli fotovoltaici" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pannelli-fotov.jpg" alt="Impianto fotovoltaico su un tetto nella Tuscia" align="center" %}
 
-La **pulizia dei pannelli fotovoltaici** è un lavoro tutt’altro che facile. Spesso infatti si trovano ad altezze considerevoli (potenzialmente pericolose) e soprattutto sono impianti molto delicati.
+La Tuscia è terra di casali, uliveti, noccioleti e aziende agricole, e i tetti di molte di queste strutture hanno oggi un impianto fotovoltaico. Con la raccolta, le lavorazioni e il vento il vetro si copre di **polvere, residui vegetali e guano**: la produzione cala e il danno non si vede finché non si confrontano i dati. **EdilExtreme** pulisce i pannelli su fune, mantenendo gli operatori fuori dai moduli e dai coppi.
 
-E’ **fondamentale tenerli puliti** al fine di garantirne la massima efficienza energetica. Non sempre potranno essere utilizzate impalcature anche perché come andremo a vedere costano in termini di tempo e di denaro.
+## Impianti che incontriamo
 
-Qui entra in gioco l’azienda **Italfuni**.
+- **Casali e ville di campagna**, con tetti in coppi e pendenze irregolari;
+- **Aziende agricole** con capannoni, fienili e magazzini;
+- **Cantine, frantoi e agriturismi** con impianti sul tetto o su pensiline;
+- **Attività artigianali e industriali** nelle aree produttive intorno a Viterbo.
 
-Se non hai ancora dei pannelli fotovoltaici prova a leggere qui: pannelli solari: vendita, assistenza manutenzione
+## Un'attenzione in più: i tetti in coppi
 
-## Pulizia pannelli fotovoltaici Viterbo: perché è importante eseguirla
+Un tetto in coppi non va calpestato: si rompono, si spostano e poi entra acqua. Per questo l'accesso su fune è la scelta più sensata, perché l'operatore lavora appeso e non carica il manto. Se durante la pulizia vediamo tegole fuori posto o rotte, te lo segnaliamo con foto, così puoi decidere se intervenire con la [manutenzione del tetto a Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}).
 
-Ci sono essenzialmente tre fattori che potrebbero inficiare il funzionamento degli impianti fotovoltaici:
+## Cosa troviamo sui moduli
 
-- foglie e rami;
-- pollini;
-- escrementi animali.
+Con la vicinanza di querce, ulivi e noccioleti: foglie, polline, residui di fioriture. Nelle aziende agricole anche polvere da lavorazioni, e sulle strutture vicine a stalle e fienili lo sporco organico di uccelli. Lavoriamo con acqua demineralizzata e spazzole morbide, evitando prodotti aggressivi.
 
-I primi elementi due possono **ridurre l’efficienza dei pannelli**. Riducendone la superficie calerà drasticamente la capacità di assorbimento dei raggi solari.
+## Frequenza
 
-Gli escrementi invece soprattutto se non rimossi per tempo, potrebbero **seriamente danneggiare l’impianto**, costringendo il proprietario alla sostituzione. Questi infatti hanno un alto tasso di acidità e vanno molto poco d’accordo con le parti elettriche degli impianti.
+Per la maggior parte degli impianti basta un lavaggio all'anno, preferibilmente in **tarda primavera**. Se hai alberi vicini o attività che producono polvere, valuta un secondo intervento dopo l'estate.
 
-## Pulizia pannelli fotovoltaici Viterbo: perché scegliere noi
+## Sicurezza
 
-Una sola importante parola: **risparmio!** Ma non si parla solamente di denaro.
+Due funi indipendenti, imbracatura collegata alla fune di sicurezza, operatori formati: è il metodo previsto dal D.Lgs. 81/2008 per i lavori in quota con accesso su fune. Prima di iniziare facciamo un sopralluogo e valutiamo il rischio di ciascun tetto.
 
-Le impalcature infatti hanno due grandi problemi, soprattutto quando si tratta di interventi che vanno effettuati con cadenza regolare nel tempo. Costano, ci vuole tempo per montarle e smontarle e possono arrecare disturbi a quiete e privacy dei cittadini.
+## Altri servizi e province
 
-Con l’utilizzo delle nostre tecniche su fune (le stesse che utilizzano gli alpinisti per intenderci), si potrà intervenire ovunque e in maniera costante, bypassando tutti questi problemi.
+Per i tetti: [grondaie a Viterbo]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}). Altre zone: [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}), [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}), [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}).
 
-### Un occhio di riguardo per l’ambiente
-
-**Italfuni** utilizza spazzole in micro fibra per la pulizia di superfici delicate come quelle dei pannelli solari. Inoltre si avvale di prodotti non dannosi per l’ambiente, come l’acqua deionizzata.
-
-L’azienda leader nel campo dei servizi su **corda a fune**, offre servizio di pulizia dei pannelli fotovoltaici in tutta Viterbo e provincia, garantendo sempre professionalità, sicurezza e rispetto dell’ambiente.
-
-In questo caso spendere meno non vuol dire ridurre anche la qualità del servizio anzi, è tutto il contrario.
-
-## Preventivi
-
-Per **informazioni** o per richiedere un **preventivo con sopralluogo gratuiti** è semplicissimo e soprattutto senza alcun impegno. Basterà infatti compilare il **modulo in alto** e il gioco è fatto.
-
-Utilizzando **WhatsApp** sarà ancora più facile e veloce. Scatta una foto ai tuoi pannelli e inviacele, ti risponderemo in maniera tempestiva.
-
-Se non sei di Viterbo o provincia prova a leggere qui. Pulizia pannelli solari a [Roma]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-roma/' | relative_url }}) – [Frosinone]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) – [Rieti]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}) – [Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}).
+**Chiedi un preventivo:** [scrivici]({{ '/contatti/' | relative_url }}) con indirizzo, tipo di tetto e potenza dell'impianto.
