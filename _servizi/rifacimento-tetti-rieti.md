@@ -1,52 +1,50 @@
 ---
 layout: servizio
-title: "Riparazione tetti Rieti e provincia: preventivi"
-description: "La riparazione dei tetti di un edificio è tra i lavori più delicati da effettuare. E’ infatti l’elemento architettonico maggiormente esposto agli agenti..."
+title: "Rifacimento e manutenzione tetti a Rieti"
+description: "Riparazione, rifacimento e messa in sicurezza di tetti a Rieti e nel Reatino: carichi di neve, travi in legno e tegole, con accesso su fune."
 gruppo: "Rieti e provincia"
-seo_title: "Riparazione tetti Rieti e provincia: preventivi - Italfuni"
-seo_description: "Ti servono esperti nella riparazione dei tetti a Rieti e provincia? L'edilizia su fune abbatte i costi! Chiedi un preventivo gratuito!"
+seo_title: "Rifacimento e riparazione tetti a Rieti su fune | EdilExtreme"
+seo_description: "Riparazione, manutenzione e rifacimento di tetti a Rieti e provincia: neve, gelo e travi in legno, con accesso su fune. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Riparazione tetti Rieti e provincia: preventivi" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Tetto in riparazione in zona montana" align="center" %}
 
-La riparazione dei **tetti** di un edificio è tra i lavori più delicati da effettuare. E’ infatti l’elemento architettonico maggiormente esposto agli agenti esterni, quali piogge e vento, che portano alla necessità di una sua riparazione in minima parte o al rifacimento totale del tetto.
+A Rieti e nelle valli intorno il tetto non è solo una copertura: deve **sopportare la neve**, il gelo che spacca tegole e coppi, l'umidità che invecchia le travi. Case di pietra, fienili, casali ristrutturati e seconde case di montagna chiedono controlli regolari. **EdilExtreme** lavora su fune, anche dove salire con un mezzo è impossibile.
 
-I nostri esperti potranno intervenire anche in tempi brevi in caso di urgenza estrema. Leggi qui di seguito per avere tutte le informazioni sul nostro lavoro.
+## Cosa mette alla prova un tetto di montagna
 
-## Riparazione tetti Rieti: perché affidarsi a noi
+- **Carico di neve**: pesa, e se si scioglie a metà strappa canali e ganci;
+- **Cicli di gelo e disgelo**: l'acqua nelle fessure gela, si espande e rompe tegole e malta;
+- **Umidità e condensa** nel sottotetto, che marcisce legni e isolanti;
+- **Vento forte** in quota, che solleva tegole e scoperchia i colmi;
+- **Muschio e licheni**, che trattengono acqua e rovinano il manto.
 
-I nostri professionisti **possono operare nelle situazioni più disparate**. Un tetto già di per se non è facilmente raggiungibile se non per mezzo di impalcature o piattaforme mobili. Questo comporta due fondamentali vantaggi:
+## Cosa facciamo
 
-- **risparmio di soldi** evitando l’affitto di impalcature e macchinari;
-- **risparmio di tempo**, non dovendo appunto montare e smontare strutture.
+1. **Controllo primaverile** del tetto dopo l'inverno, con foto e relazione;
+2. **Sostituzione di tegole e coppi** rotti, ripristino di colmi e linee di gronda;
+3. **Sistemazione di camini e abbaini**, tra i punti più esposti;
+4. **Interventi sul sottotetto**: ventilazione, isolamento, protezione di travi e tavolato;
+5. **Rifacimento totale**, quando il tetto ha esaurito la vita utile.
 
-**Italfuni**, azienda leader del servizio su fune, offre servizi di riparazione a Rieti e in tutta la provincia.
+## Travi in legno
 
-### Riparazioni di tetti a Rieti ma non solo
+Nelle case tradizionali le travi sono parte della struttura. Se vediamo segni di marcescenza o di attacchi di insetti, ti consigliamo una valutazione da un tecnico (ingegnere o architetto) e un intervento mirato. Non nascondiamo i problemi sotto un nuovo manto.
 
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
+## Perché la fune
 
-Hai ad esempio problemi con la tua **grondaia**? Allora prova: [manutenzione, pulizia e sostituzione grondaia Rieti e provincia]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}).
+Pendii, stradine strette, giardini terrazzati: raggiungere il tetto con un ponteggio è costoso e a volte non è nemmeno possibile. L'accesso su fune richiede pochi punti di ancoraggio, non rovina il terreno e lavora anche su tetti molto inclinati.
 
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco l’articolo che fa al caso tuo: [pulizia vetri su fune Rieti]({{ '/servizi/pulizia-vetri-rieti/' | relative_url }}).
+## Quando conviene
 
-### Come lavoriamo
+Il periodo migliore va da **fine primavera a inizio autunno**, con il tempo più stabile. Non lavoriamo con neve, ghiaccio o pioggia sul tetto: la sicurezza viene prima.
 
-Il lavoro viene effettuato in massima sicurezza, i nostri esperti sono sottoposti ad un periodo di formazione e solo successivamente vengono mandati sul posto. La tecnica utilizzata è la stessa della discesa a doppia fune, utilizzata in ambito alpinistico.
+## Sicurezza
 
-Possiamo anche  **intervenire in caso di urgenza** per interventi straordinari. Per esempio nel caso di alberi o rami caduti sul tetto, danneggiandolo. Leggi anche: potatura alberi su fune a Rieti.
+Operatori formati, doppia fune, ancoraggi dimensionati e valutazione dei rischi, come prevede il D.Lgs. 81/2008.
 
-Prima di agire comunque, i nostri esperti effettuano un  **sopralluogo**, studiando le caratteristiche del tetto e gli interventi da effettuare. Le scadenze fissate per la consegna del lavoro è sempre rispettata con precisione! Un’altro nostro obiettivo e puntare ad un ottimo rapporto qualità- prezzo.
+## Collegati
 
-Le nostre caratteristiche principali sono la massima onestà e disponibilità con il cliente, che rappresenta il nostro obiettivo principale.
+Dopo il tetto controlla anche [grondaie a Rieti]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}) e, se hai un impianto solare, [pulizia dei pannelli]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-rieti/' | relative_url }}). Altre province: [Roma]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}), [Latina]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }}), [Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }}).
 
-I nostri esperti possono infine raggiungere qualsiasi punto e qualunque altezza.
-
-## Ristrutturazione e manutenzione tetto Rieti? allora prova qui
-
-- riparazione di tetti Roma;
-- riparazione di tetti Viterbo;
-- riparazione di tetti Frosinone;
-- riparazione di tetti Latina.
-
-Chiamaci pure per un **preventivo gratuito al 100%** e senza alcun impegno.
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto e località.

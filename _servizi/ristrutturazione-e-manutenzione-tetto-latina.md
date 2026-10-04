@@ -1,50 +1,43 @@
 ---
 layout: servizio
-title: "Ristrutturazione e manutenzione tetto Latina"
-description: "Serve un esperto per la riparazione di tetti in Latina e provincia ? Noi possiamo darti una mano! Leggi qui per scoprire tutti i nostri servizi!"
+title: "Ristrutturazione e manutenzione tetto a Latina"
+description: "Riparazione, impermeabilizzazione e rifacimento di tetti a Latina e in provincia: coperture piane, tegole e capannoni, con accesso su fune."
 gruppo: "Latina e provincia"
-seo_title: "Ristrutturazione e manutenzione tetto Latina - Italfuni"
-seo_description: "Hai bisogno di professionisti di riparazione di tetti su fune a Latina e provincia? Sei nel posto giusto clicca qui per un preventivo gratuito senza impegno"
+seo_title: "Riparazione e rifacimento tetti a Latina su fune | EdilExtreme"
+seo_description: "Riparazione, guaine e rifacimento di tetti a Latina e provincia: coperture piane, tegole e capannoni, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Ristrutturazione e manutenzione tetto Latina" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Intervento di riparazione su un tetto a Latina" align="center" %}
 
-Serve un esperto per la **riparazione di tetti in Latina e provincia**? Noi possiamo darti una mano! Leggi qui per scoprire tutti i nostri servizi!
+A Latina e nella provincia i tetti raccontano due storie. Nella città di fondazione e nei centri costieri prevalgono **coperture piane e terrazze** con guaina, soggette a sole intenso, sbalzi termici e salsedine. Nelle campagne dominano capannoni, stalle e magazzini con tetti ampi e basse pendenze. **EdilExtreme** interviene su entrambi con tecniche su fune.
 
-Il tetto rappresenta una delle parti del nostro edificio che dà maggiori problemi. Alcune volte può essere sufficiente sostituire qualche tegola o compiere una **piccola riparazione o manutenzione**, altre volte però si deve procedere con una ristrutturazione completa, che alla lunga si dimostra paradossalmente la scelta più economica.
+## I problemi più comuni
 
-Anche nel malaugurato caso eventi straordinari **Italfuni** può venirti incontro!
+- **Guaine screpolate e bolle** dopo anni di sole e di calore estivo;
+- **Infiltrazioni da punti singolari**: bordi, torrini, scarichi, risvolti;
+- **Ristagni d'acqua** su coperture piane con pendenza insufficiente;
+- **Tegole spostate** dal vento di mare;
+- **Corrosione delle lamiere** nei capannoni vicino alla costa;
+- **Sporco organico** e crescita di muschio nelle zone più umide.
 
-## Riparazione di tetti Latina: come lavoriamo
+## Sole e salsedine
 
-**Italfuni** è un’azienda che offre una vasta gamma di servizi tra cui **la riparazione e manutenzione del tuo tetto**.
+Sui tetti piani il calore estivo dilata e contrae i materiali ogni giorno; la guaina invecchia e si apre nei punti più sollecitati. Sulla costa il sale accelera la corrosione di viti, lamiere e fissaggi. Per questo, oltre alla riparazione, valutiamo **materiali più resistenti** e finiture riflettenti che riducono il calore trasmesso all'interno.
 
-Grazie a tecniche speciali che vengono utilizzate anche da speleologi e alpinisti i nostri ragazzi possono arrivare realmente ovunque.
+## Capannoni e tetti agricoli
 
-L’azienda presta poi particolare attenzione ad ogni più piccolo dettaglio per quel che riguarda la  **sicurezza sul lavoro**. Soprattutto in questo particolare settore dove ci si trova sospesi a discrete altezze. E’ sconsigliabile fare questo tipo di lavoro da soli anche per semplici manutenzioni!
+I grandi tetti non si coprono con un ponteggio perché costerebbe troppo. L'accesso su fune permette di raggiungere i punti critici, sostituire lastre, sigillare giunti e sistemare canali senza fermare l'attività. Dove la copertura è in fibrocemento o contiene materiali sospetti, **non interveniamo direttamente**: ci vuole una ditta abilitata per l'amianto, e ti indichiamo come procedere.
 
-### Perché scegliere proprio noi?
+## Come lavoriamo
 
-Il risparmio non si deve tradurre in lavoro fatto male, anzi. Ma in questo caso **risparmio vuol proprio dire qualità, velocità e disturbi minimi**.
+Sopralluogo, individuazione del punto di infiltrazione, proposta di intervento con costi, esecuzione e foto finali. Per i tetti piani possiamo abbinare [impermeabilizzazione]({{ '/servizi/impermeabilizzazione-su-fune-a-latina/' | relative_url }}) e [pulizia delle grondaie]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}).
 
-Grazie all’utilizzo delle corde infatti, **non sarà più necessario montare e poi smontare costose impalcature**. Inoltre eliminando questo elemento anche le tempistiche e i rumori saranno notevolmente minori rispetto a dei lavori fatti in maniera classica.
+## Sicurezza
 
-I nostri esperti prima di iniziare il lavoro effettueranno un **preventivo**, comunicando al cliente l’entità dei lavori e un preventivo!
+Doppia fune, operatori formati, ancoraggi scelti in base alla copertura, come richiede il D.Lgs. 81/2008.
 
-### Eventi straordinari
+## Collegati
 
-Non solo normale manutenzione e riparazione dei tetti. **Italfuni** di occupa anche di interventi tempestivi. Da gravi infiltrazioni ai danni causati da alberi caduti. La nostra azienda è pronta ad affrontare qualsiasi situazione.
+Altri servizi: [pannelli fotovoltaici a Latina]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-latina/' | relative_url }}). Altre province: [Roma]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}), [Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }}).
 
-Ci recheremo tempestivamente sul posto. Dopo un attento sopralluogo rimuoveremo tutti i detriti, procedendo poi alle eventuali riparazioni da effettuare sullo stabile.
-
-Per approfondire: potatura alberi Latina.
-
-### Riparazione di tetti ma non solo
-
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
-
-Hai ad esempio problemi con la tua **grondaia**? Allora prova: [manutenzione, pulizia e sostituzione grondaia Latina e provincia]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}).
-
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco l’articolo che fa al caso tuo: [pulizia vetri su fune Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}).
-
-**Italfuni** è l’azienda che fa al caso tuo! Chiama senza impegno per un **preventivo gratuito al 100%.** Rimarrai stupito dalla nostra professionalità e dal rapporto qualità- prezzo!
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto del tetto e località.

@@ -1,57 +1,47 @@
 ---
 layout: servizio
-title: "Ristrutturazione e manutenzione tetto Roma"
-description: "Le infiltrazioni d’acqua, l’usura e i danni strutturali provocati da eventi straordinari, spesso portano alla necessità di avvalersi di esperti nella..."
+title: "Ristrutturazione e manutenzione tetti a Roma"
+description: "Riparazione, manutenzione e rifacimento di tetti e coperture a Roma con accesso su fune: tegole, coppi, lastrici solari e terrazzi condominiali."
 gruppo: "Roma e provincia"
-seo_title: "Ristrutturazione e manutenzione tetto Roma - Italfuni"
-seo_description: "Vorresti ristrutturare il tetto a prezzi accessibili? Richiedi un preventivo gratuito senza impegno, scopri l'innovativo settore dell'edilizia su fune."
+seo_title: "Riparazione e manutenzione tetti a Roma su fune | EdilExtreme"
+seo_description: "Riparazione, manutenzione e rifacimento di tetti a Roma e provincia: tegole, coppi, guaine e lastrici solari con tecnica su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Ristrutturazione e manutenzione tetto Roma" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Lavori su un tetto con accesso su fune" align="center" %}
 
-Le infiltrazioni d’acqua, l’usura e i danni strutturali provocati da eventi straordinari, spesso portano alla necessità di avvalersi di **esperti nella riparazione di tetti condominiali o privati**. La nostra peculiarità è quella di utilizzare funi e imbragature invece delle classiche impalcature.
+I tetti di Roma sono molto diversi tra loro: coperture in coppi e tegole sui palazzi storici, terrazze e lastrici solari nei condomini, tetti a falde nei villini, coperture industriali nelle zone periferiche. Quasi tutti hanno qualcosa in comune: sono difficili da raggiungere e costosi da ponteggiare. **EdilExtreme** lavora su fune, con interventi mirati dove servono davvero.
 
-**Italfuni** arriva dove gli altri si fermano!
+## Interventi più richiesti
 
-## Riparazione di tetti Roma e provincia: come lavoriamo
+- **Ricerca e riparazione di infiltrazioni** da tegole rotte, colmi aperti, camini e lucernari;
+- **Sostituzione di tegole e coppi** danneggiati da vento e grandine;
+- **Rifacimento di guaine** su lastrici solari e coperture piane;
+- **Sigillature e sistemazione** di camini, comignoli, abbaini e antenne;
+- **Revisione del tetto** dopo i temporali, con report fotografico;
+- **Rifacimento completo** della copertura, quando la manutenzione non basta più.
 
-Alcune volte può essere sufficiente sostituire qualche tegola o compiere una **piccola riparazione e/o manutenzione.** Altre volte però si dovrà procedere con un **rifacimento totale**, compresa la sostituzione dello strato isolante che si trova al di sotto del tetto. In questo caso è importante affidarsi a dei veri professionisti.
+## Perché controllare il tetto prima dei danni
 
-In ogni caso comunque, anche per piccoli lavori è bene affidarsi ad una ditta. **Lavorare su un tetto per chi non è esperto, potrebbe risultare molto pericoloso**.
+Un'infiltrazione che si vede in soffitta è spesso l'ultima conseguenza: l'acqua ha già bagnato isolante e travi. Un controllo periodico, **una volta l'anno**, costa poco e permette di riparare piccoli problemi prima che diventino cantieri.
 
-**Italfuni** è un’azienda da anni leader dei lavori su fune. Offre servizi di tutti i tipi, tra cui anche la manutenzione dei tetti!
+## Fune o ponteggio?
 
-Nei lavori su funi vengono utilizzate tecniche derivate dall’alpinismo o dalla speleologia. In questa maniera i nostri ragazzi potranno accedere praticamente ovunque.
+Per un intervento puntuale (alcune tegole, un camino, un tratto di guaina) il ponteggio è sproporzionato: tempi lunghi, costi alti, richiesta di occupazione di suolo. L'accesso su fune permette di salire in poche ore e di raggiungere anche i punti più nascosti. Per un rifacimento totale valutiamo insieme la soluzione più adatta, perché a volte conviene una struttura diversa.
 
-### Perché scegliere noi per il vostro tetto?
+## Come procede un intervento
 
-La parola d’ordine dell’azienda e **risparmio**. In questo caso oltretutto sarà anche **sinonimo di professionalità, tempi di consegna più brevi e disturbi minimi**.
+1. Sopralluogo con foto, o ispezione da fune;
+2. Diagnosi: dove entra l'acqua e perché;
+3. Preventivo chiaro con voci distinte;
+4. Intervento, con pulizia e smaltimento dei materiali di risulta;
+5. Documentazione fotografica finale.
 
-L’**assenza delle impalcature** infatti si tradurrà in minori spese, tempistiche più brevi (non si dovrà montare e smontare alcuna struttura), e minor rumore derivante dai lavori.
+## Sicurezza
 
-Con queste tecniche sarà possibile anche programmare lavori di manutenzione a cadenza regolare.
+I lavori in quota sono regolati dal D.Lgs. 81/2008: doppia fune, imbracatura, operatori formati e piano di lavoro. Per le coperture fragili scegliamo ancoraggi e percorsi che non gravano sul manto.
 
-### Riparazione di tetti: eventi straordinari
+## Lavori collegati
 
-Può accadere che si abbia particolarmente fretta per la riparazione. Poniamo come esempio che un forte temporale abbia fatto  **cadere un albero su un tetto**. I nostri esperti sono in grado di rimuovere i detriti ed effettuare un sopralluogo per eventuali riparazioni. Per saperne di più: potatura alberi a Roma.
+Mentre sei sul tetto ha senso controllare anche [grondaie a Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}) e [impermeabilizzazione]({{ '/servizi/impermeabilizzazione-su-fune-a-roma/' | relative_url }}). Servizio attivo anche a [Latina]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }}), [Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}) e [Frosinone]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }}). Pagina generale: [ristrutturazione tetto]({{ '/servizi/ristrutturazione-tetto/' | relative_url }}).
 
-E’ bene anche intervenire molto velocemente quando si hanno **grossi problemi di infiltrazioni**. Queste infatti se trascurate, potrebbero provocare il proliferare di muffe e, in casi più gravi, seri danni strutturali.
-
-### Riparazione di tetti ma non solo
-
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
-
-Hai ad esempio problemi con la tua **grondaia**? Allora prova a leggere qui: [manutenzione, pulizia e sostituzione grondaia Roma e provincia]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}).
-
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio che fa al caso tuo: [pulizia vetri su fune Roma]({{ '/servizi/pulizia-vetri-roma/' | relative_url }}).
-
-## Non sei di Roma: allora cerca qui
-
-**Italfuni** lavora su tutto quanto il territorio del Lazio. Per saperne di più leggi qui:
-
-- riparazione tetti Rieti;
-- riparazione tetti Frosinone;
-- riparazione tetti Latina;
-- riparazione tetti Viterbo.
-
-Ti abbiamo convinto? Allora chiama senza impegno per **un preventivo gratuito al 100%**. Rimarrai stupito dalla nostra professionalità e dal rapporto qualità- prezzo!
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto del tetto e indirizzo.

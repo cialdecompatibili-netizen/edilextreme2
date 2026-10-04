@@ -1,50 +1,46 @@
 ---
 layout: servizio
-title: "Potatura alberi Frosinone"
-description: "Italfuni , azienda leader nel campo dei servizi su corda a fune , offre servizio di potatura di alberi veloce ed eco sostenibile, caratterizzandosi..."
+title: "Potatura alberi a Frosinone e provincia"
+description: "Potatura, messa in sicurezza e abbattimento di alberi a Frosinone e in Ciociaria con tecnica su fune: pioppi, ulivi, querce e piante sopra strade e linee."
 gruppo: "Frosinone e provincia"
-seo_title: "Potatura alberi Frosinone - Italfuni"
-seo_description: "Cerchi professionisti esperti in potatura alberi a frosinone e provincia utilizzando corde e funi riducendo i costi? Sei nel posto giusto! Preventivi gratis"
+seo_title: "Potatura alberi a Frosinone e provincia su fune | EdilExtreme"
+seo_description: "Potatura e abbattimento controllato di alberi a Frosinone, Cassino e Ciociaria con tree climbing: scarpate, strade e capannoni. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura alberi Frosinone" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Operatore su corda lavora sulla chioma di un albero" align="center" %}
 
-**Italfuni**, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di potatura di alberi veloce ed eco-sostenibile, caratterizzandosi soprattutto per la professionalità e  sicurezza. Operiamo in tutta Frosinone e provincia.
+In Ciociaria gli alberi crescono dove capita: sulle scarpate sopra le strade, lungo i corsi d'acqua, tra capannoni e zone residenziali, negli uliveti delle colline. Molti sono cresciuti per anni senza interventi e oggi rappresentano un pericolo per case, linee elettriche e viabilità. **EdilExtreme** li affronta con il tree climbing: attrezzatura leggera, nessun mezzo pesante e lavoro preciso.
 
-## Potatura alberi: ecco come lavoriamo
+## Casi frequenti
 
-Tra gli aspetti che ci caratterizzano ricopre un ruolo importante il rispetto per l’ambiente, infatti i nostri potatori non si limitano ad essere “acrobati con una motosega alla cintura”, ma hanno una preparazione essenziale per la salute dei tuoi alberi, sanno osservare un albero e intervenire in base alla natura e alle condizioni del soggetto. Ogni albero infatti è unico per specie, età e contesto in cui cresce.
+- **Pioppi e salici lungo fossi e fiumi**, alti e con legno fragile;
+- **Querce e roverelle** su pendii e scarpate che sovrastano strade comunali;
+- **Ulivi** da ripulire e rinnovare, con tagli che favoriscono la produzione;
+- **Alberi tra capannoni e strutture produttive**, con spazi di manovra ridotti;
+- **Piante vicine a cavi elettrici o telefonici**, da trattare con cautela e, quando serve, con il gestore della rete.
 
-Il nostro obiettivo è minimizzare l’impatto di ogni azione sulla salute dell’albero. La nostra esperienza ci porta anche a poter intervenire su piante secolari con importanza storica!
+## Perché non usiamo la gru
 
-Un professionista a lavoro su un albero
+Su scarpate e terreni irregolari un mezzo pesante è rischioso e costoso. Chi sale in chioma ha il controllo di ogni taglio e può fermare un ramo a pochi centimetri da un tetto o da una linea. Il pezzo viene **calato con corda e freno**, non lasciato cadere.
 
-### Intervento ordinari
+## Abbattimento a sezioni
 
-Fanno parte di questa categoria tutti quelli che vanno effettuati con una certa regolarità. La potatura stagionale delle fronde per esempio è una di queste.
+Se un albero è troppo vicino a edifici o strade per cadere intero, lo smontiamo dall'alto in piccoli tronchi, partendo dalla cima. È più lento di un taglio alla base, ma elimina il rischio di danni e non richiede spazio libero attorno.
 
-### Intervento ordinari
+## Residui e legna
 
-Sottolineiamo subito che **se un albero dovesse arrecare danni a beni o a persone**, legalmente il responsabile è il suo proprietario. Quindi nel caso di rami pericolanti è bene chiamare subito dei professionisti per rimuoverli in sicurezza. Noi di Italfuni interveniamo con tempestività per questo genere di situazioni.
+Triturazione delle ramaglie sul posto, taglio del tronco in ciocchi per chi vuole la legna, oppure trasporto presso un centro di raccolta. Ti spieghiamo prima cosa è possibile fare nel tuo caso.
 
-## Potatura alberi: perché utilizziamo corde e non impalcature
+## Un controllo prima del taglio
 
-L’utilizzo di corde e funi ci permette di **operare a tutte le altezze e accessi difficili**, dove ponteggi, macchine operatrici e impalcature non possono arrivare, permettendo anche al cliente di **risparmiare** sulle attrezzature e sulla burocrazia. Queste infatti sono costose da affittare e hanno bisogno di ulteriore manodopera per essere trasportate, assemblate e infine smontate.
+Non tutti gli alberi inclinati vanno abbattuti. Esaminiamo radici, colletto e chioma e, se serve, ti consigliamo una verifica di stabilità da parte di un agronomo. Quando l'albero è sano ma sovraccarico, spesso si risolve con un alleggerimento.
 
-Questo permette anche una grande capacità di adattamento al terreno, che ci permette di operare anche nelle situazioni più estreme.
+## Sicurezza
 
-### Perché sceglierci?
+Operatori formati per lavori in quota, imbracatura con doppio ancoraggio e area delimitata, in conformità al D.Lgs. 81/2008. Rinviamo il lavoro in caso di vento forte, pioggia battente o temporali.
 
-- **rispettiamo l’ambiente;**
-- i nostri operatori sanno valutare le condizioni degli alberi e agire in base alle situazioni;
-- il lavoro su fune permette di **lavorare in ogni spazio e in ogni condizione;**
-- **risparmio** del cliente;
+## Collegati
 
-## Non sei di Frosinone? Allora prova qui
+Se ti servono anche altri lavori in quota: [pulizia grondaie a Frosinone]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}). Altre sedi: [Roma]({{ '/servizi/potatura-alberi-roma/' | relative_url }}), [Latina]({{ '/servizi/potatura-alberi-latina/' | relative_url }}), [Rieti]({{ '/servizi/potatura-alberi-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/potatura-alberi-viterbo/' | relative_url }}).
 
-- potatura alberi Roma;
-- potatura alberi Latina;
-- potatura alberi Rieti;
-- potatura alberi Viterbo.
-
-Non esitate a contattarci per un **preventivo gratuito, veloce e senza alcun impegno**!
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto dell'albero e dell'area circostante.

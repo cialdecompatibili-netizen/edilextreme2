@@ -1,54 +1,42 @@
 ---
 layout: servizio
-title: "Potatura alberi Latina"
-description: "Vuoi effettuare una potatura dei tuoi alberi , ma hai paura che l’intervento lo possa danneggiare? Consideri il rispetto per l’ambiente una priorità?"
+title: "Potatura alberi a Latina e provincia"
+description: "Potatura, controllo e abbattimento di eucalipti, pini e palme a Latina e nell'Agro Pontino con tecnica su fune."
 gruppo: "Latina e provincia"
-seo_title: "Potatura alberi Latina - Italfuni"
-seo_description: "Potatura alberi economica utilizzando corde e funi a Latina e provincia. Entra nel nostro sito per fare un preventivo gratuito senza impegno."
+seo_title: "Potatura alberi a Latina e provincia su fune | EdilExtreme"
+seo_description: "Potatura di eucalipti, pini marittimi, palme e frangivento a Latina e nell'Agro Pontino con tree climbing. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura alberi Latina" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura di un albero alto con tecnica su fune a Latina" align="center" %}
 
-Vuoi effettuare una  **potatura dei tuoi alberi**, ma hai paura che l’intervento lo possa danneggiare? Consideri il rispetto per l’ambiente una priorità?
+Il paesaggio dell'Agro Pontino è fatto di alberi alti piantati per un motivo preciso: **filari di eucalipti** che dividono i campi, pini marittimi lungo la costa, palme nei giardini e nei viali. Sono piante belle ma impegnative: crescono molto, resistono al vento di mare e a volte cedono di colpo. **EdilExtreme** li cura con il tree climbing, senza gru e con un impatto minimo sul terreno e sulle colture.
 
-Se le tue esigenze sono queste, allora devi rivolgerti all’esperienza di **Italfuni**! I nostri professionisti sono il TOP per quanto riguarda la potatura su fune.
+## Piante che trattiamo di più
 
-## Potatura di alberi: ecco come lavoriamo
+- **Eucalipti**: chioma leggera ma legno fragile, con rami che si spezzano con il vento. Vanno alleggeriti e controllati regolarmente.
+- **Pini marittimi e domestici**: spesso vicino a strade e abitazioni, con la chioma in tensione sotto i venti del litorale.
+- **Palme**: pulizia di fronde secche e dei frutti, e controllo sullo stato del fusto.
+- **Frangivento e siepi alte** nelle aziende agricole.
+- **Alberi da giardino** in ville e residence di Sabaudia, San Felice Circeo e Terracina.
 
-**Italfuni**, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di potatura attento ed eco-compatibile, caratterizzandosi per la professionalità, rapidità e soprattutto sicurezza in tutta Latina e provincia.
+## Il vento di mare
 
-Tra i nostri aspetti caratterizzanti ricopre un ruolo importante il **rispetto per l’ambiente**, infatti i nostri potatori non si limitano ad essere “acrobati con una motosega alla cintura”, ma possono vantare una preparazione essenziale per la salute dei tuoi alberi, sanno osservare un albero e intervenire in base alla natura e alle condizioni del soggetto. Ogni albero infatti rappresenta una situazione a se per specie, forma e contesto in cui è ubicato.
+Il vento costante da sud-ovest piega la chioma in una direzione sola e carica le radici in modo asimmetrico. Durante il sopralluogo osserviamo inclinazione, chioma e radici per capire se serve una potatura di alleggerimento, un cavo di sostegno o l'abbattimento.
 
-Prima di entrare in azione i nostri esperti compiono un sopralluogo, osservando le condizioni dell’albero e gli interventi necessari e solo una volta compiuta una panoramica dettagliata inizia il lavoro. Questo avviene perché il nostro obiettivo è minimizzare l’impatto di ogni azione sulla salute dell’albero.
+## Palme e parassiti
 
-Un professionista a lavoro su un albero
+Alcune palme sono colpite da insetti e funghi che le indeboliscono dall'interno. Se riconosciamo i segni, ti avvisiamo e ti indichiamo come procedere con un tecnico fitosanitario. Seguiamo le norme sulla gestione dei residui di potatura.
 
-### Interventi ordinari
+## Come lavoriamo
 
-Rientrano in questa categoria tutte quegli  **interventi da effettuare con una certa regolarità**. La potatura standard in un determinato periodo dell’anno oppure una semplice potatura per l’estetica della pianta.
+Ci ancoriamo ai rami principali, saliamo con attrezzatura certificata e **caliamo il legno con corde**, evitando danni a tetti, auto e piante sotto. Dopo il taglio portiamo via il materiale o lo trituriamo sul posto, secondo le tue esigenze. Lavoriamo secondo il D.Lgs. 81/2008, con operatori formati.
 
-### Interventi straordinari
+## Quando intervenire
 
-Possedere un albero significa anche **avere delle responsabilità**. Infatti se un ramo pericolante dovesse staccarsi e colpire beni altrui o peggio, ferire persone, legalmente il diretto responsabile sarebbe proprio il suo proprietario. Quindi in casi di pericolo è sempre meglio un **intervento tempestivo**.
+La stagione migliore va da **autunno a fine inverno** per la maggior parte delle piante; per le palme meglio evitare i periodi più rischiosi per i parassiti. In caso di rami pericolanti dopo una mareggiata o un temporale, valutiamo l'urgenza.
 
-## Potatura alberi: ecco perché utilizziamo le funi
+## Collegati
 
-L’utilizzo di corde e funi ci permette di **operare a tutte le altezze e accessi difficili**, dove ponteggi, macchine operatrici e impalcature non possono arrivare, permettendo anche al cliente di **risparmiare** sulle attrezzature e sulla burocrazia. Le impalcature infatti costano e sono complesse da assemblare e da smontate.
+Spesso dopo la potatura serve anche la [pulizia delle grondaie a Latina]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}). Il servizio è disponibile anche a [Roma]({{ '/servizi/potatura-alberi-roma/' | relative_url }}), [Rieti]({{ '/servizi/potatura-alberi-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/potatura-alberi-viterbo/' | relative_url }}) e [Frosinone]({{ '/servizi/potatura-alberi-frosinone/' | relative_url }}).
 
-Abbiamo una grande capacità di adattamento al terreno, un ascolto serio dei tuoi bisogni e una vera motivazione per soddisfarli.
-
-## Perché sceglierci?
-
-- **rispettiamo l’ambiente;**
-- i nostri operatori sanno valutare le condizioni degli alberi e agire in base alle situazioni;
-- il lavoro su fune permette di **lavorare in ogni spazio e in ogni condizione;**
-- **risparmio** di soldi e tempo.
-
-## Non sei a Latina? Prova qui allora
-
-- potatura alberi Roma;
-- potatura alberi Frosinone;
-- potatura alberi Viterbo;
-- potatura alberi Rieti.
-
-Non esitate a contattarci per p **reventivi gratuiti e senza impegno**! Siamo l’azienda TOP sul mercato.
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto della pianta e località.

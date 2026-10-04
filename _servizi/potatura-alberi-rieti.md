@@ -1,57 +1,46 @@
 ---
 layout: servizio
-title: "Potatura alberi Rieti"
-description: "Vuoi effettuare una potatura dei tuoi alberi ma hai paura che l’intervento lo possa danneggiare? Consideri il rispetto per l’ambiente una priorità?"
+title: "Potatura alberi a Rieti e provincia"
+description: "Potatura e abbattimento di querce, castagni, noci e conifere a Rieti e nel Reatino con tecnica su fune, anche su terreni in pendenza."
 gruppo: "Rieti e provincia"
-seo_title: "Potatura alberi Rieti - Italfuni"
-seo_description: "Cerche esperti nella potatura di alberi a Rieti e provincia utilizzando funi? Sei nel posto giusto! Richiedi subito un preventivo gratuito senza impegno."
+seo_title: "Potatura alberi a Rieti e provincia su fune | EdilExtreme"
+seo_description: "Potatura, messa in sicurezza e abbattimento di alberi ad alto fusto a Rieti, Sabina e montagna reatina con tree climbing. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura alberi Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Operatore su fune pota un albero a Rieti" align="center" %}
 
-Vuoi effettuare una **potatura dei tuoi alberi** ma hai paura che l’intervento lo possa danneggiare? Consideri il rispetto per l’ambiente una priorità?
+Il Reatino è un territorio verde: boschi di querce e faggi, castagneti, noci e ulivi nelle fasce collinari, conifere in quota. Chi vive o lavora qui sa che gli alberi sono una risorsa, ma anche un rischio quando i rami toccano tetti e linee, dopo una nevicata o in terreni in pendenza dove nessun mezzo arriva. **EdilExtreme** lavora con il tree climbing, perfetto per questi luoghi.
 
-Se le tue esigenze sono queste, allora devi rivolgerti ad **Italfuni**! Ci avvaliamo solo di professionisti con anni di esperienza sulle spalle.
+## Situazioni tipiche
 
-## Potatura alberi: come lavoriamo
+- **Alberi sopra case, rimesse e fienili**, con rami che toccano il tetto o scaricano foglie nelle grondaie;
+- **Piante su pendii e scarpate**, dove una gru o un cestello non possono posizionarsi;
+- **Castagni e querce secolari** da curare con tagli leggeri e mirati, per non indebolirli;
+- **Alberi dopo la neve**, con rami spezzati o chioma fuori equilibrio;
+- **Aree intorno a strade e sentieri**, da tenere libere da rami pericolanti.
 
-**Italfuni**, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di potatura attento ed eco-compatibile, caratterizzandosi per la professionalità, rapidità e soprattutto sicurezza in tutta la **Rieti e provincia**. La tecnica che utilizziamo è la stessa usata dagli alpinisti, riadattata per l’occasione.
+## Perché la fune
 
-Tra i nostri aspetti caratterizzanti ricopre un ruolo importante il **rispetto per l’ambiente**, infatti i nostri potatori non si limitano ad essere “acrobati con una motosega alla cintura”, ma possono vantare una preparazione essenziale per la salute dei tuoi alberi. Sanno osservare un albero e intervenire in base alla natura e alle condizioni della pianta.
+Dove la pendenza è forte, i mezzi pesanti fanno più danni del taglio stesso: rovinano il terreno e il fondo stradale. Con l'attrezzatura da arboricoltura raggiungiamo qualsiasi punto portando solo corde, imbracatura e motosega. Il materiale viene calato a terra senza far cadere pezzi su tetti e recinzioni.
 
-Per noi non esiste una situazione generale, ogni albero rappresenta infatti una situazione a sé sia per la specie, per la forma e per il contesto in cui è inserito. In tutti i casi Italfuni sarà all’altezza della situazione.
+## Prima di tagliare
 
-Un professionista a lavoro su un albero
+Valutiamo l'albero per capire cosa conviene fare davvero: dove si trovano gli attacchi dei rami, se ci sono cavità o marciumi, quali parti tolgono più peso senza stressare la pianta. Spesso un alleggerimento mirato basta ad evitare l'abbattimento.
 
-### Interventi ordinari
+## Legna e residui
 
-**Potature stagionali** o semplicemente per migliorare l’aspetto della tua pianta? Questi interventi rientrano in questa categoria. Con Italfini potrai programmare questi interventi in maniera regolare nel tempo.
+Su richiesta tagliamo il tronco in pezzi per la legna da ardere e cippiamo le ramaglie. Se non è possibile bruciarle, ti indichiamo come smaltirle correttamente.
 
-### Interventi straordinari
+## Quando conviene
 
-Se dopo un temporale la tua pianta ha dei rami pericolanti il nostro consiglio è quello di chiamare immediatamente un esperto per rimuoverli. **Per legge** infatti se questo dovessero arrecare danni a cose o persone, il diretto responsabile sarebbe proprio il proprietario della  pianta. Perché rischiare allora?
+Il periodo ideale è **tardo autunno e inverno**, a pianta ferma e con meno rischio di disturbare uccelli nidificanti. Dopo un evento meteo importante interveniamo appena le condizioni lo permettono, perché il maltempo rende il lavoro pericoloso.
 
-## Potatura alberi: perché utilizziamo le funi?
+## Sicurezza
 
-L’utilizzo di corde e funi ci permette di **operare a tutte le altezze e accessi difficili** dove ponteggi, macchine operatrici e impalcature non possono arrivare, permettendo anche al cliente di **risparmiare** sulle attrezzature e sulla burocrazia. Questa tecnica permette anche di risparmiare inoltre in termini ti **tempo**. Infatti con l’utilizzo di ponteggi bisognerebbe mettere in conto anche i tempi di trasporto, assemblaggio e smontaggio.
+Imbracatura, doppio ancoraggio, operatori formati e area di lavoro delimitata, secondo il D.Lgs. 81/2008. Non saliamo con vento forte, neve o ghiaccio sui rami.
 
-Prima di entrare in azione i nostri esperti compiono un  **sopralluogo**, osservando le condizioni dell’albero e gli interventi necessari e solo una volta compiuta una panoramica dettagliata inizia il lavoro. Questo avviene perché il nostro obiettivo è minimizzare l’impatto di ogni intervento avrà sulla salute dell’albero
+## Servizi collegati
 
-L’utilizzo di questa tecnica infine permette un estremo **adattamento al terreno**. In pratica non c’è pianta dove non possiamo intervenire.
+Dopo la potatura puoi far controllare tetto e canali: [grondaie a Rieti]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}). Altre zone: [Roma]({{ '/servizi/potatura-alberi-roma/' | relative_url }}), [Latina]({{ '/servizi/potatura-alberi-latina/' | relative_url }}), [Viterbo]({{ '/servizi/potatura-alberi-viterbo/' | relative_url }}), [Frosinone]({{ '/servizi/potatura-alberi-frosinone/' | relative_url }}).
 
-### Perché sceglierci?
-
-- **rispettiamo l’ambiente;**
-- i nostri operatori sanno valutare le condizioni degli alberi e agire in base alle situazioni;
-- il lavoro su fune permette di **lavorare in ogni spazio e in ogni condizione;**
-- **risparmio** del cliente di tempo e soldi;
-- rimozione del materiale di risulta, se richiesto.
-
-## Non sei di Rieti? Allora prova qui
-
-- potatura alberi Roma;
-- potatura alberi Viterbo;
-- potatura alberi Frosinone;
-- potatura alberi Latina.
-
-Non esitate a contattarci per un **preventivo gratuito**, veloce e senza impegno!
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto dell'albero e indicazione del terreno.

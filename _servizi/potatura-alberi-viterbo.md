@@ -1,54 +1,46 @@
 ---
 layout: servizio
-title: "Potatura alberi Viterbo"
-description: "Italfuni, azienda leader nel campo dei servizi su corda a fune , offre servizio di potatura di alberi attento ed eco compatibile, caratterizzandosi per la..."
+title: "Potatura alberi a Viterbo e provincia"
+description: "Potatura e abbattimento controllato di querce, cipressi, castagni e ulivi a Viterbo e nella Tuscia, anche in giardini storici e vicoli stretti."
 gruppo: "Viterbo e provincia"
-seo_title: "Potatura alberi Viterbo - Italfuni"
-seo_description: "Sei alla ricerca di professionisti per la potatura di alberi a Viterbo? Clicca qui allora per un preventivo veloce, gratuito e senza alcun impegno!"
+seo_title: "Potatura alberi a Viterbo e provincia su fune | EdilExtreme"
+seo_description: "Potatura, riduzione e abbattimento di alberi a Viterbo e nella Tuscia con tecnica su fune: giardini storici, casali, cipressi e querce. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura alberi Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura su fune di un albero nella Tuscia" align="center" %}
 
-Italfuni, azienda leader nel campo dei servizi su **corda a fune**, offre servizio di potatura di alberi attento ed eco-compatibile, caratterizzandosi per la professionalità, rapidità e soprattutto sicurezza in tutta Viterbo e provincia.
+La Tuscia è un mosaico di cipressi lungo i viali, querce e cerri nei boschi, ulivi nelle campagne, noccioleti sui Cimini e grandi alberi nei giardini delle ville storiche. Ogni specie ha le sue esigenze e ogni giardino i suoi limiti. **EdilExtreme** sceglie la tecnica su fune, che permette di lavorare con garbo anche dove una macchina non passa.
 
-Tra gli aspetti che ci caratterizzano ricopre un ruolo importante il rispetto per l’ambiente, infatti i nostri potatori non si limitano ad essere “acrobati con una motosega alla cintura”, ma hanno una preparazione essenziale per la salute dei tuoi alberi, sanno osservare un albero e intervenire in base alla natura e alle condizioni del soggetto.
+## Dove lavoriamo di solito
 
-## Potatura alberi: come lavoriamo
+- **Giardini di ville e palazzi storici**, dove le piante hanno anche valore paesaggistico;
+- **Casali e agriturismi** con viali di cipressi e querce da curare;
+- **Cortili e giardini del centro storico di Viterbo**, accessibili solo a piedi;
+- **Uliveti e frutteti**, con potature di rinnovo e di manutenzione;
+- **Aree attorno a strade provinciali e sentieri**, con rami da tenere lontani dalla carreggiata.
 
-Ogni albero rappresenta una situazione a sé, sia per la specie, sia per la forma, sia per il contesto in cui è inserito ma in tutti i casi Italfuni sarà all’altezza della situazione.
+## Cipressi e conifere
 
-Il nostro obiettivo è minimizzare l’impatto di ogni azione sulla salute dell’albero.
+I cipressi lungo i viali richiedono attenzione: se la chioma è troppo fitta, il vento fa leva sul fusto. Un alleggerimento ben fatto mantiene la forma e riduce il rischio. Interveniamo anche su cedri e pini, evitando tagli eccessivi che li indeboliscono.
 
-L’utilizzo di corde e funi ci permette di **operare a tutte le altezze e accessi difficili**, dove ponteggi, macchine operatrici e impalcature non possono arrivare. Il cliente risparmierà in maniera notevole perché verranno azzerati i costi di affitto di grosse e ingombranti mezzi di lavoro.
+## Alberi di pregio e vincoli
 
-Abbiamo inoltre una grande capacità di adattamento al terreno, un ascolto serio dei tuoi bisogni e una vera motivazione per soddisfarli.
+Nei giardini storici e in aree tutelate alcune potature e abbattimenti richiedono autorizzazioni. Ti diciamo cosa verificare e come procedere. Dove l'albero ha valore, preferiamo la **conservazione** e consigliamo un esame di stabilità prima di decidere.
 
-Un professionista a lavoro su un albero
+## Come si svolge il lavoro
 
-### Manutenzione ordinaria
+Sopralluogo, scelta del punto di ancoraggio, salita con attrezzatura certificata e taglio per sezioni. Le parti vengono **calate con corde**, senza far cadere legno su pavimentazioni antiche o aiuole. Poi sistemiamo il materiale e, se richiesto, lo trasformiamo in cippato o legna.
 
-In questa categoria rientrano tutti quei lavori da fare in maniera costante nel tempo. Per esempio la semplice potature di fronde in eccesso che potrebbero arrecare disturbo a palazzi limitrofi alla pianta oppure una semplice sfoltita per mere motivazioni estetiche da effettuare ogni anno.
+## Stagione ideale
 
-### Interventi di natura straordinaria
+Per querce e latifoglie, da fine autunno a fine inverno; per gli ulivi, la potatura segue il ciclo della pianta e va fatta con criterio. Valutiamo caso per caso, tenendo conto anche della nidificazione degli uccelli.
 
-Qui parliamo di interventi da fare una tantum. La rimozione di rami pericolanti dopo un temporale che potrebbero causare danni ai cittadini per esempio. Ricordiamo che se un ramo dovesse arrecare danno ad una persona o un oggetto, il diretto responsabile per legge, sarà il proprietario della pianta. Perché rischiare?
+## Sicurezza
 
-## Potatura alberi: Perché scegliere Italfuni?
+Operatori formati, doppio ancoraggio e area delimitata, come prevede il D.Lgs. 81/2008.
 
-- **rispettiamo l’ambiente;**
-- i nostri operatori sanno valutare le condizioni degli alberi e agire in base alle situazioni;
-- il lavoro su fune permette di **lavorare in ogni spazio e in ogni condizione;**
-- **risparmio** del cliente;
-- professionalità e sicurezza;
-- rispetto della scadenze accordate insieme al cliente;
-- tempistiche di lavoro brevissime;
-- rimozione del materiale di risulta incluso nel prezzo.
+## Servizi collegati
 
-## Non sei di Viterbo? allora prova qui
+Dopo la potatura spesso conviene un controllo delle [grondaie a Viterbo]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}). Il servizio è attivo anche a [Roma]({{ '/servizi/potatura-alberi-roma/' | relative_url }}), [Latina]({{ '/servizi/potatura-alberi-latina/' | relative_url }}), [Rieti]({{ '/servizi/potatura-alberi-rieti/' | relative_url }}) e [Frosinone]({{ '/servizi/potatura-alberi-frosinone/' | relative_url }}).
 
-- potatura alberi Roma;
-- potatura alberi a Rieti;
-- potatura alberi a Frosinone;
-- potatura alberi a Latina.
-
-Contattaci per un preventivo gratuito e senza impegno. Italfuni può risolvere ogni tuo problema.
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto dell'albero e luogo.

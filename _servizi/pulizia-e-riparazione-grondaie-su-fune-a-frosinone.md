@@ -1,30 +1,46 @@
 ---
 layout: servizio
-title: "Pulizia e riparazione grondaie su fune a Frosinone"
-description: "Le grondaie, a causa della loro forma e della loro posizione, rappresentano un vero e proprio appoggio per tutti i rifiuti portati dal vento e non solo,..."
+title: "Pulizia e riparazione grondaie a Frosinone"
+description: "Pulizia, riparazione e sostituzione di grondaie e canali di gronda a Frosinone e in Ciociaria con accesso su fune: capannoni, condomini e case."
 gruppo: "Frosinone e provincia"
-seo_title: "Pulizia e riparazione grondaie su fune a Frosinone - Italfuni"
-seo_description: "Le grondaie, a causa della loro forma e della loro posizione, rappresentano un vero e proprio appoggio per tutti i rifiuti portati dal vento e non solo, occorre dunque tenerli costantemente puliti. Ma non si tratta di un’operazione tanto semplice da effettuare.. ed è proprio qui che interveniamo noi di Italifuni!!! Italfuni è un’azienda specializzata …"
+seo_title: "Grondaie a Frosinone: pulizia e riparazione su fune | EdilExtreme"
+seo_description: "Pulizia e riparazione di grondaie a Frosinone, Cassino e Ciociaria con tecnica su fune: capannoni, condomini e case, senza ponteggi. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/grondaie.jpg" alt="Pulizia e riparazione grondaie su fune a Frosinone" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pulizia-grondaie-su-fune.jpg" alt="Operatore su fune pulisce un canale di gronda a Frosinone" align="center" %}
 
-Le grondaie, a causa della loro forma e della loro posizione, rappresentano un vero e proprio appoggio per tutti i rifiuti portati dal vento e non solo, occorre dunque tenerli costantemente puliti.
+Nel Frusinate le grondaie lavorano su strutture molto diverse: i **grandi tetti dei capannoni**, dove i canali raccolgono migliaia di litri a ogni temporale, e le **abitazioni di colline e centri storici**, con coperture a più falde. In entrambi i casi un canale intasato causa danni: infiltrazioni nei solai, cadute d'acqua sui piazzali, facciate macchiate. **EdilExtreme** li pulisce e li ripara su fune.
 
-Ma non si tratta di un’operazione tanto semplice da effettuare.. ed è proprio qui che interveniamo noi di Italifuni!!!
+## Cosa causa i guai
 
-Italfuni è un’azienda specializzata nel campo dei servizi su **corda a fune che opera a Frosinone e provincia.**
+- **Polvere e particolato industriale** che formano fanghi con la pioggia;
+- **Foglie e ramaglie** di platani, pioppi e querce vicino a edifici e piazzali;
+- **Detriti e uccelli** nei grandi canali dei capannoni;
+- **Pendenze sbagliate** e staffe cedute, con acqua che ristagna;
+- **Dilatazioni termiche** nelle lunghe linee metalliche, che aprono i giunti.
 
-L’accesso su corda permette ai lavoratori di Italfuni di poter raggiungere qualsiasi punto e altezza, grazie all’assenza di ingombranti impalcature e pontili.
+## Interventi
 
-La nostra società è leader nel mercato dei servizi su fune, che rappresenta un settore altamente specializzato; contiamo su anni di esperienza nel nostro team, grazie a procedure sviluppate appositamente al fine di garantire la sicurezza dei nostri lavoratori ogni qual volta svolgano un lavoro.
+1. Pulizia di canali, bocchettoni e pluviali, con verifica del deflusso;
+2. Riparazione di giunti, sigillature e staffe;
+3. Sostituzione di tratti e di intere linee;
+4. Posa di griglie parafoglie e protezioni sugli scarichi;
+5. Controllo di pendenze e attacchi a terra.
 
-La nostra metodologia di lavoro ci permette di abbassare i costi e di conseguenza di far risparmiare molto al cliente, senza togliere nulla alla qualità e professionalità che ci distingue.
+## Capannoni: lavorare senza fermare l'azienda
 
-Una volta che il problema dell’accesso è stato valutato e la soluzione è in atto, i nostri operatori vanno a posizionarsi nel punto esatto del lavoro svolgendo una vasta gamma di compiti, dalla fissazione del mastice al lavoro di pulizia, sempre caratterizzandoci per la grande professionalità e il rispetto dei tempi.
+La fune non occupa piazzali, non intralcia il carico e scarico e non richiede mezzi pesanti vicino ai magazzini. Possiamo programmare il lavoro nei giorni più tranquilli. Dove i canali sono lunghi e nascosti, li ispezioniamo da vicino e ti segnaliamo i punti critici con foto.
 
-Consideriamo di primaria importanza la documentazione sulla sicurezza (piano operativo della sicurezza – D.lgs 81/08) e l’attenzione ai dettagli. Al fine di garantire la sicurezza dei nostri lavoratori offriamo una formazione progettata proprio per consentire loro di praticare il lavoro in un ambiente sicuro e controllato.
+## Case e condomini
 
-La nostra filosofia è quella di “completare il lavoro assegnato, dedicandoci la massima attenzione”.
+Anche in paese conviene avere una linea pulita: gli intasamenti d'autunno si prevengono con una pulizia annuale, dopo la caduta delle foglie. Con la fune gli interventi si fanno in giornata e il costo è molto inferiore a quello di un ponteggio.
 
-*Contattataci, siamo qui a Frosinone per discutere insieme le vostre esigenze, per risparmiare tempo e denaro utilizzando le nostre tecniche di accesso flessibili e specializzate.*
+## Sicurezza
+
+Operatori formati, doppia fune e valutazione dei rischi del sito, come prevede il D.Lgs. 81/2008. Per i tetti industriali segnaliamo lucernari e zone fragili prima di iniziare.
+
+## Collegati
+
+Se ti servono anche altri lavori: [manutenzione del tetto a Frosinone]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }}) e [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}). Altre province: [Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}), [Latina]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}).
+
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto e indirizzo.

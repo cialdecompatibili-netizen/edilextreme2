@@ -1,50 +1,42 @@
 ---
 layout: servizio
-title: "Potatura alberi Roma"
-description: "Stai cercando professionisti nella potatura dei tuoi alberi ? Allora fermati qui qualche minuto e leggi questo articolo. Italfuni, azienda specializzata..."
+title: "Potatura alberi a Roma e provincia"
+description: "Potatura e abbattimento controllato di alberi ad alto fusto a Roma con tecnica di tree climbing: niente gru, niente danni a giardini e auto."
 gruppo: "Roma e provincia"
-seo_title: "Potatura alberi Roma - Italfuni"
-seo_description: "Potiamo alberi su fune a Roma e provincia utilizzando corde e funi. Richiedi un preventivo gratuito senza impegno."
+seo_title: "Potatura alberi a Roma con tree climbing | EdilExtreme"
+seo_description: "Potatura, alleggerimento e abbattimento di pini, platani e alberi ad alto fusto a Roma e provincia con tecnica su fune. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Potatura alberi Roma" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/potatura-albero-con-corde.jpg.jpg" alt="Operatore su corda pota un albero ad alto fusto" align="center" %}
 
-**Stai cercando professionisti**  nella **potatura dei tuoi alberi**? Allora fermati qui qualche minuto e leggi questo articolo. Italfuni, azienda specializzata nella potatura su fune molto probabilmente fa proprio al caso tuo.
+Roma è una delle città più alberate d'Europa: pini domestici, platani, lecci, cedri e magnolie crescono in cortili, ville, viali e giardini condominiali. Quando i rami toccano tetti, cavi o finestre, o quando un esemplare diventa instabile, la potatura va affidata a chi sa lavorare in quota. **EdilExtreme** sale con le tecniche dell'arboricoltura su fune, senza gru e senza rovinare ciò che sta sotto.
 
-## Potatura alberi: come lavoriamo
+## Perché il tree climbing in città
 
-I nostri esperti sono addestrati all’uso di **funi e corde**. Queste tecniche sono le stesse utilizzati in ambiti sportivi come speleologia ed alpinismo. Inoltre sanno come trattare un albero grazie alla loro esperienza, per fare una diagnosi della condizione della pianta, al fine di adattare il suo intervento alla natura del suo soggetto.
+In molte zone di Roma i giardini sono piccoli, chiusi da muri o pieni di auto: un mezzo con cestello non arriva. L'operatore si ancora alla chioma, si muove da un ramo all'altro e **cala a terra i tagli con corde e carrucole**, evitando di far cadere legno su tetti, recinzioni e passanti.
 
-**Ogni pianta è un caso unico da trattare** in base alla sua specie, alle condizioni in cui si trova e al luogo in cui cresce. Soprattutto in ambito cittadino si troveranno in un ambiente molto stressante e avranno bisogno di cure molto specifiche.
+## Interventi che eseguiamo
 
-Un professionista a lavoro su un albero
+- **Potatura di formazione e mantenimento**, per dare forma e sicurezza alla chioma;
+- **Alleggerimento e rimozione del secco**, utile contro la caduta di rami;
+- **Riduzione di altezza e volume** di piante troppo grandi per lo spazio;
+- **Distanza da cavi, tetti e facciate**, in sicurezza;
+- **Abbattimento controllato a sezioni**, dove non si può far cadere il tronco intero.
 
-### Interventi ordinari
+## Il caso dei pini
 
-Entrano in questa categoria tutti quegli interventi da  **effettuare in maniera regolare**. La potatura delle fronde per esempio è una di queste. Se si lasciasse crescere la chioma di un albero in maniera libera, potrebbe causare disagi ai palazzi limitrofi. noi di **Italfuni** possiamo garantire un calendario di interventi regolari, mettendoci d’accordo con i clienti. Rientrano in questa categoria anche interventi atti a **limitare le patologie**, evitando altrimenti trattamenti fitosanitari e alti costi di gestione.
+I pini domestici sono un simbolo della città, ma le radici sollevano marciapiedi e le chiome pesanti sono esposte a vento e tempeste. Valutiamo l'albero da vicino: stato del colletto, presenza di cavità, attacchi di parassiti. Quando serve, consigliamo una **perizia di stabilità** da parte di un agronomo.
 
-### Interventi straordinari
+## Permessi e regole
 
-Soprattutto a Roma spesso può capitare che i rami degli alberi possano danneggiarsi a causa di forti temporali. Se il ramo in questione dovesse **arrecare danni** a beni o persone il diretto responsabile, per legge, sarebbe il suo proprietario. Per questo motivo Italfuni garantisce interventi immediati per scongiurare questi pericoli.
+Alberi di pregio, in aree vincolate o lungo strade pubbliche possono richiedere autorizzazioni del Comune o del Municipio. Ti spieghiamo cosa serve e, se vuoi, ti aiutiamo con la documentazione. Non effettuiamo potature drastiche (capitozzature), dannose per la pianta.
 
-## Potatura alberi: ecco perché usiamo le funi
+## Il lavoro, passo dopo passo
 
-Le tecniche combinate di **scalatore e arboricoltore** offrono la garanzia di un approccio rapido e sicuro a tutti gli ambienti difficili da raggiungere. Normalmente per intervenire a simili altezze sarebbero necessari piattaforme aeree i impalcature. Questo provocherà di conseguenza un innalzamento di costi e tempo di lavoro.
+Sopralluogo, scelta della tecnica, delimitazione dell'area, potatura con taglio pulito e smaltimento o cippatura delle ramaglie. Operiamo con imbracatura, doppio ancoraggio e dispositivi di protezione, come prevede il D.Lgs. 81/2008.
 
-Oltretutto questa tecnica permette un  **estremo adattamento al terreno**. In questo modo non c’è pianta che non possa essere raggiunta dai nostri esperti.
+## Altri servizi
 
-### Perché sceglierci
+Ti serve anche la [pulizia delle grondaie a Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }})? Dopo la potatura è il momento ideale. Siamo presenti anche a [Latina]({{ '/servizi/potatura-alberi-latina/' | relative_url }}), [Rieti]({{ '/servizi/potatura-alberi-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/potatura-alberi-viterbo/' | relative_url }}) e [Frosinone]({{ '/servizi/potatura-alberi-frosinone/' | relative_url }}). Per la tecnica in generale leggi [potatura alberi]({{ '/servizi/potatura-alberi/' | relative_url }}).
 
-- **risparmio** economico e di tempo;
-- **rispettiamo l’ambiente;**
-- i nostri operatori sanno valutare le condizioni degli alberi e agire in base alle situazioni;
-- il lavoro su fune permette di **lavorare in ogni spazio e in ogni condizione.**
-
-## Non sei di Roma? Prova qui allora
-
-- potatura alberi Latina;
-- potatura alberi Frosinone;
-- potatura alberi Rieti;
-- potatura alberi Viterbo.
-
-Non esitate a contattarci per avere un **preventivo veloce, gratuito e senza alcun impegno**. I nostri esperti sono in grado di soddisfare ogni tua richiesta.
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con qualche foto dell'albero e l'indirizzo.

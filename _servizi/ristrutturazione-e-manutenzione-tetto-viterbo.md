@@ -1,57 +1,50 @@
 ---
 layout: servizio
-title: "Ristrutturazione e manutenzione tetto Viterbo"
-description: "Servono esperti nella riparazione di tetti a Viterbo? Allora leggi qui!"
+title: "Ristrutturazione e manutenzione tetto a Viterbo"
+description: "Riparazione e rifacimento di tetti in coppi e tegole a Viterbo e nella Tuscia: casali, palazzi e centro storico, con accesso su fune."
 gruppo: "Viterbo e provincia"
-seo_title: "Ristrutturazione e manutenzione tetto Viterbo - Italfuni"
-seo_description: "Hai bisogno di esperti nella riparazione di tetti? Allora sei nel posto giusto! Clicca qui per un preventivo senza impegno, gratutito al 100%!"
+seo_title: "Riparazione e rifacimento tetti a Viterbo su fune | EdilExtreme"
+seo_description: "Riparazione, manutenzione e rifacimento di tetti in coppi a Viterbo e nella Tuscia: casali e edifici storici, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Ristrutturazione e manutenzione tetto Viterbo" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Lavori di manutenzione su un tetto in coppi nella Tuscia" align="center" %}
 
-Servono esperti nella **riparazione di tetti** a Viterbo? Allora leggi qui!
+A Viterbo il tetto è una parte importante dell'identità dell'edificio: coppi e tegole in laterizio, cornicioni in pietra, travi in castagno e quercia. Sono coperture belle, ma da trattare con attenzione. Un colpo di vento o una grandinata possono spostare i coppi, e l'acqua che entra nei vecchi solai fa danni lenti e costosi. **EdilExtreme** ripara e rifà i tetti con accesso su fune, riducendo l'impatto sull'edificio.
 
-Le cause che possono causare **danni al tetto** sono molte e non devono essere mai sottovalutate. Intemperie, maltempo o semplicemente l’usura, possono provocare **infiltrazioni d’acqua** che con il tempo potrebbero anche causare danni alla struttura.
+## Dove lavoriamo
 
-In alcuni casi il problema può essere risolto da soli, per esempio la sostituzione di qualche tegola. In ogni caso però, è **sempre consigliabile fare affidamento di esperti** nel settore dell’edilizia visto che si tratta comunque di lavorare a discrete altezze.
+- **Casali e ville di campagna** con tetti a più falde e travi a vista;
+- **Palazzi del centro storico**, spesso con accessi limitati;
+- **Strutture ricettive e agriturismi**, che non possono chiudere per il cantiere;
+- **Abitazioni e condomini** delle zone residenziali, con tetti a tegole;
+- **Annessi agricoli**, fienili e magazzini.
 
-## Riparazione di tetti: Come lavoriamo
+## Interventi tipici
 
-**Italfuni**, azienda leader del servizio su fune, tra i suoi tanti servizi si può anche occupare della **riparazione e/o manutenzione del tuo tetto**.
+1. **Riordino del manto**: coppi spostati, tegole rotte, colmi da risigillare;
+2. **Sostituzione mirata** di elementi danneggiati, con materiali simili agli originali per colore e forma;
+3. **Controllo di cornicioni, comignoli e abbaini**, i punti dove nascono le infiltrazioni;
+4. **Verifica del sottotetto**: umidità, condensa, stato delle travi e del tavolato;
+5. **Rifacimento completo** con isolamento e ventilazione adeguati.
 
-Nei lavori su funi vengono utilizzate tecniche derivate dall’alpinismo, al fine di poter **raggiungere senza problemi qualsiasi altezza e posizione**.  L’operatore è sostenuto dalla fune e assicurato con apposite imbragature, sia nei casi in cui si trovasse sospeso completamente, sia in quelli in cui esistono appoggi strutturali. **Italfuni** segue alla lettere tutte le normative di sicurezza.
+## Come proteggiamo l'edificio
 
-### Perché scegliere italfuni?
+Su un tetto storico camminare è rischioso: i coppi si rompono e si spostano. Con la fune l'operatore resta fuori dal manto e lavora con attrezzatura leggera. Quando serve camminare, usiamo passerelle o tavole di ripartizione. Per gli edifici vincolati ti segnaliamo le autorizzazioni da verificare con il Comune o la Soprintendenza.
 
-Grazie alle nostre particolari tecniche possiamo effettuare tutti i tipi di lavori **senza dover ricorrere ad impalcature o piattaforme aeree**. Questo porta a questi sostanziali vantaggi:
+## Perché i coppi nuovi non bastano
 
-- abbattimento dei costi;
-- accorciamento dei tempi di lavoro;
-- meno disturbo arrecato alle persone.
+Il tetto è un sistema: manto, strato di ventilazione, tavolato, travi, isolamento, grondaie. Cambiare solo i coppi risolve poco se sotto c'è un'umidità che sale. Per questo parliamo con te di tutto il pacchetto prima di proporre un intervento.
 
-Infatti le impalcature hanno un costo e dovranno essere prima assemblate e poi smontate. Eliminando questo elemento **si risparmieranno tempo e soldi**. Inoltre sarà possibile effettuare manutenzioni regolari.
+## Quando conviene
 
-### Eventi straordinari
+Da **primavera a inizio autunno**, con tempo asciutto. Dopo grandinate o temporali importanti prevediamo anche interventi urgenti.
 
-Ci sono casi in cui un **intervento tempestivo è importantissimo**.
+## Sicurezza
 
-**Italfuni** si occupa anche della rimozione di eventuali rami o alberi caduti per esempio a causa del mal tempo. Dopo la rimozione dei detriti i nostri ragazzi potranno in seguito valutare gli eventuali danni per poi procedere alla riparazione del tetto.
+Operatori formati, doppia fune e ancoraggi scelti per non danneggiare la struttura, come prevede il D.Lgs. 81/2008.
 
-### Riparazione di tetti ma non solo
+## Collegati
 
-I nostri professionisti possono operare in tante altre situazioni. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
+Per la raccolta dell'acqua: [grondaie a Viterbo]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}). Se hai un impianto solare: [pannelli fotovoltaici a Viterbo]({{ '/servizi/pulizia-pannelli-fotovoltaici-a-viterbo/' | relative_url }}). Altre province: [Roma]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}), [Latina]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }}), [Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}), [Frosinone]({{ '/servizi/rifacimento-e-manutenzione-tetto-a-frosinone/' | relative_url }}).
 
-Hai ad esempio bisogno di sostituire o riparare la tua **grondaia**? Allora prova a leggere questo articolo: [manutenzione, pulizia e sostituzione grondaia Viterbo e provincia]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}).
-
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il nostro servizio su misura per te: [pulizia vetri su fune Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}).
-
-## Non sei di Viterbo? Allora leggi qui!
-
-**Italfuni** infatti opera su tutto quando il territorio del Lazio:
-
-- riparazione tetti Roma;
-- riparazione tetti Rieti;
-- riparazione tetti Latina;
-- riparazione tetti Frosinone.
-
-Cosa aspetti? Fai la scelta giusta, chiama senza impegno per un **preventivo gratuito al 100%**. Rimarrai stupito dalla nostra professionalità e dal rapporto qualità- prezzo!
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto del tetto e località.

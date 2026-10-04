@@ -1,42 +1,46 @@
 ---
 layout: servizio
-title: "Grondaie a Viterbo: vendita, installazione, manutenzione, pulizia"
-description: "A Viterbo e provincia, Italfuni è specializzata in servizi di manutenzione delle grondaie tramite accesso alla fune per garantire che tutte le grondaie..."
+title: "Grondaie a Viterbo: installazione, manutenzione e pulizia"
+description: "Installazione, riparazione e pulizia di grondaie e pluviali a Viterbo e nella Tuscia lavorando su fune, anche su tetti in coppi e edifici storici."
 gruppo: "Viterbo e provincia"
-seo_title: "Grondaie a Viterbo: vendita, installazione, manutenzione, pulizia - Italfuni"
-seo_description: "Stai cercando professionisti per grondaie a Viterbo e provoncia? Sei nel posto giusto. Preventivi in 1 click."
+seo_title: "Grondaie a Viterbo: installazione e pulizia su fune | EdilExtreme"
+seo_description: "Installazione, manutenzione e pulizia di grondaie a Viterbo e provincia con tecnica su fune: tetti in coppi, casali e centro storico. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/grondaie.jpg" alt="Grondaie a Viterbo: vendita, installazione, manutenzione, pulizia" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/grondaie.jpg" alt="Grondaia su un edificio a Viterbo" align="center" %}
 
-A Viterbo e provincia, Italfuni è specializzata in servizi di manutenzione delle grondaie tramite accesso alla fune per garantire che tutte le grondaie siano mantenute in condizioni ottimali.
+Sui tetti di Viterbo e della Tuscia le grondaie hanno compiti delicati: raccogliere l'acqua senza rovinare un'architettura che spesso ha secoli di storia. Palazzi in peperino, casali in tufo, tetti in coppi con cornicioni sporgenti: qui una grondaia non è solo un canale, è parte dell'edificio. **EdilExtreme** la installa e la manutiene su fune, evitando strutture invasive.
 
-La nostra società risolve problemi come:
+## Cosa facciamo
 
-- Infiltrazioni di acqua
-- Accumulo di detriti
-- Deposito di sporcizie che nel tempo si raccolgono lungo i tubi di scolo e i canali dell’acqua
+- **Pulizia di canali e pluviali**, con rimozione di foglie, terra, nidi e detriti;
+- **Riparazione** di tratti ammalorati, giunti aperti, staffe allentate;
+- **Installazione di nuove grondaie** su tetti che ne sono privi o con linee insufficienti;
+- **Sostituzione** di sistemi vecchi o corrosi;
+- **Griglie e reti parafoglie** per zone con molti alberi.
 
-È importante risolvere queste problematiche, dato che nel lungo periodo possono causare danni importanti alla proprietà.
+## Materiali adatti agli edifici della Tuscia
 
-Per questo motivo affidarsi ad Italfuni è la scelt migliore.
+Su case di pregio o in centro storico il **rame** è la scelta classica: dura decenni, invecchia bene e si accorda con coppi e pietra. Per edifici meno vincolati funzionano bene **alluminio e acciaio preverniciato**. Ti aiutiamo a scegliere forma, sezione e colore tenendo conto dello stile dell'edificio e, dove serve, di eventuali prescrizioni.
 
-I nostri esperti riescono ad operare a qualsiasi altezza, in totale sicurezza, garantendo un lavoro di qualità, rispettando i tempi e permettendo al cliente di risparmiare notevolmente sul costo di ponteggi e impalcature. L’accesso in corda doppia offre un alto risparmio, bassi livelli di interruzione del lavoro e riduce notevolmente il rischio di danni pur essendo rispettoso dell’ambiente.
+## Il problema delle infiltrazioni
 
-Questo tipo di servizio offerto da Italfuni è specializzato in una gamma unica di soluzioni per aiutarti a gestire, proteggere e mantenere l’esterno dell’edificio, dalle riparazioni dei tetti, grondaie e balconi alle guarnizioni delle finestre, dalla pulizia dei vetri fino a lavori di tinteggiatura parziale o completa.
+Nei tufi e nelle pietre porose l'acqua che esce dalle grondaie può causare macchie, efflorescenze e distacchi di intonaco. Una linea ben fissata e pulita riduce i danni e protegge anche le fondazioni.
 
-Con Italfuni puoi bloccare le infiltrazioni d’acqua, l’accumulo di detriti o di sporcizie in maniera rapida grazie al lavoro su corde non prevede il montaggio di ponteggi o di altre strutture ingombranti e costose per il sollevamento del personale.
+## Perché la fune
 
-I nostri tecnici sono esperti e competenti, in possesso degli che permettono loro di accedere in sicurezza a zone più alte, per svolgere compiti complessi come l’impermeabilizzazione.
+Nei vicoli stretti del centro storico non è facile montare un ponteggio; nei casali isolati il terreno è irregolare e il ponteggio costa molto per quello che serve. La fune permette di lavorare con pochi ancoraggi, senza toccare facciate e senza occupare suolo pubblico.
 
-Lo smaltimento adeguato delle acque piovane permette di evitare macchie e detriti visibili, oltre che il proliferare di vari insetti e la diffusione di odori stagnanti.
+## Quando intervenire
 
-Prima dell’inizio dei lavori la nostra società mette a disposizione esperti con il compito di effettuare un sopralluogo, in maniera tale da verificare i canali e indicando gli interventi da effettuare sulla base delle condizioni della proprietà.
+A **fine autunno**, dopo la caduta delle foglie di querce e castagni, e dopo i temporali più forti. Una manutenzione annuale evita le riparazioni importanti.
 
-Durante il lavoro vengono utilizzati materiali di ultima generazione, comprendenti anche strumenti meccanici, come l’idropulitrice.
+## Sicurezza
 
-Al termine dei lavori, sarà effettuata una seconda ispezione per verificare lo stato generale del tetto e attivare una seconda procedura, in caso di eventuali otturazioni.
+Doppia fune, operatori formati, area delimitata e valutazione dei rischi, come prevede il D.Lgs. 81/2008. Sui tetti storici scegliamo ancoraggi che non danneggiano coppi e strutture.
 
-Gli interventi potranno essere eseguiti in un qualunque periodo dell’anno, salvo periodi di forte pioggia o vento ed almeno per una volta l’anno.
+## Collegati
 
-*Se desideri che ti forniamo un preventivo gratuito e senza impegno per il lavoro richiesto, puoi contattarci utilizzando i seguenti dettagli.*
+Per i tetti: [manutenzione del tetto a Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}). Altri servizi: [pulizia vetri a Viterbo]({{ '/servizi/pulizia-vetri-viterbo/' | relative_url }}). Servizio attivo anche a [Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}), [Latina]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}) e [Frosinone]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto dell'edificio e indirizzo.

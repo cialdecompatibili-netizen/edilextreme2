@@ -1,51 +1,43 @@
 ---
 layout: servizio
-title: "Rifacimento tetto Frosinone e provincia: preventivi"
-description: "Agenti esterni come infiltrazioni d’acqua, usura e i danni strutturali spesso portano alla necessità di ricorrere al rifacimentodel tetto ."
+title: "Rifacimento e manutenzione tetto a Frosinone"
+description: "Riparazione, manutenzione e rifacimento di tetti a Frosinone e in Ciociaria: capannoni, lamiere, tegole e coperture condominiali, con accesso su fune."
 gruppo: "Frosinone e provincia"
-seo_title: "Rifacimento tetto Frosinone e provincia: preventivi - Italfuni"
-seo_description: "Richiedi un preventivo gratuito per il rifacimento del tuo tetto. L'edilizia su fune permette di abbattere i prezzi grazie all'assenza di ponteggi."
+seo_title: "Rifacimento e riparazione tetti a Frosinone su fune | EdilExtreme"
+seo_description: "Riparazione, manutenzione e rifacimento di tetti a Frosinone e provincia: capannoni, lamiere e tegole, con accesso su fune. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Rifacimento tetto Frosinone e provincia: preventivi" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/riparazione-tetti.jpg" alt="Intervento su un tetto di un capannone a Frosinone" align="center" %}
 
-Agenti esterni come infiltrazioni d’acqua, usura e i danni strutturali spesso portano alla necessità di ricorrere al **rifacimentodel tetto**.
+La provincia di Frosinone ha un tessuto produttivo importante, e con esso molti tetti industriali: capannoni con coperture in lamiera, pannelli sandwich, lucernari, canali di gronda lunghi decine di metri. Accanto, ci sono condomini, scuole e abitazioni con coperture a tegole. In tutti i casi un tetto trascurato costa: infiltrazioni, merci rovinate, interruzioni di attività. **EdilExtreme** lo controlla e lo ripara su fune.
 
-**Italfuni**, come si intuisce dal nome, ricorre all’utilizzo di **particolari tecniche** derivate dall’alpinismo. Questo fa si che si abbatteranno costi, tempistiche e disturbi arrecati dai lavori.
+## Interventi per le aziende
 
-Si tratta quindi di una faccenda seria, in cui occorre **affidarsi ai giusti professionisti**. I nostri ragazzi sono formati grazie ad appositi corsi per offrire un servizio di estrema qualità arrivando dove gli altri non possono.
+- **Ricerca di infiltrazioni** su coperture in lamiera o pannelli, da giunti, viti, lucernari e raccordi;
+- **Sostituzione di lastre** o pannelli danneggiati;
+- **Risigillatura di giunti** e passaggi di impianti;
+- **Verifica di lucernari e botole**, che sono i punti più pericolosi per chi lavora in copertura;
+- **Pulizia e riparazione di canali di gronda** di grandi dimensioni;
+- **Ripristino di coperture** vecchie con nuovi strati protettivi.
 
-## Rifacimento tetto Frosinone: Come lavoriamo
+## Interventi per case e condomini
 
-**Italfuni**, azienda leader indiscussa dei lavori su fune e corde, offre servizi per riparare il tuo tetto su **Frosinone e provincia**.
+Sostituzione di tegole e coppi, sistemazione di colmi e comignoli, rifacimento di guaine su terrazze, controllo del sottotetto. Per i condomini prepariamo un preventivo chiaro, con foto e voci distinte, da portare in assemblea.
 
-Per prima cosa i nostri esperti verranno per effettuare un **sopralluogo**, comunicando poi al cliente l’entità e il tipo di interventi da effettuare.
+## Perché la fune
 
-Durante tutto il lavoro il nostro operatore è sostenuto da una fune sia che si trovi totalmente sospeso, sia che si trovi appoggiato alla struttura. Utilizzando come detto, tecniche derivate dall’alpinismo e dalla speleologia i nostri esperti potranno raggiungere luoghi altrimenti irraggiungibili.
+Con un ponteggio perimetrale su un capannone si spende molto e si ingombra il piazzale. L'accesso su fune permette di raggiungere i punti critici con pochi ancoraggi e di lavorare mentre l'azienda continua a operare. Per interventi piccoli e medi il risparmio è notevole.
 
-Questo permette al cliente di **risparmiare una grande quantità di denaro**, lavorando su funi ed evitando quindi le enormi spese che richiedono ponteggi o piattaforme aeree.
+## Sicurezza sui tetti industriali
 
-Inoltre i **tempi di consegna verranno abbattuti**. Infine il non dover montare e smontare tutto ogni volta, rende possibile di  **intervenire con regolarità** per operazione di manutenzione ordinaria.
+Le coperture in lamiera, soprattutto se vecchie, hanno lucernari fragili e superfici scivolose: sono la causa di molti incidenti. Lavoriamo con **doppia fune, operatori formati, percorsi segnalati e valutazione dei rischi**, secondo il D.Lgs. 81/2008. Se la copertura contiene fibrocemento o amianto, non interveniamo: serve una ditta autorizzata, e ti indichiamo come procedere.
 
-### Interventi straordinari
+## Quando intervenire
 
-Può capitare a causa di un temporale, che un albero possa perdere grossi rami o addirittura crollare, sopra un edificio. I professionisti di **Italfuni** sono pronti anche a questo. Interverranno in maniera tempestiva, rimuovendo detriti e riparando il tetto eventualmente danneggiato. Per saperne di più: Potatura alberi su fune a Frosinone.
+I controlli vanno fatti **ogni anno**, e dopo grandinate e forti temporali. Intervenire presto su una piccola infiltrazione evita danni al contenuto del capannone.
 
-### Riparazione del tetto ma non solo
+## Collegati
 
-I nostri professionisti possono operare in tanti altri ambiti. La peculiarità del lavoro su fune è proprio quella di arrivare dove gli altri si fermano.
+Altri lavori sulla copertura: [pulizia grondaie a Frosinone]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}), [pannelli fotovoltaici]({{ '/servizi/pulizia-pannelli-fotovoltaici-su-fune-a-frosinone/' | relative_url }}) e [impermeabilizzazione]({{ '/servizi/impermeabilizzazione-su-fune-a-frosinone/' | relative_url }}). Altre province: [Roma]({{ '/servizi/ristrutturazione-e-manutenzione-tetti-roma/' | relative_url }}), [Latina]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }}), [Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-viterbo/' | relative_url }}).
 
-Hai ad esempio bisogno di manutenzione per la **grondaia**? Allora leggi qui: [manutenzione, pulizia e sostituzione grondaia Frosinone e provincia]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
-
-Se invece hai **vetri** difficilmente raggiungibili o lucernari da pulire ecco il servizio che fa al caso tuo: [pulizia vetri su fune Frosinone]({{ '/servizi/pulizia-vetri-frosinone/' | relative_url }}).
-
-## Rifacimento tetto Frosinone: altre province
-
-I nostri esperti lavorano su **tutto il territorio del Lazio**:
-
-- rifacimento tetti Roma;
-- rifacimento tetti Rieti;
-- rifacimento tetti Latina;
-- rifacimento tetti Viterbo.
-
-Chiedi subito un **preventivo** chiamandoci. E’ **gratis al 100% e senza alcun impegno**! Ti stupiremo per la nostra serietà e l’ottimo rapporto qualità prezzo.
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con foto del tetto e tipo di copertura.

@@ -1,30 +1,45 @@
 ---
 layout: servizio
-title: "Pulizia e riparazione grondaie su fune a Rieti"
-description: "Uno dei problemi più comuni per chi possiede un’immobile riguarda la pulizia delle grondaie, che spesso presentano sporcizia portata per esempio da agenti..."
+title: "Pulizia e riparazione grondaie a Rieti"
+description: "Pulizia, riparazione e sostituzione di grondaie e pluviali a Rieti e nel Reatino con accesso su fune: ghiaccio, neve e foglie di bosco mettono alla prova i canali."
 gruppo: "Rieti e provincia"
-seo_title: "Pulizia e riparazione grondaie su fune a Rieti - Italfuni"
-seo_description: "Uno dei problemi più comuni per chi possiede un’immobile riguarda la pulizia delle grondaie, che spesso presentano sporcizia portata per esempio da agenti atmosferici. Risulta difficile la loro pulizia, per questo c’è bisogno di chiamare un esperto nel settore, ma spesso i costi elevati, dovuti soprattutto all’utilizzo di ingombranti impalcature porta alla rinuncia del lavoro …"
+seo_title: "Grondaie a Rieti: pulizia e riparazione su fune | EdilExtreme"
+seo_description: "Pulizia e riparazione di grondaie a Rieti e provincia con tecnica su fune: neve, gelo e foglie danneggiano i canali. Sopralluogo e preventivo gratuiti."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/grondaie.jpg" alt="Pulizia e riparazione grondaie su fune a Rieti" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/pulizia-grondaie-su-fune.jpg" alt="Pulizia di una grondaia su fune a Rieti" align="center" %}
 
-Uno dei problemi più comuni per chi possiede un’immobile riguarda la pulizia delle grondaie, che spesso presentano sporcizia portata per esempio da agenti atmosferici.
+Per una grondaia di Rieti l'inverno è la prova più dura. L'acqua che gela nei pluviali si espande e **spacca giunti e tubi**; la neve che scivola dal tetto piega i canali e strappa le staffe; in primavera ci si trova con grondaie aperte, deformate o piene di foglie e terra. **EdilExtreme** le sistema su fune, senza ponteggi, anche su tetti alti e spioventi.
 
-Risulta difficile la loro pulizia, per questo c’è bisogno di chiamare un esperto nel settore, ma spesso i costi elevati, dovuti soprattutto all’utilizzo di ingombranti impalcature porta alla rinuncia del lavoro e al sempre maggior deterioramento delle grondaie e di conseguenza dell’edificio.
+## Che danni fanno gelo e neve
 
-Per questo motivo devi scegliere Italfuni, azienda specializzata nel campo dei servizi su corda a fune che opera in tutta Rieti e provincia.
+- **Ghiaccio dentro i tubi**: aumenta di volume e rompe giunti e curve;
+- **Slittamento della neve**: tira giù canali e fa saltare i ganci;
+- **Ristagno d'acqua**: se la grondaia è piena, l'acqua trabocca e gela in facciata, rovinando gli intonaci;
+- **Muschio e terra** nei canali, che trattengono umidità.
 
-L’accesso su corda permette ai lavoratori di Italfuni di poter raggiungere qualsiasi punto e altezza, grazie all’assenza di ingombranti impalcature e pontili.
+## Come prevenire
 
-La nostra società è leader nel mercato dei servizi su fune, che rappresenta un settore altamente specializzato; contiamo su anni di esperienza nel nostro team, grazie a procedure sviluppate appositamente al fine di garantire la sicurezza dei nostri lavoratori ogni qual volta svolgano un lavoro.
+Una grondaia pulita e ben fissata sopporta meglio il gelo. Consigliamo di intervenire **a fine autunno**, dopo la caduta delle foglie e prima delle prime nevicate: puliamo canali e pluviali, controlliamo staffe e pendenza, sigilliamo i punti deboli. Nelle zone più innevate suggeriamo anche **paraneve** sul tetto, per evitare che la massa scivoli di colpo.
 
-La nostra metodologia di lavoro ci permette di abbassare i costi e di conseguenza di far risparmiare molto al cliente, senza togliere nulla alla qualità e professionalità che ci distingue, dal momento che il risparmio si ottiene grazie all’utilizzo di funi che esclude quello dei costosi e ingombranti ponteggi.
+## Foglie di bosco
 
-Una volta che il problema dell’accesso è stato valutato e la soluzione è in atto, i nostri operatori vanno a posizionarsi nel punto esatto del lavoro svolgendo una vasta gamma di compiti, dalla fissazione del mastice al lavoro di pulizia.
+Case e fienili vicini a querce, castagni e faggi vedono i canali riempirsi in poche settimane. Una **griglia parafoglie** ben scelta riduce la manutenzione, anche se non elimina del tutto la pulizia.
 
-Consideriamo di primaria importanza la documentazione sulla sicurezza (piano operativo della sicurezza – D.lgs 81/08) e l’attenzione ai dettagli. Al fine di garantire la sicurezza dei nostri lavoratori offriamo una formazione progettata proprio per consentire loro di praticare qualsiasi mansioni venga commissionata in un ambiente sicuro e controllato.
+## I materiali
 
-La nostra filosofia è quella di “completare il lavoro assegnato, dedicandoci la massima attenzione”.
+In zona fredda funzionano bene **rame, alluminio spesso e acciaio**; il PVC economico può diventare fragile con il gelo. Ti consigliamo il materiale giusto in base a esposizione, altitudine e stile della casa.
 
-*Contattataci, siamo qui a Rieti per discutere insieme le vostre esigenze, per risparmiare tempo e denaro utilizzando le nostre tecniche di accesso flessibili e specializzate.*
+## Perché la fune
+
+Le abitazioni del Reatino hanno spesso tetti ripidi e giardini in pendenza, dove un ponteggio è costoso e poco pratico. La fune richiede pochi punti di ancoraggio, si monta in minuti e lascia il giardino intatto.
+
+## Sicurezza
+
+Operatori formati, doppia fune, nessun lavoro con ghiaccio o neve sul tetto, come prevede il D.Lgs. 81/2008. Se il tempo non lo permette, rinviamo.
+
+## Collegati
+
+Spesso con le grondaie si guarda anche il tetto: [rifacimento tetti a Rieti]({{ '/servizi/rifacimento-tetti-rieti/' | relative_url }}). Altre province: [Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}), [Latina]({{ '/servizi/pulizia-manutenzione-e-sostituzione-grondaie-su-fune-latina/' | relative_url }}), [Viterbo]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}), [Frosinone]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [contattaci]({{ '/contatti/' | relative_url }}) con indirizzo e foto del tetto.

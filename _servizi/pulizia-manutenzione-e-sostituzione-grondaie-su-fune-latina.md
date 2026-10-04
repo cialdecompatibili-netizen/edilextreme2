@@ -1,30 +1,49 @@
 ---
 layout: servizio
-title: "Pulizia, riparazione grondaie su fune a Latina"
-description: "Uno dei problemi più comuni per chi possiede un’immobile riguarda la pulizia delle grondaie, che spesso presentano sporcizia portata per esempio da agenti..."
+title: "Pulizia, manutenzione e sostituzione grondaie a Latina"
+description: "Pulizia e riparazione di grondaie e pluviali a Latina e sulla costa pontina con accesso su fune: contro salsedine, sabbia e foglie."
 gruppo: "Latina e provincia"
-seo_title: "Pulizia, riparazione grondaie su fune a Latina - Italfuni"
-seo_description: "Uno dei problemi più comuni per chi possiede un’immobile riguarda la pulizia delle grondaie, che spesso presentano sporcizia portata per esempio da agenti atmosferici. Risulta difficile la loro pulizia, per questo c’è bisogno di chiamare un esperto nel settore, ma spesso i costi elevati, dovuti soprattutto all’utilizzo di ingombranti impalcature porta alla rinuncia del lavoro …"
+seo_title: "Grondaie a Latina: pulizia e sostituzione su fune | EdilExtreme"
+seo_description: "Pulizia, riparazione e sostituzione di grondaie e pluviali a Latina e provincia con tecnica su fune: la salsedine corrode, noi interveniamo. Preventivo gratuito."
 ---
 
-{% include immagine.liquid src="assets/img/italfuni/grondaie.jpg" alt="Pulizia, riparazione grondaie su fune a Latina" align="center" %}
+{% include immagine.liquid src="assets/img/italfuni/grondaie.jpg" alt="Grondaia in manutenzione su un edificio a Latina" align="center" %}
 
-Uno dei problemi più comuni per chi possiede un’immobile riguarda la pulizia delle grondaie, che spesso presentano sporcizia portata per esempio da agenti atmosferici.
+Nella piana pontina le grondaie soffrono più che altrove. In estate il sole e la salsedine, in autunno piogge intense e vento: i materiali si ossidano, i giunti si aprono, i canali si riempiono di sabbia, foglie di eucalipto e aghi di pino. **EdilExtreme** pulisce e ripara le grondaie su fune, evitando ponteggi e interventi invasivi.
 
-Risulta difficile la loro pulizia, per questo c’è bisogno di chiamare un esperto nel settore, ma spesso i costi elevati, dovuti soprattutto all’utilizzo di ingombranti impalcature porta alla rinuncia del lavoro e al sempre maggior deterioramento delle grondaie e di conseguenza dell’edificio.
+## I nemici delle grondaie qui
 
-Per questo motivo devi scegliere Italfuni, azienda specializzata nel campo dei servizi su corda a fune che opera in tutta a Latina e provincia.
+- **Salsedine**, che attacca lamiere zincate e giunti e fa comparire ruggine dopo poche stagioni;
+- **Sabbia e polvere** portate dal vento, che si accumulano e fanno ristagnare l'acqua;
+- **Foglie e frutti** di eucalipti, pini e palme;
+- **Piogge brevi e violente**, tipiche dell'autunno, che fanno traboccare i canali sottodimensionati.
 
-L’accesso su corda permette ai lavoratori di Italfuni di poter raggiungere qualsiasi punto e altezza, grazie all’assenza di ingombranti impalcature e pontili.
+## Quali materiali scegliere
 
-La nostra società è leader nel mercato dei servizi su fune, che rappresenta un settore altamente specializzato; contiamo su anni di esperienza nel nostro team, grazie a procedure sviluppate appositamente al fine di garantire la sicurezza dei nostri lavoratori ogni qual volta svolgano un lavoro.
+Vicino al mare l'**alluminio**, il **rame** e l'acciaio inox o rivestito resistono meglio della lamiera zincata semplice. Il PVC è economico ma può degradarsi con il sole forte. Ti consigliamo il materiale in base a distanza dal mare, esposizione e budget.
 
-La nostra metodologia di lavoro ci permette di abbassare i costi e di conseguenza di far risparmiare molto al cliente, senza togliere nulla alla qualità e professionalità che ci distingue.
+## Interventi
 
-Una volta che il problema dell’accesso è stato valutato e la soluzione è in atto, i nostri operatori vanno a posizionarsi nel punto esatto del lavoro svolgendo una vasta gamma di compiti, dalla fissazione del mastice al lavoro di pulizia.
+1. Pulizia di canali e pluviali, con controllo dello scorrimento;
+2. Riparazione di giunti e sigillature, trattamento di ruggine incipiente;
+3. Sostituzione di tratti corrosi o dell'intera linea;
+4. Posa di griglie e reti parafoglie;
+5. Verifica di pendenze, staffe e scarichi a terra.
 
-Consideriamo di primaria importanza la documentazione sulla sicurezza (piano operativo della sicurezza – D.lgs 81/08) e l’attenzione ai dettagli. Al fine di garantire la sicurezza dei nostri lavoratori offriamo una formazione progettata proprio per consentire loro di praticare qualsiasi mansioni venga commissionata in un ambiente sicuro e controllato.
+## Perché la fune
 
-La nostra filosofia è quella di “completare il lavoro assegnato, dedicandoci la massima attenzione”.
+Le palazzine del litorale hanno giardini e aiuole curate, mentre nel centro di Latina molti edifici hanno facciate lunghe e continue. Con la fune non serve appoggiare nulla a terra, il lavoro è rapido e il costo contenuto. Anche per ville e villette a più livelli è una soluzione comoda.
 
-*Contattataci, siamo qui a Latina per discutere insieme le vostre esigenze, per risparmiare tempo e denaro utilizzando le nostre tecniche di accesso flessibili e specializzate.*
+## Quando fare manutenzione
+
+Il momento migliore è **fine estate o inizio autunno**, prima delle piogge forti. Sulla costa conviene un secondo controllo a fine inverno.
+
+## Sicurezza
+
+Doppia fune, imbracatura collegata alla fune di sicurezza, operatori formati; area sottostante delimitata, D.Lgs. 81/2008.
+
+## Collegati
+
+Per altre manutenzioni in quota: [pulizia vetri a Latina]({{ '/servizi/pulizia-vetri-latina/' | relative_url }}) e [tetto a Latina]({{ '/servizi/ristrutturazione-e-manutenzione-tetto-latina/' | relative_url }}). Il servizio è presente anche a [Roma]({{ '/servizi/manutenzione-e-sostituzioni-pulizia-grondaie-roma/' | relative_url }}), [Rieti]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-rieti/' | relative_url }}), [Viterbo]({{ '/servizi/grondaie-a-viterbo-vendita-installazione-manutenzione-pulizia/' | relative_url }}) e [Frosinone]({{ '/servizi/pulizia-e-riparazione-grondaie-su-fune-a-frosinone/' | relative_url }}).
+
+**Preventivo gratuito:** [scrivici]({{ '/contatti/' | relative_url }}) con foto e indirizzo.
